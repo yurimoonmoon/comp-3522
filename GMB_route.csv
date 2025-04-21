@@ -1,0 +1,766 @@
+routeNameE,routeId,first_stopNameE,first_coordinates,last_stopNameE,last_coordinates,fullFare,journeyTime,first_stopDistrict,last_stopDistrict,routeDistance
+69,2000410,Cyberport Public Transport Interchange,"(22.261913, 114.13015)",Cyberport Public Transport Interchange,"(22.261913, 114.13015)",14.5,74,Southern District,Southern District,30095
+69x,2000511,Cyberport Public Transport Interchange,"(22.261913, 114.13015)","Lockhart Road, near Cannon Street","(22.280704, 114.183492)",12.5,28,Southern District,Wan Chai,15504
+69a,2000819,Cyberport Public Transport Interchange,"(22.261913, 114.13015)",Cyberport Bus Terminus,"(22.261913, 114.13015)",8.5,15,Southern District,Southern District,11192
+69x,2000961,Cyberport Public Transport Interchange,"(22.261913, 114.13015)","Lockhart Road, near Cannon Street","(22.280704, 114.183492)",12.5,19,Southern District,Wan Chai,19859
+84,2000964,Allway Gardens,"(22.377297, 114.103982)",Tsuen Wan Chung On Street,"(22.369066, 114.116433)",4.4,10,Tsuen Wan,Tsuen Wan,5261
+21a,2000967,"Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)","Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)",4.2,8,Wan Chai,Wan Chai,3199
+21m,2000968,"Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)","Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)",4.8,16,Wan Chai,Wan Chai,5664
+14m,2000970,"Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)","Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)",5.7,15,Wan Chai,Wan Chai,5235
+14m,2000971,"Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)","Near Lee Garden One, Lan Fong Road","(22.278636, 114.184394)",5.7,14,Wan Chai,Wan Chai,4656
+14m,2000972,Causeway Bay Lee Garden Road ,"(22.278473, 114.184026)",Causeway Bay Lee Garden Road ,"(22.278473, 114.184026)",4.2,9,Wan Chai,Wan Chai,1222
+14m,2000973,Causeway Bay Lee Garden Road ,"(22.278473, 114.184026)",Causeway Bay Lee Garden Road ,"(22.278473, 114.184026)",4.2,6,Wan Chai,Wan Chai,976
+89b,2000974,"On Yan Street, near Hang Tai House","(22.326553, 114.229202)","Sheung Yee Road, near Zero Carbon Building","(22.320743, 114.207759)",8.8,21,Kwun Tong ,Kwun Tong ,15836
+43m,2000976,Tai Kok Tsui (Cherry Street) GMB Terminus,"(22.317738, 114.162073)",Tai Kok Tsui (Cherry Street) GMB Terminus,"(22.317738, 114.162073)",4.5,18,Yau Tsim Mong,Yau Tsim Mong,4416
+43m,2000977,Mong Kok (Park Avenue) Terminus,"(22.315282, 114.163354)",Tai Kok Tsui (Cherry Street) GMB Terminus,"(22.317738, 114.162073)",4.5,16,Yau Tsim Mong,Yau Tsim Mong,3265
+43m,2000978,Mong kok (Park Avenue) Terminus,"(22.315282, 114.163354)",Mong kok (Park Avenue) Terminus,"(22.315282, 114.163354)",4.5,15,Yau Tsim Mong,Yau Tsim Mong,3301
+43m,2000981,"Hoi Wang Road, outside Hoi Fu Court","(22.315011, 114.164238)",Mong Kok (Park Avenue) Terminus,"(22.315282, 114.163354)",4.5,7,Yau Tsim Mong,Yau Tsim Mong,2482
+43m,2000982,Mong Kok (Park Avenue) Terminus,"(22.315282, 114.163354)",Mongkok (Park Avenue) Terminus,"(22.315282, 114.163354)",4.5,15,Yau Tsim Mong,Yau Tsim Mong,4171
+43m,2000983,"Yan Cheung Road, outside The Coronation","(22.309105, 114.165674)","Yan Cheung Road, outside The Coronation","(22.309105, 114.165674)",4.5,9,Yau Tsim Mong,Yau Tsim Mong,1076
+43m,2000985,"Hoi Wang Road, outside Hoi Fu Court","(22.315011, 114.164238)","Hoi Ting Road, outside West Kowloon Government Offices","(22.313223, 114.163219)",4.5,6,Yau Tsim Mong,Yau Tsim Mong,1735
+43m,2000986,"Hoi Ting Road, outside Yau Ma Tei Catholic Primary School (Hoi Wang Road)","(22.31287, 114.163879)","Hoi Wang Road, outside Block 3 Charming Garden","(22.314388, 114.16415)",4.5,6,Yau Tsim Mong,Yau Tsim Mong,1027
+901,2000987,HZMB Hong Kong Port,"(22.316136, 113.951051)","First floor, Departure Deck, HZMB Hong Kong Port Passenger Clearance Building","(22.317282, 113.950254)",8.4,40,Islands,Islands,14623
+49m,2000988,Tin Hau Station Bus Terminus,"(22.282672, 114.191459)",Tin Hau Station Bus Terminus,"(22.282672, 114.191459)",6.3,15,Wan Chai,Wan Chai,5960
+49m,2000989,Tin Hau Station Bus Terminus,"(22.282672, 114.191459)",Tin Hau Station Bus Terminus,"(22.282672, 114.191459)",6.3,17,Wan Chai,Wan Chai,6526
+50,2000990,Yiu Tung Estate Bus Terminus,"(22.277509, 114.223323)",Yiu Tung Estate Bus Terminus,"(22.277509, 114.223323)",4.5,11,Eastern,Eastern,2942
+32m,2000992,"Lung Ping Road, outside Beacon Heights","(22.34203, 114.167584)","Lung Ping Road, outside Beacon Heights","(22.34203, 114.167584)",5.1,13,Kowloon City,Kowloon City,4978
+108a,2000993,Choi Ming Public Transport Interchange,"(22.305954, 114.251768)",Hang Hau (North) Public Transport Interchange,"(22.317911, 114.268993)",6.5,20,Sai Kung,Sai Kung,16580
+30b,2000995,"Chak On Road, outside Lai Chak House, Chak On Estate","(22.340522, 114.164711)","Chak On Road, outside Lai Chak House, Chak On Estate","(22.340522, 114.164711)",4.4,9,Sham Shui Po,Sham Shui Po,3678
+30a,2000996,"Chak On Road, outside Fu Chak House, Chak On Estate","(22.33961, 114.164158)","Chak On Road, outside Fu Chak House, Chak On Estate","(22.33961, 114.164158)",7.4,14,Sham Shui Po,Sham Shui Po,7534
+22,2000997,"Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",Central (Exchange Square),"(22.283719, 114.158467)",9.2,19,Southern District,Central and Western,14845
+27m,2000998,"Maidstaone Road, North Of Lok Shan Road","(22.318045, 114.187027)","Fife Street, outside Yau Shing Building","(22.320484, 114.170226)",8.8,12,Kowloon City,Yau Tsim Mong,7555
+22s,2000999,"Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",Central (Central Ferry Piers),"(22.286717, 114.160135)",9.2,19,Southern District,Central and Western,16455
+27m,2001000,"Maidstaone Road, North Of Lok Shan Road","(22.318045, 114.187027)","Fife Street, outside Yau Shing Building","(22.320484, 114.170226)",8.8,14,Kowloon City,Yau Tsim Mong,4051
+27ms,2001001,"Fife Street, outside Yau Shing Building","(22.320484, 114.170226)","Fife Street, outside Yau Shing Building","(22.320484, 114.170226)",5.8,18,Yau Tsim Mong,Yau Tsim Mong,5683
+27ms,2001002,"Fife Street, outside Yau Shing Building","(22.320484, 114.170226)","Fife Street, outside Yau Shing Building","(22.320484, 114.170226)",5.8,20,Yau Tsim Mong,Yau Tsim Mong,5620
+28m,2001003,"Wai King Street, outside Block A, Wei Chien Court","(22.317241, 114.19221)",Fife Street near Sai Yeung Choi Street South,"(22.320438, 114.169935)",8.8,14,Kowloon City,Yau Tsim Mong,7194
+22s,2001004,Central (Central Ferry Piers),"(22.286717, 114.160135)","Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",9.2,22,Central and Western,Southern District,10051
+28ms,2001005,"Wai King Street, outside Block A, Wei Chien Court","(22.317241, 114.19221)","Wai King Street, outside Block A, Wei Chien Court","(22.317241, 114.19221)",5.8,27,Kowloon City,Kowloon City,8302
+29a,2001006,"Suffolk Road, Kowloon Tong Public Transport Interchange","(22.336441, 114.176777)","Suffolk Road, Kowloon Tong Public Transport Interchange","(22.336441, 114.176777)",5.7,13,Kowloon City,Kowloon City,3257
+29b,2001007,"Suffolk Road, Kowloon Tong Public Transport Interchange","(22.336441, 114.176777)","Suffolk Road, Kowloon Tong Public Transport Interchange","(22.336441, 114.176777)",5.7,10,Kowloon City,Kowloon City,2648
+33a,2001008,"Fung Shing Street, outside Hill Top Gardens","(22.341955, 114.211229)",Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",4.8,7,Wong Tai Sin,Wong Tai Sin,4685
+33m,2001010,"Fung Shing Street, outside Hill Top Gardens","(22.341955, 114.211229)","Ching Tak Street, outside Lung Hing House, Lower Wong Tai Sin Estate","(22.34073, 114.19293)",4.8,9,Wong Tai Sin,Wong Tai Sin,5863
+42,2001012,"Tsing Chuen Wai Road, Tsing Chuen Wai","(22.423413, 113.981008)","Tsing Chuen Wai Road, Tsing Chuen Wai","(22.423413, 113.981008)",5.4,35,Tuen Mun,Tuen Mun,10113
+55k,2001013,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Sha Tau Kok Public Transport Interchange,"(22.545552, 114.223597)",11.5,24,North District,North District,24739
+55k,2001015,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Wo Mun Street Public Light Bus Terminus,"(22.500287, 114.144201)",11.5,7,North District,North District,5049
+55k,2001019,Sha Tau Kok Public Transport Interchange,"(22.545552, 114.223597)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",11.5,24,North District,North District,10588
+56a,2001020,"Fanling Station Road, outside Fanling Station","(22.491553, 114.139596)",Wo Mun Street Public Light Bus Terminus,"(22.500287, 114.144201)",3.9,7,North District,North District,2504
+56b,2001023,Public Light Bus (Scheduled) Service Terminus at Fanling Station,"(22.492971, 114.138508)",Public Light Bus (Scheduled) Service Terminus at Fanling Station,"(22.492971, 114.138508)",9.9,19,North District,North District,10627
+56c,2001025,Public Light Bus (Scheduled) Service Terminus at Fanling Station,"(22.493034, 114.138576)",Public Light Bus (Scheduled) Service Terminus at Fanling Station,"(22.493034, 114.138576)",6.7,12,North District,North District,5095
+56k,2001027,Public Light Bus (Scheduled) Service Terminus at Fanling Station,"(22.493043, 114.138391)",Fanling Station Public Light Bus (Scheduled) Service Terminus,"(22.493034, 114.138576)",10.5,24,North District,North District,23123
+56k,2001029,"Sha Tau Kok Road, Man Uk Pin","(22.524419, 114.188325)",Public Light Bus (Scheduled) Service Terminus at Fanling Station,"(22.493043, 114.138391)",8.2,14,North District,North District,6793
+89a,2001031,"On Yan Street, near Hang Tai House","(22.326553, 114.229202)","On Yan Street, near Hang Tai House","(22.326553, 114.229202)",6.1,20,Kwun Tong ,Kwun Tong ,9495
+89c,2001033,On Chui Street GMB Terminus,"(22.32107, 114.234121)",On Chui Street GMB Terminus,"(22.32107, 114.234121)",6.1,13,Kwun Tong ,Kwun Tong ,8328
+89c,2001035,On Chui Street GMB Terminus,"(22.32107, 114.234121)",Ngau Tau Kok Bus Terminus,"(22.322962, 114.216767)",6.1,10,Kwun Tong ,Kwun Tong ,6368
+501a,2001038,Yung Shing Court,"(22.48273, 114.138404)",Yung Shing Court,"(22.48273, 114.138404)",5.4,22,North District,North District,7523
+501k,2001063,"Wai Ming Street, opposite Flora Plaza","(22.48618, 114.140608)","Wai Ming Street, opposite Flora Plaza","(22.48618, 114.140608)",5.4,27,North District,North District,9116
+501c,2001095,Yung Shing Court,"(22.48273, 114.138404)",Yung Shing Court,"(22.48273, 114.138404)",5.4,31,North District,North District,9636
+501s,2001128,"San Fung Avenue, near Shek Wu Hui Post Office","(22.50384, 114.126687)","SAN FUNG AVENUE, near Shek Wu Hui Post Office","(22.503822, 114.126813)",27.0,75,North District,North District,73039
+56,2001129,"Robinson Road, opposite Serene Court","(22.282723, 114.143145)","Marble Road, outside Wah Lai Mansion","(22.292026, 114.201717)",11.0,26,Central and Western,Eastern,21151
+56a,2001130,"Robinson Road, opposite Serene Court","(22.282723, 114.143145)",Tin Hau Station Bus Terminus,"(22.282672, 114.191459)",11.0,24,Central and Western,Wan Chai,14278
+56a,2001131,"Robinson Road, opposite Serene Court","(22.282723, 114.143145)",Pennington Street outside Lee Gardens Two,"(22.278536, 114.185995)",11.0,22,Central and Western,Wan Chai,5576
+56b,2001132,"Robinson Road, opposite Serene Court","(22.282723, 114.143145)",Tin Hau Station Bus Terminus,"(22.282672, 114.191459)",11.0,22,Central and Western,Wan Chai,15213
+56b,2001133,"Robinson Road, opposite Serene Court","(22.282723, 114.143145)","Robinson Road, opposite Serene Court","(22.282723, 114.143145)",11.0,23,Central and Western,Central and Western,8467
+610s,2001161,Tin Shui Commercial Complex,"(22.455121, 113.99885)","Haiphong Road, Junction With Lock Road","(22.298205, 114.171488)",24.0,78,Yuen Long,Yau Tsim Mong,74044
+608,2001194,Wang Toi Shan Playground,"(22.441445, 114.095506)",Wang Toi Shan Playground,"(22.441445, 114.095506)",7.3,41,Yuen Long,Yuen Long,18196
+608,2001195,Wang Toi Shan Playground,"(22.441445, 114.095506)",Wang Toi Shan Playground,"(22.441445, 114.095506)",6.1,19,Yuen Long,Yuen Long,6467
+609,2001196,Yuen Long Stadium,"(22.443198, 114.021976)",Yuen Long Stadium,"(22.443198, 114.021976)",5.1,16,Yuen Long,Yuen Long,6393
+609b,2001197,Long Shin Estate,"(22.442125, 114.044757)",Long Shin Estate,"(22.442125, 114.044757)",5.1,10,Yuen Long,Yuen Long,3940
+609b,2001200,Long Shin Estate,"(22.442125, 114.044757)",Long Shin Estate,"(22.442125, 114.044757)",5.1,9,Yuen Long,Yuen Long,3935
+308m,2001201,Tsing Yi Station,"(22.359471, 114.106243)",Tsing Yi Station,"(22.359471, 114.106243)",9.6,28,Kwai Tsing,Kwai Tsing,20590
+308m,2001204,Tsing Yi Station,"(22.359471, 114.106243)",Tsing Yi Station,"(22.359471, 114.106243)",9.6,34,Kwai Tsing,Kwai Tsing,20590
+308a,2001206,Bellagio,"(22.367239, 114.06146)",Tsing Yi Station,"(22.359471, 114.106243)",9.6,14,Tsuen Wan,Kwai Tsing,10203
+609s,2001208,Long Shin Estate,"(22.442125, 114.044757)",Long Shin Estate,"(22.442125, 114.044757)",5.1,9,Yuen Long,Yuen Long,4845
+609s,2001209,Long Shin Estate,"(22.442125, 114.044757)","Castle Peak Road, Yau San Street","(22.444335, 114.031223)",5.1,10,Yuen Long,Yuen Long,6466
+807k,2001227,University Station Bus Terminus,"(22.412727, 114.2108)",Tseng Tau Tsuen,"(22.426928, 114.268647)",9.3,21,Sha Tin,Sha Tin,17663
+807k,2001228,Tseng Tau Tsuen,"(22.426928, 114.268647)",Wu Kai Sha Station Bus Terminus,"(22.428502, 114.244179)",9.3,6,Sha Tin,Sha Tin,2615
+807k,2001229,"Sai Sha Road, outside Bayshore Towers","(22.425021, 114.231502)",Tseng Tau Tsuen,"(22.426928, 114.268647)",9.3,12,Sha Tin,Sha Tin,9022
+807a,2001230,University Station Bus Terminus,"(22.412727, 114.2108)","Sai Sha Road, outside Bayshore Towers","(22.425021, 114.231502)",5.6,9,Sha Tin,Sha Tin,6335
+807b,2001231,Bayshore Towers Public Transport Interchange,"(22.425536, 114.231337)",Bayshore Towers Bus Terminus,"(22.425536, 114.231337)",7.9,29,Sha Tin,Sha Tin,18089
+807c,2001232,Bayshore Towers Bus Terminus,"(22.425536, 114.231337)",University Station Bus Terminus,"(22.412727, 114.2108)",5.6,9,Sha Tin,Sha Tin,5934
+807x,2001233,University Station Bus Terminus,"(22.412727, 114.2108)",University Station Bus Terminus,"(22.412727, 114.2108)",5.7,19,Sha Tin,Sha Tin,8799
+807s,2001234,University Station Bus Terminus,"(22.412727, 114.2108)",Tseng Tau Tsuen,"(22.426928, 114.268647)",9.3,14,Sha Tin,Sha Tin,19711
+39c,2001260,"Yue On Court Road, Choi On House","(22.243216, 114.156542)","Yue On Court Road, Choi On House","(22.243216, 114.156542)",4.2,11,Southern District,Southern District,5581
+39m,2001261,"Yue On Court Road, opposite Choi On House","(22.243216, 114.156542)",Tin Hau Station Public Transport Interchange,"(22.282672, 114.191459)",9.8,18,Southern District,Wan Chai,15013
+40,2001262,Stanley Beach Road,"(22.219698, 114.213227)",Stanley Beach Road,"(22.219698, 114.213227)",12.3,29,Southern District,Southern District,28729
+40,2001263,"Carmel Road, Stanley Plaza","(22.220096, 114.209463)",Jardine's Bazaar,"(22.279783, 114.184715)",12.3,23,Southern District,Wan Chai,12059
+n40,2001264,Stanley Beach Road,"(22.219698, 114.213227)",Stanley Beach Road,"(22.219698, 114.213227)",16.5,31,Southern District,Southern District,31793
+40x,2001265,"Tung Tau Wan Road, Stanley Prison","(22.21538, 114.217629)",Jardine's Bazaar,"(22.279783, 114.184715)",12.3,25,Southern District,Wan Chai,27051
+403,2001266,Lei Pui Street Bus Terminus,"(22.362688, 114.138446)",Lei Pui Street Bus Terminus,"(22.362688, 114.138446)",12.3,46,Kwai Tsing,Kwai Tsing,24468
+403p,2001267,Lei Pui Street Bus Terminus,"(22.362688, 114.138446)",Lei Pui Street Bus Terminus,"(22.362688, 114.138446)",12.3,37,Kwai Tsing,Kwai Tsing,21882
+403p,2001268,Wai Kek Street outside Shek On House of Shek Lei Estate,"(22.364666, 114.13897)",Lei Pui Street Bus Terminus,"(22.362688, 114.138446)",12.3,36,Kwai Tsing,Kwai Tsing,21287
+403p,2001269,No. 33 Wo Yi Hop Road,"(22.366309, 114.137241)",Lei Pui Street Bus Terminus,"(22.362688, 114.138446)",12.3,32,Kwai Tsing,Kwai Tsing,20730
+403a,2001270,On Yam Estate Bus Terminus,"(22.370374, 114.141745)",On Yam Estate Bus Terminus,"(22.370374, 114.141745)",12.3,34,Kwai Tsing,Kwai Tsing,20634
+403a,2001271,Lei Muk Road near Shek Yam Shopping Centre,"(22.371845, 114.138628)",On Yam Estate Bus Terminus,"(22.370374, 114.141745)",12.3,31,Kwai Tsing,Kwai Tsing,19778
+403x,2001272,Tai Wai Station Bus Terminus,"(22.372789, 114.179302)",Tai Wai Station Bus Terminus,"(22.372789, 114.179302)",12.3,36,Sha Tin,Sha Tin,32945
+403x,2001273,Tai Wai Station Bus Terminus,"(22.372789, 114.179302)",No. 33 Wo Yi Hop Road,"(22.366309, 114.137241)",12.3,22,Sha Tin,Kwai Tsing,17633
+403x,2001274,Layby on Lei Muk Road outside Ning Fung Court,"(22.372035, 114.138551)",Tai Wai Station Bus Terminus,"(22.372789, 114.179302)",12.3,24,Kwai Tsing,Sha Tin,18252
+22k,2001275,Wai Yi Street,"(22.447769, 114.165265)","Kam Shan Road, near Shek Kwu Lung","(22.448653, 114.157279)",3.9,5,Tai Po,Tai Po,12000
+21k,2001276,"Tai Wo Service Road West, outside Wai Tau Tsuen","(22.463841, 114.148708)","Tai Wo Service Road West, outside Wai Tau Tsuen","(22.463841, 114.148708)",6.9,20,Tai Po,Tai Po,7454
+21k,2001277,"Tai Wo Service Road West, outside Wai Tau Tsuen","(22.463841, 114.148708)",Nam Shing Street GMB Stop,"(22.448067, 114.165751)",6.9,6,Tai Po,Tai Po,2895
+21a,2001278,"Tai Po Tau Road, near Tai Po Tau Drive","(22.45399, 114.159426)","Tai Po Tau Drive, Serenity Park Phase 2","(22.45399, 114.159426)",5.2,9,Tai Po,Tai Po,3067
+23k,2001326,"Wun Yiu Road, San Uk Ka","(22.430276, 114.163091)","Wun Yiu Road, San Uk Ka","(22.430276, 114.163091)",5.7,13,Tai Po,Tai Po,4654
+23k,2001327,"Tat Wan Road, Lai Chi Shan","(22.438476, 114.164683)","Tat Wan Road, Lai Chi Shan","(22.438377, 114.164887)",5.7,8,Tai Po,Tai Po,2224
+23k,2001359,"Wun Yiu Road, San Uk Ka","(22.430276, 114.163091)","Wun Yiu Road, San Uk Ka","(22.430276, 114.163091)",5.7,13,Tai Po,Tai Po,4575
+23s,2001360,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)","Wan Tau Street, Wan Tau Square","(22.446793, 114.168112)",6.2,12,Tai Po,Tai Po,6027
+20a,2001361,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",6.5,19,Tai Po,Tai Po,6671
+20x,2001392,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)","Chuen On Road, near Alice Ho Miu Ling Nethersole Hospital","(22.45987, 114.17429)",6.5,6,Tai Po,Tai Po,3183
+56a,2001458,Wo Mun Street Public Light Bus Terminus,"(22.500287, 114.144201)","Fanling Station Road, outside Fanling Station","(22.491553, 114.139596)",3.9,4,North District,North District,204
+56a,2001459,"Wo Muk Road, outside Tower 3, Union Plaza","(22.500503, 114.141528)","Fanling Station Road, outside Fanling Station","(22.491553, 114.139596)",3.9,5,North District,North District,204
+20s,2001460,"Ma Wo Road, Classical Garden","(22.44244, 114.160447)","Ma Wo Road, Classical Garden","(22.44244, 114.160447)",5.2,9,Tai Po,Tai Po,3534
+20p,2001461,Fung Yuen,"(22.465288, 114.180275)",Fung Yuen,"(22.465288, 114.180275)",6.5,16,Tai Po,Tai Po,6169
+20p,2001462,Fung Yuen,"(22.465288, 114.180275)",Fung Yuen,"(22.465288, 114.180275)",6.5,17,Tai Po,Tai Po,7569
+20m,2001463,Fung Yuen,"(22.465288, 114.180275)",Fung Yuen,"(22.465288, 114.180275)",5.9,14,Tai Po,Tai Po,3943
+20k,2001464,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)","Sam Mun Tsai Road, opposite Springdale Garden","(22.456867, 114.213667)",7.2,16,Tai Po,Tai Po,15001
+20k,2001465,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)","Sam Mun Tsai Road, opposite Springdale Garden","(22.456867, 114.213667)",7.2,11,Tai Po,Tai Po,11000
+20k,2001467,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",7.2,16,Tai Po,Tai Po,15014
+20b,2001468,"Tung Tsz Road, outside Tung Tsz Scout Centre","(22.47289, 114.198795)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",8.3,18,Tai Po,Tai Po,8446
+20b,2001469,"Tung Tsz Road, outside Tubg Tsz Scout Centre","(22.47289, 114.198795)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",8.3,20,Tai Po,Tai Po,9291
+20c,2001470,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Mei Tuk Public Transport Interchange,"(22.472286, 114.232997)",8.8,21,Tai Po,Tai Po,21061
+20c,2001471,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Mei Tuk Public Transport Interchange,"(22.472286, 114.232997)",8.8,15,Tai Po,Tai Po,17063
+20c,2001472,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Mei Tuk Public Transport Interchange,"(22.472286, 114.232997)",8.8,24,Tai Po,Tai Po,20834
+20e,2001473,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",8.8,38,Tai Po,Tai Po,19852
+20e,2001474,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",8.8,37,Tai Po,Tai Po,19852
+20r,2001475,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Wu Kau Tang,"(22.507564, 114.243022)",11.7,38,Tai Po,Tai Po,31717
+20t,2001476,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tsz Shan Monastery,"(22.472681, 114.206549)",8.3,12,Tai Po,Tai Po,12329
+20k,2001478,Sam Mun Tsai Road near Sha Lan Road,"(22.45732, 114.210684)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",7.2,17,Tai Po,Tai Po,7622
+56,2001524,Richland Gardens Minibus Terminus,"(22.329548, 114.206266)","Shung Yan Street, outside Nam Wah Mansion","(22.315691, 114.224568)",6.4,8,Kwun Tong ,Kwun Tong,6383
+80m,2001557,Parc Palais access road,"(22.310975, 114.176573)",Parc Palais access road,"(22.310975, 114.176573)",4.6,8,Yau Tsim Mong,Yau Tsim Mong,2400
+82,2001558,Caritas Mother Teresa School,"(22.331406, 114.217924)",Kai Tak,"(22.330696, 114.197783)",4.5,11,Kwun Tong,Kowloon City,5298
+623,2001591,Fung Cheung Road Green Minibus Terminus,"(22.442927, 114.032575)",Fung Cheung Road Green Minibus Terminus,"(22.442927, 114.032575)",4.2,7,Yuen Long,Yuen Long,1668
+405,2001635,"Liu To Road, Cheung Hang Estate Bus Terminus","(22.355485, 114.097498)","Liu To Road, Cheung Hang Estate Bus Terminus","(22.355485, 114.097498)",7.0,26,Kwai Tsing,Kwai Tsing,10042
+43c,2001636,"Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)","Siu Hing Lane, outside Pok Oi Hospital Tuen Mun Nursing Home","(22.384882, 113.975925)",5.8,16,Tuen Mun,Tuen Mun,6606
+43s,2001656,"Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)","Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)",8.5,32,Tuen Mun,Tuen Mun,11228
+301,2001689,"Hoi Shing Road, outside Tsuen Wan Plaza","(22.370391, 114.111005)","Hoi Shing Road, outside Tsuen Wan Plaza","(22.370391, 114.111005)",4.6,11,Tsuen Wan,Tsuen Wan,1994
+43,2001690,"Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)","Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)",8.5,40,Tuen Mun,Tuen Mun,13683
+43a,2001723,"Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)","Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)",6.2,15,Tuen Mun,Tuen Mun,7826
+43b,2001740,"Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)","Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)",9.3,65,Tuen Mun,Tuen Mun,21337
+43,2001741,"Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)","Ho Pong Street, outside Tuen Mun San Hui Market","(22.397633, 113.975849)",8.5,41,Tuen Mun,Tuen Mun,14642
+81k,2001755,Hoi Lai Estate,"(22.332094, 114.147472)",Hoi Lai Estate,"(22.332094, 114.147472)",4.6,16,Sham Shui Po,Sham Shui Po,5978
+413,2001788,Tsing Yi Ferry Pier Terminus,"(22.353205, 114.108606)",Princess Magaret Hospital,"(22.341827, 114.134637)",8.3,22,Kwai Tsing,Kwai Tsing,15941
+806a,2001821,Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",12.8,28,Sha Tin,Sha Tin,33493
+806b,2001823,"On Ming Street, opposite Shek Mun Station","(22.38737, 114.208735)","On Ming Street, opposite Shek Mun Station","(22.38737, 114.208735)",12.8,35,Sha Tin,Sha Tin,38872
+806c,2001825,11 Science Park West Avenue,"(22.425939, 114.210201)",11 Science Park West Avenue,"(22.425939, 114.210201)",9.5,15,Sha Tin,Sha Tin,16424
+29,2001855,"Science Park Road, near Ma Liu Shui Ferry Pier","(22.416149, 114.213909)",Wan Tau Tong Terminus,"(22.442305, 114.166587)",8.3,13,Sha Tin,Tai Po,14147
+404m,2001887,"Hing Ning Road, outside Metroplaza (Kwai Fong Station) ","(22.357005, 114.127264)","Hing Ning Road, outside Metroplaza (Kwai Fong Station) ","(22.357005, 114.127264)",5.9,21,Kwai Tsing,Kwai Tsing,7674
+404m,2001888,"Hing Ning Road, outside Metroplaza (Kwai Fong Station) ","(22.357005, 114.127264)","Hing Ning Road, outside Metroplaza (Kwai Fong Station) ","(22.357005, 114.127264)",5.9,15,Kwai Tsing,Kwai Tsing,3582
+301m,2001889,Tsuen Wan West Station Public Transport Interchange,"(22.368801, 114.109627)",Tsuen Wan West Station Public Transport Interchange,"(22.368801, 114.109627)",4.6,19,Tsuen Wan,Tsuen Wan,6728
+302,2001890,Hong Kong Garden,"(22.362187, 114.044085)",Hong Kong Garden,"(22.362187, 114.044085)",10.1,68,Tsuen Wan,Tsuen Wan,25837
+302,2001891,Bellagio,"(22.3677, 114.061703)",Bellagio,"(22.367546, 114.061402)",7.1,51,Tsuen Wan,Tsuen Wan,16091
+502,2001920,Tai Po Nethersole Hospital,"(22.45987, 114.17429)",Ching Ho Estate Public Transport Interchange,"(22.494602, 114.127798)",13.7,27,Tai Po,North District,54352
+502,2001955,"Wah Ming Road, outside Yan Fai House, Yan Shing Court","(22.486017, 114.139083)",Tai Po Nethersole Hospital,"(22.45987, 114.17429)",13.7,17,North District,Tai Po,24980
+502,2001986,Ching Ho Estate Public Transport Interchange,"(22.494602, 114.127798)",Tai Po Nethersole Hospital,"(22.45987, 114.17429)",13.7,20,North District,Tai Po,35107
+502,2001987,Tai Po Nethersole Hospital,"(22.45987, 114.17429)","Wah Ming Road, outside Cheong Tao House","(22.484076, 114.139297)",13.7,18,Tai Po,North District,12878
+502,2002019,"Tai Po Tai Wo Road, opposite Tai Po Centre","(22.450939, 114.169753)",Ching Ho Estate Public Transport Interchange,"(22.494602, 114.127798)",13.7,24,Tai Po,North District,16215
+25,2002020,Upper Braemar Hill Bus Terminus,"(22.283132, 114.198775)",Upper Braemar Hill Bus Terminus,"(22.283132, 114.198775)",5.6,16,Eastern,Eastern,6599
+24a,2002021,"Drake Street, near MTR exit","(22.279132, 114.164813)","Drake Street, near MTR exit","(22.279132, 114.164813)",5.7,18,Central and Western,Central and Western,5317
+24m,2002052,"No.111 Mount Bulter Road, opposite Block M","(22.271663, 114.196707)","No.111 Mount Bulter Road, opposite Block M","(22.271663, 114.196707)",7.8,26,Wan Chai,Wan Chai,12500
+24m,2002053,"No.111 Mount Bulter Road, opposite Block M","(22.271663, 114.196707)","No.111 Mount Bulter Road, opposite Block M","(22.271663, 114.196707)",7.8,21,Wan Chai,Wan Chai,11116
+18m,2002085,Wong Tai Sin Public Light Bus (Scheduled) Service Terminus,"(22.342969, 114.195183)",Wong Tai Sin Public Light Bus (Scheduled) Service Terminus,"(22.342969, 114.195183)",4.3,6,Wong Tai Sin,Wong Tai Sin,2195
+19,2002087,"Yi Lun Street, outside Pak Lok House","(22.335148, 114.196415)","Yi Lun Street, outside Pak Lok House","(22.335148, 114.196415)",5.8,15,Wong Tai Sin,Wong Tai Sin,10452
+19a,2002091,"Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block","(22.340953, 114.207443)","Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block","(22.340953, 114.207443)",4.0,8,Wong Tai Sin,Wong Tai Sin,3289
+19m,2002092,Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",4.6,14,Wong Tai Sin,Wong Tai Sin,5024
+19s,2002118,Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",4.6,8,Wong Tai Sin,Wong Tai Sin,3418
+19,2002151,Fu Shan Public Transport Interchange,"(22.343969, 114.208007)",Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",5.8,4,Wong Tai Sin,Wong Tai Sin,802
+44m,2002217,Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",4.5,10,Eastern,Eastern,4135
+43m,2002250,"Fung Ha Road, outside Hiu Fung House","(22.260593, 114.231351)","Fung Ha Road, outside Hiu Fung House","(22.260593, 114.231351)",3.2,6,Eastern,Eastern,2237
+9,2002283,Central (Exchange Square),"(22.283719, 114.158467)",Central (Exchange Square),"(22.283719, 114.158467)",8.1,13,Central and Western,Central and Western,5689
+12,2002285,Kwun Lung Lau,"(22.279776, 114.12862)",Kwun Lung Lau,"(22.279776, 114.12862)",5.7,26,Central and Western,Central and Western,6390
+13,2002286,"Ka Wai Man Road, near Sai Wan Estate","(22.281147, 114.125321)","Ka Wai Man Road, near Sai Wan Estate","(22.281147, 114.125321)",4.6,14,Central and Western,Central and Western,4525
+16a,2002287,Chai Wan Station Bus Terminus,"(22.265241, 114.237232)","Chung Hom Kok Road, Cheshire Home","(22.211817, 114.197445)",14.5,25,Eastern,Southern District,23027
+16m,2002289,Chai Wan Station Bus Terminus,"(22.265241, 114.237232)","Chung Hom Kok Road, outside Scape","(22.216141, 114.205127)",14.5,22,Eastern,Southern District,21046
+16x,2002291,Chai Wan Station Bus Terminus,"(22.265241, 114.237232)","Stanley Beach Road, outside Tai Tam Village","(22.219698, 114.213227)",11.0,16,Eastern,Southern District,15925
+18m,2002317,Chai Wan Station Bus Terminus,"(22.264889, 114.237144)",Cape Collinson Correctional Institution,"(22.251246, 114.253563)",8.7,8,Eastern,Southern District,5603
+20,2002319,Sai Wan Ho (Grand Promenade) Public Transport Terminus,"(22.284887, 114.224412)",Sai Wan Ho (Grand Promenade) Public Transport Terminus,"(22.284887, 114.224412)",7.2,27,Eastern,Eastern,10146
+20,2002320,Sai Wan Ho (Grand Promenade) Public Transport Terminus,"(22.284887, 114.224412)",Sai Wan Ho (Grand Promenade) Public Transport Terminus,"(22.284887, 114.224412)",7.2,27,Eastern,Eastern,9431
+33,2002321,"Tai Fung Street, near Tsui Wah House","(22.445923, 114.030036)","Tai Fung Street, near Tsui Wah House","(22.445923, 114.030036)",12.7,24,Yuen Long,Yuen Long,24845
+35,2002325,"Tai fung Street, Near Tung Sing Building","(22.446158, 114.030434)","Tai Fung Street, near Tsui Wah House","(22.446158, 114.030434)",10.2,22,Yuen Long,Yuen Long,21885
+35,2002327,"Tai fung Street, Near Tung Sing Building","(22.446158, 114.030434)","Tai fung Street, Near Tung Sing Building","(22.446158, 114.030434)",5.9,17,Yuen Long,Yuen Long,14398
+12,2002329,"Pak Wan Street, Pak Tin Estate Bus Terminus","(22.337064, 114.16709)",Mongkok East Station,"(22.322073, 114.172196)",6.2,9,Sham Shui Po,Yau Tsim Mong,5981
+12a,2002331,Mongkok East Station,"(22.322073, 114.172196)","Chung Wui Street, outside Chung Wo Building","(22.322461, 114.16149)",5.7,5,Yau Tsim Mong,Yau Tsim Mong,2200
+12b,2002333,Mongkok East Station,"(22.322073, 114.172196)",Metro Harbourview,"(22.324167, 114.160568)",5.7,6,Yau Tsim Mong,Yau Tsim Mong,2397
+12b,2002335,Metro Harbourview,"(22.324167, 114.160568)",152 Sai Yeung Choi Street South,"(22.320258, 114.169857)",5.0,6,Yau Tsim Mong,Yau Tsim Mong,2500
+12s,2002336,Tai Kok Tsui (Cherry Street) GMB Terminus,"(22.317738, 114.162073)",Tai Kok Tsui (Cherry Street) GMB Terminus,"(22.317738, 114.162073)",6.2,25,Yau Tsim Mong,Yau Tsim Mong,6512
+1,2002337,"Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)","Telford Plaza Phase IL, Ground Floor","(22.321744, 114.213253)",10.3,27,Sai Kung,Kwun Tong ,24236
+7,2002339,"Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)","Hoi Ha Road, Entrance Of Hai Ha Village","(22.45998, 114.327983)",13.7,26,Sai Kung,Sai Kung,11215
+2,2002342,"Yi Chun Street, opposite Sai Kung Market","(22.380283, 114.271976)","Ho Chung Road, outside Ho Chung","(22.355101, 114.246921)",5.5,9,Sai Kung,Sai Kung,6754
+2,2002344,Pak Kong,"(22.379071, 114.259051)","Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)",6.9,5,Sai Kung,Sai Kung,7400
+2,2002349,"Yi Chun Street, opposite Sai Kung Market","(22.380283, 114.271976)","Yi Chun Street, opposite Sai Kung Market","(22.380283, 114.271976)",6.9,22,Sai Kung,Sai Kung,9130
+109m,2002350,"Pung Loi Road, near Oscar by the Sea Block 5","(22.307319, 114.267249)","Ming Shing Street, opposite East Point City","(22.316125, 114.264643)",4.1,4,Sai Kung,Sai Kung,3113
+1s,2002352,"Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)",Diamond Hill (Choi Hung Road) Public Transport Interchange,"(22.3382, 114.203647)",12.1,21,Sai Kung,Wong Tai Sin,23231
+1a,2002355,"Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)",Diamond Hill (Choi Hung Road) Public Transport Interchange,"(22.3382, 114.203647)",10.3,21,Sai Kung,Wong Tai Sin,23233
+1a,2002357,"Hiram's Highway, outside Hebe Haven Yacht Club","(22.364821, 114.259431)",Diamond Hill (Choi Hung Road) Public Transport Interchange,"(22.3382, 114.203647)",10.3,16,Sai Kung,Wong Tai Sin,9521
+1a,2002358,"Fui Yiu Lane, Lakeside Garden","(22.379888, 114.26883)",Diamond Hill (Choi Hung Road) Public Transport Interchange,"(22.3382, 114.203647)",10.3,19,Sai Kung,Wong Tai Sin,10644
+1a,2002359,Sai Kung North Public Transport Interchange,"(22.384094, 114.271677)",Diamond Hill (Choi Hung Road) Public Transport Interchange,"(22.3382, 114.203647)",10.3,19,Sai Kung,Wong Tai Sin,10644
+34a,2002382,Ha Tsuen (San Sik Road) Minibus Terminus,"(22.450921, 113.990228)",Lau Fau Shan Minibus Terminus,"(22.46762, 113.983997)",7.4,13,Yuen Long,Yuen Long,10480
+20m,2002415,"Hing Man Estate, outside Man Fu House","(22.267699, 114.232644)","Hing Man Estate, outside Man Fu House","(22.267699, 114.232644)",5.1,16,Eastern,Eastern,6884
+20m,2002448,"Hing Man Estate, outside Man Fu House","(22.267699, 114.232644)","Hing Man Estate, outside Man Fu House","(22.267699, 114.232644)",5.1,14,Eastern,Eastern,6184
+9,2002547,Lady MacLehose Holiday Village,"(22.407781, 114.32141)","Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)",7.9,17,Sai Kung,Sai Kung,5512
+9,2002548,Tai Mong Tsai,"(22.387983, 114.302793)","Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)",4.9,10,Sai Kung,Sai Kung,10600
+9a,2002549,Pak Tam Chung Bus Terminus,"(22.397235, 114.319359)","The East Dam, High Island Reservoir","(22.361935, 114.37145)",11.9,18,Sai Kung,Sai Kung,12574
+58,2002580,"Wu Nam Street, outside On Tai Building","(22.247759, 114.155581)",Kennedy Town Station,"(22.281356, 114.12893)",7.5,23,Southern District,Central and Western,19388
+58a,2002582,"Wu Nam Street, outside On Tai Building","(22.247759, 114.155581)",Kennedy Town Station,"(22.281356, 114.12893)",7.5,23,Southern District,Central and Western,19806
+58m,2002614,"Bel-Air on The Peak, Cyberport Road","(22.254825, 114.133771)",Kennedy Town Station,"(22.281356, 114.12893)",7.5,11,Southern District,Central and Western,8913
+58,2002646,"Sha Wan Drive, opposite Maclehose Medical Rehabilitation Centre","(22.269804, 114.123743)",Kennedy Town Station,"(22.281356, 114.12893)",6.4,7,Southern District,Central and Western,3415
+58,2002679,"Sandy Bay Road, The Duchess of Kent Children’s Hospital","(22.271656, 114.12482)","Wu Nam Street, outside On Tai Building","(22.247759, 114.155581)",7.5,12,Southern District,Southern District,10155
+59,2002712,Kennedy Town Station,"(22.281356, 114.12893)",Kennedy Town Station,"(22.281356, 114.12893)",8.5,24,Central and Western,Central and Western,22237
+59b,2002714,"Tung Sing Road, opposite No. 10","(22.248048, 114.155251)","Tung Sing Road, opposite No. 10","(22.248048, 114.155251)",4.5,14,Southern District,Southern District,5551
+59x,2002745,Kennedy Town Station,"(22.281356, 114.12893)",Grantham Hospital,"(22.251345, 114.173033)",10.1,13,Central and Western,Southern District,2099
+59a,2002746,"Tung Sing Road, opposite No. 10","(22.248048, 114.155251)","Tung Sing Road, opposite No. 10","(22.248048, 114.155251)",4.5,7,Southern District,Southern District,6244
+59a,2002748,"Tung Sing Road, opposite No. 10","(22.248048, 114.155251)","Tung Sing Road, opposite No. 10","(22.248048, 114.155251)",4.5,6,Southern District,Southern District,5968
+51s,2002811,Wah Kwai Estate Bus Terminus,"(22.249761, 114.139748)",Wah Kwai Estate Bus Terminus,"(22.249761, 114.139748)",4.1,9,Southern District,Southern District,3130
+51a,2002812,Wah Kwai Estate Bus Terminus,"(22.249761, 114.139748)",Wah Kwai Estate Bus Terminus,"(22.249761, 114.139748)",3.6,7,Southern District,Southern District,2403
+51,2002813,"Tin Wan Estate Road, outside Tin Chak House","(22.252635, 114.150865)","Tin Wan Estate Road, outside Tin Chak House","(22.252635, 114.150865)",3.6,10,Southern District,Southern District,3616
+n51s,2002814,Wah Kwai Estate Bus Terminus,"(22.249761, 114.139748)",Wah Kwai Estate Bus Terminus,"(22.249761, 114.139748)",5.2,12,Southern District,Southern District,4407
+26,2002815,"Chi Kiang Street, near I-Feng Mansions Block B","(22.315191, 114.189074)",Kowloon Station,"(22.305014, 114.162919)",7.5,23,Kowloon City,Yau Tsim Mong,15844
+26w,2002844,Laguna Verde Bus Terminus,"(22.307551, 114.19217)",Laguna Verde Bus Terminus,"(22.307551, 114.19217)",6.0,13,Kowloon City,Kowloon City,6837
+26w,2002845,Laguna Verde Bus Terminus,"(22.307551, 114.19217)",Laguna Verde Bus Terminus,"(22.307551, 114.19217)",6.0,13,Kowloon City,Kowloon City,7010
+26a,2002846,Whampoa Garden Public Transport Interchange,"(22.305158, 114.190888)",Whampoa Garden Public Transport Interchange,"(22.305158, 114.190888)",7.9,21,Kowloon City,Kowloon City,8743
+26h,2002849,"Nightingale Road, near Queen Elizabeth Hospital M Block","(22.308934, 114.173953)","Nightingale Road, near Queen Elizabeth Hospital M Block","(22.308934, 114.173953)",6.0,9,Yau Tsim Mong,Yau Tsim Mong,4386
+26x,2002850,Laguna Verde Bus Terminus,"(22.307551, 114.19217)",Laguna Verde Bus Terminus,"(22.307551, 114.19217)",7.5,17,Kowloon City,Kowloon City,8923
+107,2002910,"Haven Of Hope Road, outside Haven Of Hope Hospital","(22.314179, 114.25647)","Haven Of Hope Road, outside Haven Of Hope Hospital","(22.314179, 114.25647)",8.7,15,Sai Kung,Sai Kung,4961
+115,2002943,Po Lam Public Transport Interchange,"(22.323398, 114.257931)",Tseung Kwan O Industrial Estate (Chun Cheong Street) Terminus,"(22.287222, 114.274543)",9.5,13,Sai Kung,Sai Kung,11849
+106,2002945,Po Lam Public Transport Interchange,"(22.323398, 114.257931)",Kowloon Bay Public Transport Interchange,"(22.322052, 114.207905)",11.4,27,Sai Kung,Kwun Tong ,18710
+106,2003010,Kowloon Bay Public Transport Interchange,"(22.322052, 114.207905)",Po Lam Public Transport Interchange,"(22.323398, 114.257931)",11.4,18,Kwun Tong ,Sai Kung,10482
+23,2003042,Kennedy Town Station,"(22.281356, 114.12893)",Kennedy Town Station,"(22.281356, 114.12893)",7.1,36,Central and Western,Central and Western,11997
+23m,2003043,Kennedy Town Station,"(22.281356, 114.12893)",Kennedy Town Station,"(22.281356, 114.12893)",7.1,13,Central and Western,Central and Western,8903
+22,2003045,"Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",Central (Exchange Square),"(22.283719, 114.158467)",9.2,21,Southern District,Central and Western,18166
+22x,2003048,"Claymore Avenue, Pok Fu Lam Garden","(22.25833, 114.13699)","Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",9.2,17,Southern District,Southern District,15890
+22s,2003050,"Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",Central (Central Ferry Piers),"(22.286717, 114.160135)",9.2,21,Southern District,Central and Western,8939
+22s,2003051,Central (Central Ferry Piers),"(22.286717, 114.160135)","Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",9.2,21,Central and Western,Southern District,10060
+22x,2003075,"Chi Fu Road, outside block no. 14","(22.25833, 114.13699)",Central (Central Ferry Piers),"(22.286717, 114.160135)",9.2,17,Southern District,Central and Western,7786
+27m,2003108,"Tin Kwong Road, Hillville Terrace","(22.318045, 114.187027)","Fife Street, outside Yau Shing Building","(22.320484, 114.170226)",8.8,11,Kowloon City,Yau Tsim Mong,1360
+54,2003174,"Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326174, 114.226377)","Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326527, 114.226882)",9.4,27,Kwun Tong ,Kwun Tong ,12515
+54m,2003177,"Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326527, 114.226882)","Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326527, 114.226882)",5.0,16,Kwun Tong ,Kwun Tong ,6175
+54s,2003179,"Lee On Lane, near Shun Lee Disciplined Services Quarters","(22.331712, 114.2217)","Lee On Lane, near Society of Boy's Centre Shing Tak Centre School","(22.331712, 114.2217)",7.8,17,Kwun Tong ,Kwun Tong ,10138
+482,2003207,"Tam Kon Po Street, outside Sha Tin Town Hall","(22.3819, 114.190197)",Tsuen Wan Market Street,"(22.371667, 114.116986)",16.9,24,Sha Tin,Tsuen Wan,15220
+481,2003209,Shan Mei Street Bus Terminus,"(22.396439, 114.194277)",Tsuen Wan Market Street,"(22.371667, 114.116986)",12.3,19,Sha Tin,Tsuen Wan,11364
+481a,2003211,Tsuen Wan Market Street,"(22.371667, 114.116986)",Sha Tin Central (Tam Kon Po Street),"(22.3819, 114.190197)",12.3,17,Tsuen Wan,Sha Tin,10700
+481x,2003212,Fo Tan (Chun Yeung Estate),"(22.399139, 114.191005)",Tsuen Wan Market Street,"(22.371667, 114.116986)",12.3,18,Sha Tin,Tsuen Wan,12381
+481b,2003214,Tsuen Wan Market Street,"(22.371667, 114.116986)",Tung Lo Wan Hill Road,"(22.381007, 114.180584)",12.3,20,Tsuen Wan,Sha Tin,25024
+101m,2003240,Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.9,20,Sai Kung,Sai Kung,23517
+101m,2003242,Wai Man Road PLB Terminus,"(22.382855, 114.274512)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.9,23,Sai Kung,Sai Kung,11656
+101m,2003243,"Hiram's Highway, outside Hebe Haven Yacht Club","(22.364821, 114.259431)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.9,15,Sai Kung,Sai Kung,7623
+401,2003273,Tsing Yi Ferry Pier Terminus,"(22.353765, 114.109363)",Tsing Yi Ferry Pier Terminus,"(22.353765, 114.109363)",8.2,20,Kwai Tsing,Kwai Tsing,15074
+402s,2003306,"Liu To Road, Cheung Hang Estate Bus Terminus","(22.355485, 114.097498)","Chung On Street, near KOLOUR I","(22.370918, 114.117588)",9.9,22,Kwai Tsing,Tsuen Wan,14874
+401,2003307,Cheung On Bus Terminus,"(22.361511, 114.102844)",Shek Yam Bus Terminus,"(22.370355, 114.139095)",8.2,12,Kwai Tsing,Kwai Tsing,3971
+77m,2003339,Kowloon Station GMB Terminus,"(22.305014, 114.162919)",Kowloon Station GMB Terminus,"(22.305014, 114.162919)",7.6,24,Yau Tsim Mong,Yau Tsim Mong,6327
+75,2003372,"Sai Chuen Road, outside Fu Wong House, Fu Cheong Estate","(22.329233, 114.154976)","Sai Chuen Road, outside Fu Wong House, Fu Cheong Estate","(22.329233, 114.154976)",5.2,22,Sham Shui Po,Sham Shui Po,6516
+75a,2003373,Fu Cheong Estate,"(22.329233, 114.154976)",Fu Cheong Estate,"(22.329233, 114.154976)",3.6,8,Sham Shui Po,Sham Shui Po,2002
+63,2003405,South Horizons Bus Terminus,"(22.24271, 114.149247)","Queen Mary Hospital, outside Block K","(22.270917, 114.131029)",7.6,15,Southern District,Southern District,17954
+63a,2003408,"Nam Ning Street, outside Hoi Wun Court","(22.248951, 114.154387)","Nam Ning Street, outside Hoi Wun Court","(22.248951, 114.154387)",4.8,12,Southern District,Southern District,4686
+78,2003438,Tai Kok Tsui (Island Harbourview) Public Transport Interchange,"(22.318541, 114.158812)",Tai Kok Tsui (Island Harbourview) Public Transport Interchange,"(22.318541, 114.158812)",8.3,40,Yau Tsim Mong,Yau Tsim Mong,12025
+78a,2003471,Tai Kok Tsui (Island Harbourview) Public Transport Interchange,"(22.318541, 114.158812)",Peking Road outside Mary Building,"(22.296336, 114.171498)",8.3,19,Yau Tsim Mong,Yau Tsim Mong,4006
+30,2003472,Lan Fong Road No. 2-16 Terminus,"(22.278473, 114.184026)",Lan Fong Road No. 2-16 Terminus,"(22.278473, 114.184026)",5.1,7,Wan Chai,Wan Chai,5514
+37a,2003504,Wong Tai Sin Public Light Bus (Scheduled) Service Terminus,"(22.342969, 114.195183)",Tsz Wan Shan (North) Bus Terminus,"(22.350879, 114.19831)",4.7,7,Wong Tai Sin,Wong Tai Sin,2661
+37m,2003505,Wong Tai Sin Public Light Bus (Scheduled) Service Terminus,"(22.342969, 114.195183)",Wong Tai Sin Public Light Bus (Scheduled) Service Terminus,"(22.342969, 114.195183)",4.7,11,Wong Tai Sin,Wong Tai Sin,2842
+5m,2003537,"Hok Yu Lane, outside Happy Court","(22.319825, 114.177699)","Hok Yu Lane, outside Happy Court","(22.319825, 114.177699)",5.6,7,Kowloon City,Kowloon City,2592
+5m,2003538,"Hok Yu Lane, outside Happy Court","(22.319825, 114.177699)","Hok Yu Lane, outside Happy Court","(22.319825, 114.177699)",5.6,6,Kowloon City,Kowloon City,2951
+5m,2003570,"Hok Yu Lane, outside Happy Court","(22.319825, 114.177699)","Hok Yu Lane, outside Happy Court","(22.319825, 114.177699)",5.6,8,Kowloon City,Kowloon City,3152
+13,2003571,"Broadcast Drive, outside Jumbo Court","(22.34269, 114.18167)","Broadcast Drive, outside Jumbo Court","(22.34269, 114.18167)",8.8,22,Kowloon City,Kowloon City,14709
+13m,2003603,Hung Hom (Hung Luen Road) GMB Terminus,"(22.301655, 114.188685)",Hung Hom (Hung Luen Road) GMB Terminus,"(22.301655, 114.188685)",5.2,9,Kowloon City,Kowloon City,3068
+13a,2003604,"Broadcast Drive, outside Jumbo Court","(22.34269, 114.18167)",Wang Tau Hom South Road outside Wang Shun House,"(22.338599, 114.186611)",4.8,5,Kowloon City,Wong Tai Sin,2842
+13a,2003606,'Lok Fu MTR Station Minibus Terminus ,"(22.337641, 114.188164)","Broadcast Drive, outside Jumbo Court","(22.34269, 114.18167)",4.8,5,Wong Tai Sin,Kowloon City,1916
+54,2003636,Central Ferry Piers,"(22.286717, 114.160135)",Central Ferry Piers,"(22.286717, 114.160135)",8.8,42,Central and Western,Central and Western,17983
+54,2003637,Central Ferry Piers,"(22.286717, 114.160135)",Central Ferry Piers,"(22.286717, 114.160135)",8.8,42,Central and Western,Central and Western,17984
+60k,2003669,Shatin Station,"(22.383318, 114.187653)",Fo Tan Cottage Area,"(22.400259, 114.188567)",6.1,11,Sha Tin,Sha Tin,11946
+60p,2003671,Shatin Station,"(22.383155, 114.187585)",Fo Tan Chun Yeung Estate Public Transport Lay-bys,"(22.399121, 114.190228)",6.1,5,Sha Tin,Sha Tin,7675
+60r,2003673,Shatin Station,"(22.383155, 114.187585)",Sha Tin Racecourse (Penfold Park),"(22.39902, 114.203523)",6.1,6,Sha Tin,Sha Tin,2860
+61m,2003675,"Lung Pak Street, outside Cypress Court, Worldwide Garden","(22.364038, 114.17937)",Kowloon Tong (Suffolk Road) Public Transport Interchange,"(22.336441, 114.176777)",10.5,10,Sha Tin,Kowloon City,5300
+61m,2003677,"Lung Pak Street, outside Cypress Court, Worldwide Garden","(22.364038, 114.17937)",Tai Wai Station Public Transport Interchange,"(22.372789, 114.179302)",5.0,4,Sha Tin,Sha Tin,1000
+62k,2003679,Shatin Station,"(22.383155, 114.187585)","Lok Fung Path, outside Mountainbille Court","(22.401767, 114.196783)",6.1,10,Sha Tin,Sha Tin,10891
+61s,2003681,Bus lay-by at Lok Shun Path outside Royal Ascot,"(22.400384, 114.201221)",Bus lay-by at Lok Shun Path outside Royal Ascot,"(22.39921, 114.200444)",18.8,29,Sha Tin,Sha Tin,15193
+61s,2003683,"Tak Hau Street, outside Tak Wo House, Wo Che Estate","(22.387381, 114.194888)","Tak Hau Street, outside Tak Wo House, Wo Che Estate","(22.387381, 114.194888)",15.3,25,Sha Tin,Sha Tin,12085
+54m,2003685,Kennedy Town Station,"(22.281356, 114.12893)",Kennedy Town Station,"(22.281356, 114.12893)",6.6,8,Central and Western,Central and Western,349
+78,2003702,Lok Ma Chau (San Tin) Public Transport Interchange,"(22.502583, 114.081962)",Lok Ma Chau (San Tin) Public Transport Interchange,"(22.502583, 114.081962)",9.7,31,Yuen Long,Yuen Long,28846
+78a,2003704,Kam Sheung Road Station Public Transport Interchange,"(22.434636, 114.064911)","Pat Heung Road, (near Tai Lam Bus-Bus Interchange) Minibus Terminus","(22.420466, 114.062592)",6.7,8,Yuen Long,Tuen Mun,5000
+54s,2003735,Mount Davis Road opposite Greenery Garden,"(22.274998, 114.128719)",Kennedy Town Station,"(22.281356, 114.12893)",6.5,6,Southern District,Central and Western,349
+54s,2003768,Kennedy Town Station,"(22.281356, 114.12893)",Queen Mary Hospital,"(22.270466, 114.130991)",6.5,10,Central and Western,Southern District,2712
+55,2003771,Queen Mary Hospital,"(22.270673, 114.130651)",Queen Mary Hospital,"(22.270673, 114.130651)",8.5,29,Southern District,Southern District,8862
+102,2003801,Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.8,20,Sai Kung,Sai Kung,24965
+102,2003834,"HONG KEUNG STREET, near Hong Keung House","(22.334751, 114.197327)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.8,19,Wong Tai Sin,Sai Kung,10918
+102b,2003835,"NGAN O ROAD, near Hei Ming House, YUK MING COURT","(22.31458, 114.266719)","NGAN O ROAD, near Hei Ming House, YUK MING COURT","(22.31458, 114.266719)",10.8,28,Sai Kung,Sai Kung,24547
+111,2003867,Po Lam Public Transport Interchange,"(22.323398, 114.257931)",Po Lam Public Transport Interchange,"(22.323398, 114.257931)",10.8,35,Sai Kung,Sai Kung,45282
+102s,2003900,Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",12.9,20,Sai Kung,Sai Kung,23979
+48m,2003902,"Lee Chung Street, near Wah Ha Estate","(22.265106, 114.236407)","Pamela Youde Nethersole Eastern Hospital, outside Main Block","(22.269134, 114.236845)",4.0,6,Eastern,Eastern,3541
+60k,2003903,Shatin Station,"(22.383155, 114.187585)",Wong Chuk Yeung Village,"(22.39793, 114.177826)",8.4,13,Sha Tin,Sha Tin,12476
+44,2003966,Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road),"(22.374355, 113.970115)",Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road),"(22.374355, 113.970115)",18.1,41,Tuen Mun,Tuen Mun,36346
+44a,2003999,Tuen Mun Station Public Transport Interchange,"(22.394551, 113.973668)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",18.1,42,Tuen Mun,North District,32641
+44a,2004001,"King Kwai House, Shan King Estate","(22.396797, 113.964546)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",18.1,35,Tuen Mun,North District,26475
+45,2004032,"Ho Wong Street, outside Tai Hing Gardens Phase I","(22.399905, 113.972379)","Ho Wong Street, outside Tai Hing Gardens Phase I","(22.399905, 113.972379)",3.9,14,Tuen Mun,Tuen Mun,3652
+49s,2004033,"Siu Hong Road, near Siu Hong Court","(22.414368, 113.976981)","Lockhart Road, outside The Broadway","(22.27804, 114.170431)",28.6,74,Tuen Mun,Wan Chai,87149
+44a1,2004036,"Ming Kum Road, outside Po Tin Shopping Centre","(22.409687, 113.967149)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",18.1,35,Tuen Mun,North District,24498
+25k,2004067,Tai Po Market (Wai Yan Street) Terminus,"(22.448834, 114.165246)",Tai Po Market (Wai Yan Street) Terminus,"(22.448834, 114.165246)",6.7,12,Tai Po,Tai Po,12681
+47m,2004068,Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",4.2,11,Eastern,Eastern,4681
+25a,2004070,Tai Po Market (Tsing Yuen Market) Terminus,"(22.449105, 114.165071)",Tai Po Market (Tsing Yuen Market) Terminus,"(22.449105, 114.165071)",6.7,23,Tai Po,Tai Po,10621
+47m,2004071,Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",4.2,9,Eastern,Eastern,3745
+47m,2004072,Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",4.2,6,Eastern,Eastern,2131
+47s,2004074,Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",Chai Wan Station Public Transport Interchange,"(22.26497, 114.237047)",4.2,14,Eastern,Eastern,3854
+25a,2004075,Tai Hang Village Office ,"(22.46963, 114.150708)",Tai Po Market (Tsing Yuen Market) Terminus,"(22.449105, 114.165071)",6.7,7,Tai Po,Tai Po,3574
+47e,2004076,"Pamela Youde Nethersole Eastern Hospital, outside Main Block","(22.269134, 114.236845)",Siu Sai Wan Phase III,"(22.262319, 114.250309)",8.2,14,Eastern,Eastern,3460
+5m,2004077,Wong Chuk Hang Station,"(22.248193, 114.167891)",Grantham Hospital,"(22.251345, 114.173033)",4.9,2,Southern District,Southern District,1400
+25b,2004078,Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.44692, 114.165663)",Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.446956, 114.165683)",7.2,23,Tai Po,Tai Po,15539
+25b,2004080,Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.44692, 114.165663)",Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.446956, 114.165683)",7.2,21,Tai Po,Tai Po,11154
+5,2004081,"Nam Ning Street, outside Hoi Tsing Court","(22.248932, 114.153883)","Nam Ning Street, outside Hoi Tsing Court","(22.248932, 114.153883)",11.0,22,Southern District,Southern District,21145
+25b,2004082,Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.44692, 114.165663)",Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.446956, 114.165683)",7.2,20,Tai Po,Tai Po,10724
+25b,2004083,Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.44692, 114.165663)",Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus,"(22.446956, 114.165683)",7.2,23,Tai Po,Tai Po,13719
+61,2004084,"Siu Sai Wan Road, outside Tower 3, Island Resort","(22.266049, 114.250389)","Fife Street, outside Yau Shing Building","(22.320484, 114.170226)",25.0,46,Eastern,Yau Tsim Mong,42299
+8,2004085,Near Baguio Villa Block 17,"(22.261968, 114.131906)",Central (Exchange Square),"(22.283719, 114.158467)",11.1,18,Southern District,Central and Western,5885
+n4a,2004086,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)","Near President Theatre, Cannon Street","(22.281462, 114.18355)",11.7,15,Southern District,Wan Chai,9696
+8x,2004087,Near Baguio Villa Block 17,"(22.261968, 114.131906)",Near Baguio Villa Block 17,"(22.261968, 114.131906)",11.1,16,Southern District,Southern District,10543
+47e,2004088,Siu Sai Wan Phase III,"(22.262319, 114.250309)",Siu Sai Wan Phase III,"(22.262319, 114.250309)",8.2,25,Eastern,Eastern,8815
+n4c,2004089,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)","Near President Theatre, Cannon Street","(22.281462, 114.18355)",11.7,17,Southern District,Wan Chai,11342
+62,2004090,Heng Fa Chuen Public Transport Interchange,"(22.275309, 114.241205)",Heng Fa Chuen Public Transport Interchange,"(22.275309, 114.241205)",4.3,13,Eastern,Eastern,4885
+62a,2004091,Siu Sai Wan (Island Resort) Public Transport Interchange,"(22.266401, 114.250544)",Siu Sai Wan (Island Resort) Public Transport Interchange,"(22.266401, 114.250544)",4.3,11,Eastern,Eastern,3837
+35m,2004092,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)","Johnston Road, outside Methodist House","(22.277335, 114.170082)",10.2,19,Southern District,Wan Chai,18309
+n4x,2004093,"Near President Theatre, Cannon Street","(22.281462, 114.18355)","Near President Theatre, Cannon Street","(22.281462, 114.18355)",11.7,23,Wan Chai,Wan Chai,8036
+4a,2004095,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)","Near President Theatre, Cannon Street","(22.281462, 114.18355)",10.2,21,Southern District,Wan Chai,17689
+4b,2004096,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)",Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)",10.2,35,Southern District,Southern District,16875
+4c,2004097,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)","Near President Theatre, Cannon Street","(22.281462, 114.18355)",10.2,17,Southern District,Wan Chai,11832
+4m,2004098,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)",Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)",4.9,9,Southern District,Southern District,5521
+4s,2004099,Shek Pai Wan Estate Public Transport Interchange,"(22.250089, 114.1572)",Shek Pai Wan Estate Public Transport Interchange,"(22.250089, 114.1572)",3.3,8,Southern District,Southern District,2911
+4m,2004100,"Nam Ning Street, outside Hoi Ying Court","(22.248951, 114.154387)","Nam Ning Street, outside Hoi Ying Court","(22.248951, 114.154387)",4.9,6,Southern District,Southern District,2947
+4m,2004131,Shek Pai Wan Estate Public Transport Interchange,"(22.249809, 114.157385)",Wong Chuk Hang Station,"(22.248193, 114.167891)",4.9,3,Southern District,Southern District,731
+44b,2004164,Lok Ma Chau (San Tin) Public Transport Interchange,"(22.502962, 114.081961)",Tuen Mun Station Public Transport Interchange,"(22.394551, 113.973668)",15.7,35,Yuen Long,Tuen Mun,26920
+n44b,2004165,Lok Ma Chau Control Point,"(22.50797, 114.075067)",Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road),"(22.374355, 113.970115)",15.7,48,Yuen Long,Tuen Mun,59657
+44b1,2004197,Lok Ma Chau (San Tin) Public Transport Interchange,"(22.502962, 114.081961)",Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road),"(22.374355, 113.970115)",15.7,32,Yuen Long,Tuen Mun,29248
+59s,2004230,"Tung Sing Tung Sing Road, outside Goodview Centre","(22.248048, 114.155251)","Tung Sing Tung Sing Road, outside Goodview Centre","(22.248048, 114.155251)",6.4,9,Southern District,Southern District,5764
+312,2004263,Lei Muk Shue Estate Public Transport Interchange,"(22.377552, 114.136782)",Lei Muk Shue Estate Public Transport Interchange,"(22.377552, 114.136782)",7.5,16,Tsuen Wan,Tsuen Wan,7288
+313,2004296,Tso Kung Street Public Light Bus (Scheduled) Service Terminus,"(22.373101, 114.111965)",Princess Magaret Hospital,"(22.34142, 114.134773)",9.2,24,Tsuen Wan,Kwai Tsing,13422
+94,2004329,Shek Tau Kok Estate,"(22.375724, 114.123538)",Shek Tau Kok Estate,"(22.375724, 114.123538)",7.2,23,Kwai Tsing,Kwai Tsing,15206
+94s,2004330,Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",Shing Mun Reservoir,"(22.384606, 114.14383)",7.5,15,Tsuen Wan,Tsuen Wan,4800
+94a,2004331,Lei Muk Shue Estate Public Transport Interchange,"(22.377669, 114.136345)",Lei Muk Shue Estate Public Transport Interchange,"(22.377552, 114.136782)",7.2,17,Tsuen Wan,Tsuen Wan,10666
+9m,2004362,Pak Wan Street ,"(22.336531, 114.167653)",Pak Wan Street ,"(22.336522, 114.16773)",4.2,7,Sham Shui Po,Sham Shui Po,2173
+62s,2004395,Kwong Tin Estate Bus Terminus,"(22.302572, 114.241169)","Haiphong Road, opposite Hoiphong Mansion","(22.298169, 114.17175)",14.3,35,Kwun Tong ,Yau Tsim Mong,27322
+63,2004396,Kwong Tin Estate Bus Terminus,"(22.302681, 114.241363)",Kwong Tin Estate Bus Terminus,"(22.302681, 114.241363)",5.9,20,Kwun Tong ,Kwun Tong ,9402
+59,2004397,"Tsui Ping (South) Estate, outside Tsui Chung House","(22.313078, 114.234351)","Tsui Ping (South) Estate, outside Tsui Chung House","(22.313078, 114.234351)",4.5,14,Kwun Tong,Kwun Tong,3742
+59m,2004398,"Tsui Ping (South) Estate, outside Tsui Chung House","(22.313059, 114.234448)","Tsui Ping (South) Estate, outside Tsui Chung House","(22.313078, 114.234351)",3.5,5,Kwun Tong,Kwun Tong,1709
+88,2004428,"SHING KAI ROAD, near Po Leung Kuk Stanley Ho Sau Nan Primary School","(22.332176, 114.204646)","SHING KAI ROAD, near Po Leung Kuk Stanley Ho Sau Nan Primary School","(22.332104, 114.204655)",4.9,21,Kowloon City,Kowloon City,8094
+503,2004461,Queen's Hill,"(22.503016, 114.16184)",North District Hospital,"(22.496751, 114.125222)",7.9,27,North District,North District,12540
+504,2004462,Wa Shan Tsuen Access Road,"(22.515808, 114.134594)","Chi Cheong Road, near Sheung Shui Centre Block No. 6","(22.500906, 114.130575)",4.8,5,North District,North District,3499
+57m,2004463,"Nanking Street, outside David House (Jordan Station)","(22.306206, 114.171964)","QUEEN ELIZABETH HOSPITAL ROAD, near Queen Elizabeth Hospital Block K","(22.308798, 114.175535)",4.9,2,Yau Tsim Mong,Yau Tsim Mong,1524
+26,2004527,"Lee Garden Road, outside Phoenix Apartments","(22.278302, 114.183929)","Lee Garden Road, outside Phoenix Apartments","(22.278302, 114.183929)",7.5,22,Wan Chai,Wan Chai,18528
+44m,2004593,"NGONG SHUNG ROAD near Hoi Hong Lau, Government Dockyard","(22.32262, 114.140156)",Cheung Sha Wan (Cheung Shun Street) Terminus,"(22.336465, 114.147578)",6.5,7,Sham Shui Po,Sham Shui Po,5830
+310m,2004594,Tsing Yi Station GMB Terminus,"(22.359471, 114.106243)",Tsing Yi Station GMB Terminus,"(22.359471, 114.106243)",5.3,18,Kwai Tsing,Kwai Tsing,6149
+44m,2004595,"NGONG SHUNG ROAD near Hoi Hong Lau, Government Dockyard","(22.32262, 114.140156)",D2 Place One,"(22.336122, 114.148491)",6.5,6,Sham Shui Po,Sham Shui Po,1747
+140m,2004598,Sam Shing Bus Terminus,"(22.382293, 113.977609)",Tsing Yi Station GMB Terminus,"(22.359471, 114.106243)",14.6,25,Tuen Mun,Kwai Tsing,37197
+44a,2004599,Cheung Sha Wan Plaza Minibus Terminus,"(22.337098, 114.148733)",Cheung Sha Wan Plaza Minibus Terminus,"(22.337098, 114.148733)",3.9,4,Sham Shui Po,Sham Shui Po,2063
+44a,2004626,Cheung Sha Wan Plaza Minibus Terminus,"(22.337098, 114.148733)",Cheung Sha Wan Plaza Minibus Terminus,"(22.337071, 114.148646)",4.0,11,Sham Shui Po,Sham Shui Po,4075
+44s,2004627,Hoi Lai Estate,"(22.332094, 114.147472)",Hoi Lai Estate,"(22.332094, 114.147472)",4.8,18,Sham Shui Po,Sham Shui Po,3363
+16,2004629,"Ngau Chi Wan Street opposite Fung Chak House, Choi Wan Estate","(22.334729, 114.218265)","Ngau Chi Wan Street opposite Fung Chak House, Choi Wan Estate","(22.334801, 114.218226)",3.8,6,Wong Tai Sin,Wong Tai Sin,2377
+16a,2004630,"Fung Shing Street, outside Fung Shing Street Disciplined Services Quarters","(22.338369, 114.214131)","Fung Shing Street, outside Fung Shing Street Disciplined Services Quarters","(22.338414, 114.214102)",4.3,9,Wong Tai Sin,Wong Tai Sin,3721
+16s,2004631,"Fung Shing Street, outside Aria","(22.339534, 114.213316)","Fung Shing Street, outside Aria","(22.339579, 114.213277)",4.3,7,Wong Tai Sin,Wong Tai Sin,3395
+16b,2004632,"Fung Shing Street, Scenic View","(22.337421, 114.214645)",Ping Shek Public Transport Interchange 1/F,"(22.334044, 114.210092)",4.3,6,Wong Tai Sin,Kwun Tong ,1087
+38m,2004659,"Wing Chuk Street, outside Cheung Yuen House, Chuk Yuen North Estate","(22.34678, 114.194378)",Wong Tai Sin Public Light Bus (Scheduled) Service Terminus,"(22.342969, 114.195183)",4.8,6,Wong Tai Sin,Wong Tai Sin,2499
+39m,2004660,Lok Fu MTR Station Minibus Terminus,"(22.337641, 114.188164)",'Lok Fu MTR Station Minibus Terminus ,"(22.337641, 114.188164)",4.8,14,Wong Tai Sin,Wong Tai Sin,3882
+39m,2004661,Lok Fu MTR Station Minibus Terminus,"(22.337641, 114.188164)",'Lok Fu MTR Station Minibus Terminus ,"(22.337641, 114.188164)",4.8,15,Wong Tai Sin,Wong Tai Sin,4399
+809k,2004692,Sha Tin Station (Pai Tau Street),"(22.384239, 114.187915)",Sha Tin Station (Pai Tau Street),"(22.384239, 114.187915)",5.6,15,Sha Tin,Sha Tin,5511
+79k,2004725,Mong Kok (Park Avenue) Terminus,"(22.315282, 114.163354)",Mong Kok (Park Avenue) Terminus,"(22.315291, 114.163422)",5.2,25,Yau Tsim Mong,Yau Tsim Mong,4973
+808,2004758,Kam Ying Court Bus Terminus,"(22.423385, 114.237096)",Kam Ying Court Bus Terminus,"(22.423385, 114.237096)",8.1,18,Sha Tin,Sha Tin,25655
+79m,2004759,"King Tung Street, Kingsford Terrace","(22.3406, 114.210064)","King Tung Street, Kingsford Terrace","(22.3406, 114.210064)",4.0,6,Wong Tai Sin,Wong Tai Sin,3672
+79s,2004760,"King Tung Street, Kingsford Terrace","(22.3406, 114.210064)","King Tung Street, Kingsford Terrace","(22.340736, 114.210219)",4.0,8,Wong Tai Sin,Wong Tai Sin,2263
+808p,2004761,Heng On Estate Bus Terminus,"(22.418041, 114.228498)",Prince of Wales Hospital,"(22.381285, 114.20149)",8.7,12,Sha Tin,Sha Tin,21531
+616s,2004762,"Sai Yeung Choi Street South, near Pioneer Centre","(22.32229, 114.169187)",Lok Ma Chau Control Point,"(22.50797, 114.075067)",25.0,37,Yau Tsim Mong,Yuen Long,38986
+12,2004763,Po Lam Public Transport Interchange,"(22.323398, 114.257931)",Po Lam Public Transport Interchange,"(22.323398, 114.257931)",7.7,32,Sai Kung,Sai Kung,14892
+12,2004764,"Fuk Man Road Public Light Bus Terminus, outside King Wah Building","(22.38161, 114.273424)",Po Lam Public Transport Interchange,"(22.323398, 114.257931)",12.3,35,Sai Kung,Sai Kung,39969
+11,2004791,"Ting Wo Lane, near Hang Hau Village","(22.32054, 114.26651)","Lung Cheung Road, outside Hung Ngok House, Choi Hung Estate ","(22.336691, 114.206637)",8.1,21,Sai Kung,Wong Tai Sin,25338
+11a,2004824,"Ting Wo Lane, near Hang Hau Village","(22.32054, 114.26651)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",3.7,2,Sai Kung,Sai Kung,446
+11m,2004825,Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",6.0,10,Sai Kung,Sai Kung,4719
+11s,2004826,Po Lam Public Transport Interchange,"(22.323398, 114.257931)","Lung Cheung Roa,outside Hung Ngok House, Choi Hung Estate ","(22.336691, 114.206637)",9.8,24,Sai Kung,Wong Tai Sin,27243
+11b,2004827,Hong Kong University of Science and Technology (North Station),"(22.33855, 114.262066)",Hong Kong University of Science and Technology (North Station),"(22.33855, 114.262066)",8.1,11,Sai Kung,Sai Kung,10758
+11b,2004828,Hong Kong University of Science and Technology (South Station),"(22.333131, 114.262878)","Lung Cheung Road, outside Hung Ngok House, Choi Hung Estate ","(22.336691, 114.206637)",8.1,13,Sai Kung,Wong Tai Sin,6969
+59,2004857,"Tsui Ping (South) Estate, outside Tsui Chung House","(22.313078, 114.234351)","Tsui Ping (South) Estate, outside Tsui Chung House","(22.313059, 114.234448)",4.5,12,Kwun Tong,Kwun Tong,3257
+808,2004891,Kam Ying Court Bus Terminus,"(22.423385, 114.237096)",Kam Ying Court Bus Terminus,"(22.423385, 114.237096)",4.0,3,Sha Tin,Sha Tin,955
+808,2004892,"Sai Sha Road, outside Sunshine City","(22.424551, 114.231764)",Prince of Wales Hospital,"(22.381285, 114.20149)",6.1,13,Sha Tin,Sha Tin,8073
+808,2004893,"Hang Hong Street, outside Tsang Pik Shan Secondary School","(22.421906, 114.228781)",Prince of Wales Hospital,"(22.381285, 114.20149)",6.1,12,Sha Tin,Sha Tin,7423
+41,2004923,Lung Mun Oasis PTI,"(22.384834, 113.965943)",Tuen Mun Town Centre (Tuen Fat Road),"(22.392533, 113.977468)",7.0,12,Tuen Mun,Tuen Mun,10485
+40,2004956,Siu Hang Tsuen Minibus Terminus,"(22.414055, 113.971736)",Siu Hang Tsuen Minibus Terminus,"(22.413973, 113.971727)",6.5,23,Tuen Mun,Tuen Mun,7270
+20,2004989,"Hong Keung Street, outside On Keung Building","(22.334363, 114.19655)","Hong Keung Street, outside On Keung Building","(22.334399, 114.196599)",6.1,18,Wong Tai Sin,Wong Tai Sin,5700
+20m,2004990,"Hong Keung Street, outside On Keung Building","(22.334363, 114.19655)","Ching Tak Street, outside Wong Tai Sin Shopping Centre","(22.341208, 114.194309)",4.5,6,Wong Tai Sin,Wong Tai Sin,2106
+44m,2005022,D2 Place One,"(22.336122, 114.148491)","NGONG SHUNG ROAD near Hoi Hong Lau, Government Dockyard","(22.32262, 114.140156)",6.5,7,Sham Shui Po,Sham Shui Po,2246
+97a,2005055,"WAH KING HILL ROAD, near Wonderland Villas Commercial Complex","(22.351824, 114.137284)","CHEUNG FAT STREET, near Hang Seng Castle Peak Road Building","(22.338273, 114.156101)",8.0,11,Kwai Tsing,Tuen Mun,6435
+410,2005056,Princess Margaret Hospital Block K,"(22.341411, 114.134637)",Lei Muk Road near Shek Yam Shopping Centre,"(22.371845, 114.138628)",10.6,19,Kwai Tsing,Kwai Tsing,10561
+88,2005088,Tsing Yi Estate Minibus Terminus,"(22.353736, 114.103188)",Tsing Yi Estate Minibus Terminus,"(22.353736, 114.103188)",5.7,11,Kwai Tsing,Kwai Tsing,8793
+88b,2005121,"FUNG SHUE WO ROAD, near Greenfield Garden Block 7","(22.353097, 114.108324)","FUNG SHUE WO ROAD, near Greenfield Garden Block 7","(22.353097, 114.108324)",5.7,13,Kwai Tsing,Kwai Tsing,7839
+114a,2005122,Tseung Kwan O MTR Station Minibus Terminus,"(22.30875, 114.260485)",Tseung Kwan O MTR Station Minibus Terminus,"(22.308668, 114.260524)",4.3,6,Sai Kung,Sai Kung,1805
+114a,2005155,Tseung Kwan O MTR Station Minibus Terminus,"(22.30875, 114.260485)",Tseung Kwan O MTR Station Minibus Terminus,"(22.308668, 114.260524)",4.3,9,Sai Kung,Sai Kung,3254
+114b,2005187,Tiu Keng Leng MTR Station Minibus Terminus,"(22.30506, 114.25234)",Tiu Keng Leng MTR Station Minibus Terminus,"(22.304997, 114.252408)",4.3,6,Sai Kung,Sai Kung,2649
+52,2005220,"YUE FAI ROAD, near Aberdeen Main Road","(22.248463, 114.155862)","YUE FAI ROAD, near Aberdeen Main Road","(22.248463, 114.155862)",10.1,23,Southern District,Southern District,23092
+20x,2005221,"Choi Tip Street, near Ban Tip House","(22.461576, 114.173503)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",6.5,6,Tai Po,Tai Po,2314
+26a,2005222,The Education University of Hong Kong Minibus Terminus,"(22.466244, 114.193518)",The Education University of Hong Kong Minibus Terminus,"(22.466226, 114.193431)",7.0,28,Tai Po,Tai Po,8504
+26,2005253,The Education University of Hong Kong Minibus Terminus,"(22.466488, 114.193693)",Ma On Shan (Bayshore Towers) Minibus Terminus,"(22.425726, 114.231104)",15.0,32,Tai Po,Sha Tin,31417
+26,2005254,"西沙路, 新港城外	Sai Sha Road, outside Sunshine City","(22.424615, 114.231308)",The Education University of Hong Kong Minibus Terminus,"(22.466488, 114.193693)",15.0,23,Sha Tin,Tai Po,15690
+52,2005286,"Tung Tau Wan Road, Stanley Prison","(22.21538, 114.217629)","YUE FAI ROAD, near Aberdeen Main Road","(22.248463, 114.155862)",10.1,24,Southern District,Southern District,13182
+52,2005287,"Cape Road, Chun Ma House","(22.222192, 114.205982)","YUE FAI ROAD, near Aberdeen Main Road","(22.248463, 114.155862)",10.1,16,Southern District,Southern District,10415
+52,2005288,"CARMEL ROAD, near Stanley Plaza","(22.219897, 114.209551)","YUE FAI ROAD, near Aberdeen Main Road","(22.248463, 114.155862)",10.1,17,Southern District,Southern District,10665
+37,2005289,"PING LAN STREET, near Fa Chau Mansion","(22.244436, 114.157036)","PING LAN STREET, near Fa Chau Mansion","(22.24449, 114.157017)",5.8,19,Southern District,Southern District,5034
+36x,2005290,"PING LAN STREET, near Fa Chau Mansion","(22.244436, 114.157036)","Jardine's Bazaar, near Tang Lung Chau Market","(22.279304, 114.185617)",10.0,17,Southern District,Wan Chai,17046
+45a,2005291,"First Street, near Centre Street Market","(22.28648, 114.142164)","First Street, near Centre Street Market","(22.286489, 114.142222)",6.3,20,Central and Western,Central and Western,5402
+45s,2005292,"First Street, near Centre Street Market","(22.28648, 114.142164)","First Street, near Centre Street Market","(22.286489, 114.142222)",6.3,17,Central and Western,Central and Western,4829
+66,2005293,"Oi Yin Street, outside Block 8, Aldrich Garden","(22.281509, 114.228302)","Oi Yin Street, outside Block 8, Aldrich Garden","(22.281509, 114.228302)",7.2,19,Eastern,Eastern,8918
+66a,2005294,"Oi Yin Street, outside Block 8, Aldrich Garden","(22.281509, 114.228302)","Oi Yin Street, outside Block 8, Aldrich Garden","(22.281509, 114.228302)",7.2,15,Eastern,Eastern,6711
+68,2005295,"Aldrich Garden, outside Block 10","(22.281752, 114.228584)","Aldrich Garden, outside Block 10","(22.281698, 114.228584)",5.7,14,Eastern,Eastern,6098
+86,2005319,Cruise Terminal,"(22.305588, 114.214142)",Cruise Terminal,"(22.305561, 114.21418)",6.4,18,Kowloon City,Kowloon City,7792
+50a,2005322,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)","KWU TUNG ROAD, near LADY HO TUNG WELFARE CENTRE","(22.502231, 114.098921)",7.0,14,North District,North District,10197
+50k,2005323,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Hang Tau Minibus Terminus,"(22.491739, 114.102416)",7.0,12,North District,North District,9437
+51k,2005325,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",7.4,14,North District,North District,25442
+812,2005326,"Pok Chuen Street, outside Yan Chuen House","(22.371984, 114.198527)","Che Kung Miu Road, opposite Hin Keng Shopping Centre","(22.363912, 114.171486)",5.9,14,Sha Tin,Sha Tin,9032
+51k,2005327,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",8.5,32,North District,North District,28499
+812,2005328,Shui Chuen O Public Transport Interchange,"(22.374657, 114.198032)","Che Kung Miu Road, opposite Hin Keng Shopping Centre","(22.363912, 114.171486)",5.9,12,Sha Tin,Sha Tin,4305
+812a,2005329,"Pok Chuen Street, outside Yan Chuen House","(22.371984, 114.198527)","Pok Chuen Street, outside Yan Chuen House","(22.371938, 114.198527)",4.1,6,Sha Tin,Sha Tin,2567
+812a,2005330,Pok Chuen Path,"(22.372047, 114.19941)","Yat Tai Street, outside Sha Tin Wai Station","(22.376797, 114.194896)",4.1,4,Sha Tin,Sha Tin,1348
+51b,2005331,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",9.5,18,North District,North District,26033
+813,2005332,"Pok Chuen Street, outside Yan Chuen House","(22.371984, 114.198527)","On Ming Street, near Shek Mun Estate","(22.387523, 114.20891)",5.9,8,Sha Tin,Sha Tin,6822
+51b,2005333,"MA TSO LUNG ROAD, near MA TSO LUNG SHUN YEE SAN TSUEN","(22.522729, 114.098326)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",8.3,19,North District,North District,7508
+813a,2005334,"Pok Chuen Street, outside Yan Chuen House","(22.371984, 114.198527)","Pok Chuen Street, outside Yan Chuen House","(22.371938, 114.198527)",5.9,22,Sha Tin,Sha Tin,9346
+51b,2005353,"MA TSO LUNG ROAD, near Tung Wah Group of Hospitals Ma Tso Lung Campsite","(22.51099, 114.099072)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",7.2,13,North District,North District,4250
+74,2005385,Kowloon Station,"(22.305014, 114.162919)",Kowloon Station,"(22.305041, 114.16286)",7.0,33,Yau Tsim Mong,Yau Tsim Mong,10886
+74s,2005386,Kowloon Station,"(22.305014, 114.162919)",Kowloon Station,"(22.305041, 114.16286)",7.0,29,Yau Tsim Mong,Yau Tsim Mong,10576
+101m,2005451,"Hiram's Highway, outside Lakeside Garden","(22.380728, 114.268714)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.9,19,Sai Kung,Sai Kung,8172
+101m,2005452,"Hiram's Highway, near Po Lo Che","(22.378553, 114.265586)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.9,17,Sai Kung,Sai Kung,8172
+101m,2005453,"Hiram's Highway, outside Marina Cove","(22.359758, 114.252612)",Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)",10.9,13,Sai Kung,Sai Kung,6326
+20b,2005484,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)","Tung Tsz Road, outside Tung Tsz Scout Centre","(22.47289, 114.198795)",8.3,19,Tai Po,Tai Po,8644
+81,2005517,Tsuen Wan (Shiu Wo Street),"(22.372065, 114.117694)",Tsuen Wan (Shiu Wo Street),"(22.372065, 114.117694)",6.2,11,Tsuen Wan,Tsuen Wan,3547
+81,2005550,Tsuen Wan (Shiu Wo Street),"(22.372065, 114.117694)",Tsuen Wan (Shiu Wo Street),"(22.372065, 114.117694)",6.2,19,Tsuen Wan,Tsuen Wan,6243
+81m,2005551,Tsuen Wan (Shiu Wo Street),"(22.371713, 114.118306)",Tsuen Wan (Shiu Wo Street),"(22.371713, 114.118306)",4.2,8,Tsuen Wan,Tsuen Wan,1440
+82,2005583,Tsuen Wan (Shiu Wo Street),"(22.372065, 114.117694)",Tsuen Wan (Shiu Wo Street),"(22.372065, 114.117694)",6.2,14,Tsuen Wan,Tsuen Wan,4589
+82m,2005616,Tsuen Wan (Shiu Wo Street),"(22.371713, 114.118306)",Tsuen Wan (Shiu Wo Street),"(22.371713, 114.118306)",4.8,10,Tsuen Wan,Tsuen Wan,5636
+90p,2005649,"MEI LAI ROAD, near Mei Foo Bus Terminus","(22.337033, 114.140696)","PRINCESS MARGARET HOSPITAL ROAD, near Princess Margaret Hospital Block G","(22.340788, 114.134637)",5.5,6,Sham Shui Po,Kwai Tsing,2850
+90a,2005650,"MEI LAI ROAD, near Mei Foo Bus Terminus","(22.337033, 114.140696)",Kwai Chung Hospital ,"(22.341881, 114.134511)",5.5,7,Sham Shui Po,Kwai Tsing,2568
+91a,2005651,"LAI KONG STREET, near Princess Margaret Hospital Lai King Building","(22.350305, 114.130557)","HING NING ROAD, near Metroplaza","(22.357213, 114.127526)",6.2,13,Kwai Tsing,Kwai Tsing,3519
+91a,2005682,"LAI KONG STREET, near Princess Margaret Hospital Lai King Building","(22.350305, 114.130557)","KWAI SHING CIRCUIT, near Hong Kong Institute of Vocational Education (Kwai Chung)","(22.362477, 114.127533)",5.4,17,Kwai Tsing,Kwai Tsing,4663
+91,2005683,"LAI KONG STREET, near Princess Margaret Hospital Lai King Building","(22.350305, 114.130557)","HAM TIN STREET, near Bo Shek Mansion Block 3","(22.368723, 114.117385)",6.9,13,Kwai Tsing,Tsuen Wan,7287
+33m,2005684,"HONG SHING STREET, near Kornhill Block B","(22.279986, 114.214038)","HONG SHING STREET, near Kornhill Block B","(22.279986, 114.214038)",3.9,3,Eastern,Eastern,892
+33,2005685,"HONG SHING STREET, near Kornhill Recreation Club","(22.280131, 114.214009)","HONG SHING STREET, near Kornhill Recreation Club","(22.280131, 114.214009)",5.6,8,Eastern,Eastern,5474
+41m,2005686,Festival Walk,"(22.336892, 114.175409)",Festival Walk,"(22.336919, 114.175312)",4.7,13,Kowloon City,Kowloon City,5443
+41a,2005687,Festival Walk,"(22.336892, 114.175409)",Festival Walk,"(22.336919, 114.175312)",4.7,12,Kowloon City,Kowloon City,4577
+32a,2005688,"HONG PAK PATH, near Mt Parker Lodge Block A","(22.280962, 114.212932)","HONG PAK PATH, near Mt Parker Lodge Block A","(22.280962, 114.212932)",3.9,9,Eastern,Eastern,2272
+32,2005689,"HONG SHING STREET, near Kornhill Recreation Club","(22.280131, 114.214009)","HONG SHING STREET, near Kornhill Recreation Club","(22.280131, 114.214009)",5.6,9,Eastern,Eastern,6468
+42,2005690,"YU CHAU WEST STREET, near Hang Fat Industrial Building","(22.339328, 114.150199)","Chak On Road, outside Lai Chak House, Chak On Estate","(22.340522, 114.164711)",6.8,12,Sham Shui Po,Sham Shui Po,5998
+46,2005715,FU TAI ESTATE,"(22.413273, 113.982499)",FU TAI ESTATE,"(22.413174, 113.982509)",5.2,19,Tuen Mun,Tuen Mun,7185
+46x,2005748,FU TAI ESTATE,"(22.413273, 113.982499)",FU TAI ESTATE,"(22.413174, 113.982509)",5.2,17,Tuen Mun,Tuen Mun,7244
+46a,2005749,"KING FUNG PATH, near Noble Place Block 2","(22.405462, 113.982383)","KING FUNG PATH, near Noble Place Block 2","(22.405435, 113.982345)",5.2,16,Tuen Mun,Tuen Mun,4550
+22a,2005782,Lok Wah Minibus Terminus,"(22.320767, 114.22061)",Lok Wah Minibus Terminus,"(22.320767, 114.220523)",6.1,18,Kwun Tong ,Kwun Tong ,5864
+22a,2005783,Lok Wah Minibus Terminus,"(22.320767, 114.22061)",Lok Wah Minibus Terminus,"(22.320767, 114.220523)",6.1,29,Kwun Tong ,Kwun Tong ,8397
+35,2005814,"Choi Hei Road, outside Choi Yuet House, Choi Ha Estate","(22.326348, 114.217739)","Choi Hei Road, outside Choi Yuet House, Choi Ha Estate","(22.326348, 114.217739)",4.4,11,Kwun Tong ,Kwun Tong ,7606
+411,2005847,"LAI KONG STREET, near Highland Park Block 1","(22.349899, 114.130625)","LAI KONG STREET, near Highland Park Block 1","(22.349899, 114.130625)",9.4,37,Kwai Tsing,Kwai Tsing,12031
+72,2005880,"Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block","(22.340953, 114.207443)","Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block","(22.340953, 114.207443)",7.5,14,Wong Tai Sin,Wong Tai Sin,10542
+36a,2005913,"Hong Lee Road, outside St. Catherine's School For Girls, Kwun Tong","(22.318979, 114.220075)","Hong Lee Road, outside St. Catherine's School For Girls, Kwun Tong","(22.318979, 114.220075)",4.1,9,Kwun Tong ,Kwun Tong ,2210
+36a,2005914,"Hong Lee Road, outside St. Catherine's School For Girls, Kwun Tong","(22.318979, 114.220075)","Hong Lee Road, outside St. Catherine's School For Girls, Kwun Tong","(22.318979, 114.220075)",4.1,12,Kwun Tong ,Kwun Tong ,2955
+34m,2005946,"Sau Lai Street, outside Hiu Lai Shopping Centre","(22.32071, 114.229734)","Sau Lai Street, outside Hiu Lai Shopping Centre","(22.320656, 114.229782)",4.1,13,Kwun Tong ,Kwun Tong ,2405
+34s,2005947,Sau Mau Ping (Upper) Bus Terminus,"(22.314955, 114.236001)",Sau Mau Ping (Upper) Bus Terminus,"(22.314946, 114.236079)",4.1,15,Kwun Tong ,Kwun Tong ,3057
+34s,2005949,"Hiu Kwong Street, outside Hiu Kwong Court","(22.318082, 114.23081)","Hiu Kwong Street, outside Hiu Shun House, Hiu Lai Court","(22.318994, 114.229578)",4.1,11,Kwun Tong ,Kwun Tong ,2040
+88d,2005979,Tivoli Garden Minibus Terminus,"(22.354469, 114.107421)","HING NING ROAD, near Metroplaza","(22.357213, 114.127526)",5.3,12,Kwai Tsing,Kwai Tsing,12189
+60,2006012,Ping Tin Public Transport Interchange,"(22.307252, 114.235639)",Ping Tin Public Transport Interchange,"(22.307325, 114.235649)",5.7,21,Kwun Tong ,Kwun Tong ,9218
+25a,2006045,Kowloon Tong (Suffolk Road) Public Transport Interchange,"(22.336441, 114.176777)",Tung Tau Estate (Tung Lung Road) Minibus Terminus,"(22.333469, 114.192871)",6.9,16,Kowloon City,Kowloon City,7102
+25b,2006078,San Po Kong (The Latitude) Minibus Terminus,"(22.333848, 114.196997)",San Po Kong (The Latitude) Minibus Terminus,"(22.333848, 114.196997)",7.9,15,Wong Tai Sin,Wong Tai Sin,8900
+25m,2006079,Kowloon Tong (Suffolk Road) Public Transport Interchange,"(22.336441, 114.176777)",Tung Tau Estate (Tung Lung Road) Minibus Terminus,"(22.333469, 114.192871)",6.9,15,Kowloon City,Kowloon City,8858
+25m,2006111,Kowloon Tong (Suffolk Road) Public Transport Interchange,"(22.336441, 114.176777)","LA SALLE ROAD, near Beverly Villas Block 6","(22.32732, 114.181961)",6.9,6,Kowloon City,Kowloon City,547
+25ms,2006112,Kowloon Tong (Suffolk Road) Public Transport Interchange,"(22.336441, 114.176777)",Kowloon Tong (Suffolk Road) Public Transport Interchange,"(22.336351, 114.176826)",5.6,11,Kowloon City,Kowloon City,2401
+64a,2006244,"TAI WAI NEW VILLAGE ROAD, near TAI WAI NEW VILLAGE","(22.374613, 114.174175)","TSUEN NAM ROAD, near Tai Wai Station","(22.373439, 114.178457)",4.1,6,Sha Tin,Sha Tin,1363
+3,2006276,"ASHLEY ROAD, near PEKING ROAD SITTING-OUT AREA","(22.295659, 114.170732)","ASHLEY ROAD, near PEKING ROAD SITTING-OUT AREA","(22.295659, 114.170732)",7.5,22,Yau Tsim Mong,Yau Tsim Mong,9349
+59k,2006277,Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",Lin Ma Hang Minibus Terminus,"(22.552341, 114.181629)",9.9,25,North District,North District,19438
+59k,2006279,Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",9.1,22,North District,North District,18708
+59k,2006281,Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",9.1,19,North District,North District,15443
+3,2006283,"ASHLEY ROAD, near PEKING ROAD SITTING-OUT AREA","(22.295659, 114.170732)","Chung Wui Street, outside Chung Wo Building","(22.322461, 114.16149)",7.5,9,Yau Tsim Mong,Yau Tsim Mong,3319
+8,2006309,"HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)","HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)",8.0,18,Yau Tsim Mong,Yau Tsim Mong,13449
+8,2006312,"HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)","CHUNG HAU STREET, near Cascades Block 2","(22.315571, 114.179835)",8.0,16,Yau Tsim Mong,Kowloon City,11093
+8,2006314,"HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)","SHEUNG WO STREET, near Chan Sui Ki (La Salle) College","(22.319355, 114.183076)",8.0,17,Yau Tsim Mong,Kowloon City,6774
+8s,2006315,"HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)","HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)",8.0,16,Yau Tsim Mong,Yau Tsim Mong,12430
+8s,2006317,"HANKOW ROAD, near Kai Seng Commercial Centre","(22.29592, 114.171294)",Ho Man Tin Estate Public Transport Interchange,"(22.31782, 114.180961)",8.0,14,Yau Tsim Mong,Kowloon City,6241
+8m,2006318,"SHEUNG WO STREET, near Chan Sui Ki (La Salle) College","(22.319355, 114.183076)","CHUNG HAU STREET, near Ho Man Tin Station","(22.309051, 114.181116)",5.5,8,Kowloon City,Kowloon City,4531
+52a,2006342,"Fanling Station Road, outside Fanling Station","(22.491553, 114.139596)",Wo Mun Street Public Light Bus Terminus,"(22.500287, 114.144201)",3.9,7,North District,North District,3961
+52a,2006343,Wo Mun Street Public Light Bus Terminus,"(22.500287, 114.144201)","Fanling Station Road, outside Fanling Station","(22.491553, 114.139596)",3.9,4,North District,North District,231
+52k,2006375,"FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER","(22.493034, 114.138508)","PING CHE ROAD, near Lee Uk Tsuen","(22.533303, 114.152047)",6.6,22,North District,North District,12090
+1,2006408,The Peak Galleria (Bus Terminus under),"(22.270082, 114.149882)",The Peak Galleria (Bus Terminus under),"(22.270082, 114.149882)",11.8,26,Central and Western,Central and Western,12842
+1a,2006441,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)",Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)",5.7,18,Central and Western,Central and Western,4427
+2,2006474,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)",Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)",7.5,22,Central and Western,Central and Western,8050
+2,2006475,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)",Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)",7.5,19,Central and Western,Central and Western,6082
+28,2006476,Baguio Villa (Upper) Minibus Terminus,"(22.262267, 114.134224)","Sun Wui Road, near Capital Building","(22.277678, 114.184676)",11.5,33,Southern District,Wan Chai,22637
+28,2006507,Baguio Villa (Upper) Minibus Terminus,"(22.262267, 114.134224)","SUN WUI ROAD, near Capital Building","(22.277678, 114.184676)",10.6,21,Southern District,Wan Chai,11049
+28s,2006508,Baguio Villa (Upper) Minibus Terminus,"(22.262267, 114.134224)","Sun Wui Road, near Capital Building","(22.277678, 114.184676)",11.5,20,Southern District,Wan Chai,9014
+28m,2006509,Baguio Villa (Upper) Minibus Terminus,"(22.262267, 114.134224)",Baguio Villa (Upper) Minibus Terminus,"(22.262267, 114.134224)",8.5,18,Southern District,Southern District,7251
+3,2006510,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)","Po Shan Road, near Po Shan Mansions Block A","(22.280303, 114.141341)",7.6,16,Central and Western,Central and Western,8545
+3,2006511,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)","PO SHAN ROAD, near Po Shan Mansions Block A","(22.280303, 114.141341)",7.6,13,Central and Western,Central and Western,4794
+3a,2006540,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)","Kotewall Road, near Hatton House","(22.280727, 114.138983)",7.6,15,Central and Western,Central and Western,7996
+3a,2006541,Hong Kong Station Minibus Terminus,"(22.285914, 114.158447)","KOTEWALL ROAD, near Hatton House","(22.280727, 114.138983)",7.6,12,Central and Western,Central and Western,3042
+52k,2006542,"FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER","(22.493034, 114.138508)","PING YUEN ROAD, near Ping Yeung Old Village Public Toilet","(22.535138, 114.162662)",7.4,20,North District,North District,11051
+52k,2006543,"FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER","(22.493034, 114.138508)",KWAN TEI (NORTH),"(22.512696, 114.155978)",6.2,14,North District,North District,7629
+52b,2006573,"FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER","(22.493034, 114.138508)","FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER","(22.493034, 114.138508)",6.6,17,North District,North District,9803
+31,2006574,Hong King Street Terminus,"(22.443934, 114.027619)","HONG KING STREET, near Lee King Building","(22.443934, 114.027619)",5.9,20,Yuen Long,Yuen Long,7224
+31,2006575,Hong King Street Terminus	,"(22.443934, 114.027619)",Hong King Street Terminus	,"(22.443934, 114.027619)",5.9,19,Yuen Long,Yuen Long,8429
+31a,2006576,Ping Hong Lane,"(22.440369, 114.011264)",Ping Hong Lane,"(22.440369, 114.011264)",5.9,12,Yuen Long,Yuen Long,7050
+32,2006577,Yuen Long Station,"(22.446271, 114.035447)",Yuen Long Station,"(22.446271, 114.035447)",6.4,11,Yuen Long,Yuen Long,10542
+105,2006606,"Ko Shan Road, outside Ko Shan Theatre","(22.314279, 114.186677)","Ko Shan Road, outside Ko Shan Theatre","(22.314279, 114.186677)",11.5,29,Kowloon City,Kowloon City,33597
+15,2006609,Hang Hau (North) Public Transport Interchange,"(22.317911, 114.268993)","Hong Sing Garden Bus Terminus, outside King Ling College","(22.318659, 114.253726)",5.2,15,Sai Kung,Sai Kung,16754
+15,2006610,Tsui Lam Indoor Creation Centre,"(22.322319, 114.249447)",Tsui Lam Indoor Creation Centre,"(22.322319, 114.249447)",5.2,15,Sai Kung,Sai Kung,6229
+15a,2006611,Hang Hau (North) Public Transport Interchange,"(22.317911, 114.268993)","Mau Tai Road, outside Block 2, Verbena Heights","(22.322108, 114.256348)",5.2,12,Sai Kung,Sai Kung,6478
+15a,2006612,"Po Ning Lane, near Tseung Kwan O Hospital","(22.318823, 114.268828)",Po Lam Public Transport Interchange,"(22.323398, 114.257931)",6.7,7,Sai Kung,Sai Kung,2490
+15m,2006639,"Mau Yip Road, near Po Lam Station","(22.322767, 114.257416)","Hong Sing Garden Bus Terminus, outside King Ling College","(22.318659, 114.253726)",5.1,6,Sai Kung,Sai Kung,7945
+15m,2006640,"Hong Sing Garden Bus Terminus, outside King Ling College","(22.318659, 114.253726)","Mau Yip Road, near Po Lam Station","(22.322767, 114.257416)",5.1,5,Sai Kung,Sai Kung,1831
+16,2006641,Po Lam Public Transport Interchange,"(22.323398, 114.257931)","Po Toi O Chuen Road, near Po Toi O","(22.274285, 114.295618)",10.4,26,Sai Kung,Sai Kung,24091
+16,2006672,"Chung Wa Road, opposite Block 6, East Point City","(22.3171, 114.26575)","Clear Water Bay Road, near Tai Au Mun","(22.296359, 114.291483)",10.4,14,Sai Kung,Sai Kung,12066
+17,2006673,Tsui Lam Bus Terminus,"(22.322933, 114.249186)",Tsui Lam Bus Terminus,"(22.322933, 114.249186)",7.5,13,Sai Kung,Sai Kung,11684
+17a,2006674,"Mau Yip Road, near Po Lam Station","(22.322767, 114.257416)","Po Hong Road, opposite Tseung Kwan O Village","(22.327466, 114.250576)",4.5,5,Sai Kung,Sai Kung,2455
+17m,2006675,"Mau Yip Road, near Po Lam Station","(22.322767, 114.257416)",Tsui Lam Bus Terminus,"(22.322933, 114.249186)",4.5,6,Sai Kung,Sai Kung,2940
+17m,2006676,Tsui Lam Bus Terminus,"(22.322933, 114.249186)","Mau Yip Road, near Po Lam Station","(22.322767, 114.257416)",4.5,5,Sai Kung,Sai Kung,351
+17m,2006677,"SAI YEUNG CHOI STREET SOUTH, near Cheung Ling Mansion","(22.323807, 114.169129)","SAI YEUNG CHOI STREET SOUTH, near Cheung Ling Mansion","(22.323807, 114.169129)",5.9,19,Yau Tsim Mong,Yau Tsim Mong,3976
+87,2006678,"HAM TIN STREET, near Shek Pik Resettlers' Playground, Tsuen Wan","(22.368199, 114.117065)","HAM TIN STREET, near Shek Pik Resettlers' Playground, Tsuen Wan","(22.368154, 114.117045)",5.4,9,Tsuen Wan,Tsuen Wan,4903
+17m,2006679,Kowloon Hospital Main Block,"(22.32369, 114.179815)","Tung Choi Street, outside Mong Kok Police Station","(22.324674, 114.169391)",5.9,6,Kowloon City,Yau Tsim Mong,2523
+87a,2006680,Container Port Road Public Transport Interchange Minibus Terminus,"(22.354548, 114.126614)",Container Port Road Public Transport Interchange Minibus Terminus,"(22.354548, 114.126614)",6.4,12,Kwai Tsing,Kwai Tsing,16229
+87m,2006681,"HING NING ROAD, near Kwai Chung Plaza","(22.357312, 114.12772)","HING NING ROAD, near Kwai Chung Plaza","(22.357312, 114.12772)",6.1,8,Kwai Tsing,Kwai Tsing,4512
+87k,2006705,"HING NING ROAD, near Metroplaza","(22.357493, 114.127797)",Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",5.4,14,Kwai Tsing,Tsuen Wan,11002
+10,2006706,"JAFFE ROAD, near Siu On Plaza","(22.280948, 114.182473)",Cyberport Bus Terminus,"(22.262383, 114.130072)",14.0,28,Wan Chai,Southern District,27214
+31,2006738,Tin Wan Estate Minibus Terminus,"(22.250584, 114.149536)",Tin Wan Estate Minibus Terminus,"(22.250584, 114.149536)",12.4,47,Southern District,Southern District,25335
+10p,2006739,"JAFFE ROAD, near Siu On Plaza","(22.280948, 114.182473)",Cyberport Bus Terminus,"(22.262383, 114.130072)",14.0,21,Wan Chai,Southern District,24487
+n31,2006772,Tin Wan Estate Minibus Terminus,"(22.250584, 114.149536)",Tin Wan Estate Minibus Terminus,"(22.250584, 114.149536)",17.7,34,Southern District,Southern District,25333
+102,2006804,Hang Hau Station Public Transport Interchange,"(22.315846, 114.264245)","HONG KEUNG STREET, near Hong Keung House","(22.334751, 114.197327)",10.8,18,Sai Kung,Wong Tai Sin,16229
+406,2006837,"Shek Pai Street, near Shek On House, Shek Lei (I) Estate","(22.364133, 114.138815)","Shek Pai Street, near Shek On House, Shek Lei (I) Estate","(22.364133, 114.138815)",9.6,29,Kwai Tsing,Kwai Tsing,11566
+407,2006870,Cheung Wang Estate Minibus Terminus,"(22.357354, 114.096157)","Princess Margaret Hospital Road, near Princess Margaret Hospital Block P","(22.340797, 114.1342)",11.0,24,Kwai Tsing,Kwai Tsing,17514
+407,2006903,"Tam Kon Shan Road, near CNEC Lui Ming Choi Primary School","(22.362124, 114.101883)","Princess Margaret Hospital Road, near Princess Margaret Hospital Block P","(22.340797, 114.1342)",11.0,18,Kwai Tsing,Kwai Tsing,5337
+407a,2006904,"Hing Ning Road, near Metroplaza","(22.357032, 114.127516)","Princess Margaret Hospital Road, near Princess Margaret Hospital Block P","(22.340797, 114.1342)",6.2,7,Kwai Tsing,Kwai Tsing,2541
+407b,2006906,Cheung Wang Estate Minibus Terminus,"(22.357354, 114.096157)","KWAI SHING CIRCUIT, near Hong Kong Institute of Vocational Education (Kwai Chung)","(22.362423, 114.12765)",7.7,11,Kwai Tsing,Kwai Tsing,4953
+407b,2006907,"Tam Kon Shan Road, near CNEC Lui Ming Choi Primary School","(22.362124, 114.101883)","Kwai Shing Circuit, near Hong Kong Institute of Vocational Education (Kwai Chung)","(22.362423, 114.12765)",7.7,7,Kwai Tsing,Kwai Tsing,7000
+69,2006936,Laguna City Minibus Terminus,"(22.306758, 114.228593)","Lion Rock Road, near 70 Lion Rock Road","(22.329839, 114.18826)",8.9,12,Kwun Tong ,Kowloon City,16027
+76a,2006969,Kwong Tin Estate Minibus Terminus,"(22.302753, 114.241324)",Kwong Tin Estate Minibus Terminus,"(22.302753, 114.241324)",6.6,27,Kwun Tong ,Kwun Tong ,13705
+76b,2007002,United Christian Hospital Minibus Terminus,"(22.322833, 114.226988)",United Christian Hospital Minibus Terminus,"(22.322833, 114.226988)",6.6,15,Kwun Tong ,Kwun Tong ,10722
+69,2007035,Laguna City Minibus Terminus,"(22.307173, 114.229078)","Lion Rock Road, near 70 Lion Rock Road","(22.329839, 114.18826)",8.9,13,Kwun Tong ,Kowloon City,8994
+69a,2007068,Laguna City Minibus Terminus,"(22.307173, 114.229078)","Tung Choi Street, outside Mong Kok Police Station","(22.324674, 114.169391)",9.7,17,Kwun Tong ,Yau Tsim Mong,19235
+103,2007134,Clear Water Bay Second Beach,"(22.286952, 114.287128)",Kwun Tong Ferry Pier Light Bus Terminus,"(22.307609, 114.222159)",11.1,28,Sai Kung,Kwun Tong,24848
+103,2007167,Kwun Tong Ferry Pier Light Bus Terminus,"(22.307609, 114.222159)",Clear Water Bay Second Beach,"(22.286952, 114.287128)",11.1,25,Kwun Tong,Sai Kung,7690
+69a,2007168,Laguna City Minibus Terminus,"(22.307173, 114.229078)","Tung Choi Street, outside Mong Kok Police Station","(22.324674, 114.169391)",9.7,17,Kwun Tong ,Yau Tsim Mong,9911
+69,2007169,Laguna City Minibus Terminus,"(22.307173, 114.229078)","Sheung Yee Road, near Modular Integrated Construction Display Centre, Zero Carbon Building","(22.32067, 114.207808)",5.5,7,Kwun Tong ,Kwun Tong ,4125
+104,2007200,Hong Kong University of Science and Technology (South Station),"(22.333636, 114.263742)",Hong Kong University of Science and Technology (South Station),"(22.333636, 114.263742)",8.8,38,Sai Kung,Sai Kung,19115
+103m,2007201,Tseung Kwan O Station Public Transport Interchange,"(22.308569, 114.260397)",Tseung Kwan O Station Public Transport Interchange,"(22.308569, 114.260397)",9.9,21,Sai Kung,Sai Kung,16366
+46,2007233,"Kai Yan Street, near SKH Kowloon Bay Kei Lok Primary School","(22.329051, 114.206683)","Kai Yan Street, near SKH Kowloon Bay Kei Lok Primary School","(22.329051, 114.206683)",8.3,26,Kwun Tong ,Kwun Tong ,19963
+46,2007234,"Sham Mong Road, near Chung Yew Building","(22.322524, 114.159859)","Kai Yan Street, near SKH Kowloon Bay Kei Lok Primary School","(22.329051, 114.206683)",8.3,17,Yau Tsim Mong,Kwun Tong ,7945
+99,2007266,Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",Riviera Gardens,"(22.362924, 114.1143)",4.2,8,Tsuen Wan,Tsuen Wan,7147
+48,2007267,"Lee On Road, near Lee Ming House, Shun Lee Estate","(22.332406, 114.225117)"," Lee On Road, near Lee Ming House, Shun Lee Estate","(22.332406, 114.225117)",7.8,29,Kwun Tong ,Kwun Tong ,10613
+49,2007299,"Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326527, 114.226882)","Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326527, 114.226882)",8.2,32,Kwun Tong ,Kwun Tong ,15422
+49m,2007300,"Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326427, 114.227183)","Shun On Road, near Tin Wing House, Shun Tin Estate","(22.326427, 114.227183)",5.0,17,Kwun Tong ,Kwun Tong ,4994
+48,2007332,"Lee On Road, near Lee Ming House, Shun Lee Estate","(22.332406, 114.225117)","Shun On Road, near Shun Tin Estate","(22.32584, 114.228396)",6.7,16,Kwun Tong ,Kwun Tong ,5031
+112m,2007365,LOHAS Park Station Public Transport Interchange,"(22.296436, 114.268455)",Tseung Kwan O Industrial Estate,"(22.28326, 114.270183)",5.2,12,Sai Kung,Sai Kung,8801
+112a,2007366,LOHAS Park Station Public Transport Interchange,"(22.296436, 114.268455)","Shek Kok Road, near The Beaumount","(22.297075, 114.273851)",3.9,6,Sai Kung,Sai Kung,3040
+112s,2007367,Tseung Kwan O Station Public Transport Interchange,"(22.308569, 114.260397)",Tseung Kwan O Industrial Estate,"(22.28326, 114.270183)",7.0,13,Sai Kung,Sai Kung,10810
+113,2007368,"Shek Kok Road, near The Beaumount II","(22.297075, 114.273851)","Shek Kok Road, near The Beaumount II","(22.297075, 114.273851)",6.5,19,Sai Kung,Sai Kung,7355
+75,2007398,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","UNNAMED ACCESS ROAD, near Lok Ma Chau Station","(22.514963, 114.06645)",10.0,27,Yuen Long,Yuen Long,24392
+75,2007431,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","Ha Wan Tsuen East Road, near Ha Wan Tsuen Basketball Court","(22.515094, 114.074382)",8.2,26,Yuen Long,Yuen Long,25498
+54a,2007432,"Fanling Station Road, Outside Fanling Station","(22.491553, 114.139596)",Wo Mun Street Public Light Bus Terminus,"(22.500287, 114.144201)",3.9,7,North District,North District,2707
+66s,2007433,Ping Ting Road,"(22.339924, 114.207957)",Ping Ting Road,"(22.339924, 114.207957)",13.0,19,Wong Tai Sin,Wong Tai Sin,14822
+54a,2007434,Wo Mun Street Public Light Bus Terminus,"(22.50044, 114.144337)","Fanling Station Road, Outside Fanling Station","(22.491553, 114.139596)",3.9,4,North District,North District,231
+54k,2007435,Fanling Station Public Light Bus (Scheduled) Service Terminus,"(22.492853, 114.138615)",Fanling Station Public Light Bus (Scheduled) Service Terminus,"(22.492853, 114.138615)",5.6,23,North District,North District,6616
+75,2007436,"Ha Wan Tsuen East Road, near Ha Wan Tsuen Basketball Court","(22.515094, 114.074382)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",8.2,22,Yuen Long,Yuen Long,11650
+75,2007437,"Castle Peak Road - San Tin, near Tung Shan Temple","(22.498571, 114.077921)","UNNAMED ACCESS ROAD, near Lok Ma Chau Station","(22.514963, 114.06645)",6.0,8,Yuen Long,Yuen Long,2364
+618,2007438,Tin Yan Shopping Centre,"(22.46255, 113.996421)",Tin Yan Shopping Centre,"(22.46255, 113.996421)",14.4,29,Yuen Long,Yuen Long,7096
+76,2007464,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","Ka Lung Road, near San Tin Barracks Block 12","(22.489317, 114.080882)",7.5,22,Yuen Long,Yuen Long,22419
+27,2007498,"Wai Fung Street, near Shun Lee Building","(22.244128, 114.156542)","Sai On Street, near Port Centre","(22.248842, 114.155115)",3.8,9,Southern District,Southern District,4594
+29,2007499,"Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate","(22.244227, 114.15074)","Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate","(22.244227, 114.15074)",3.9,24,Southern District,Southern District,6266
+51m,2007500,Richland Gardens Minibus Terminus,"(22.329548, 114.206266)",Richland Gardens Minibus Terminus,"(22.329548, 114.206266)",3.4,11,Kwun Tong ,Kwun Tong ,3692
+27a,2007501,"Sai On Street, near Port Centre","(22.248842, 114.155115)"," Sai On Street, near Port Centre","(22.248842, 114.155115)",4.0,10,Southern District,Southern District,4400
+n27,2007502," Sai On Street, near Port Centre","(22.248842, 114.155115)"," Sai On Street, near Port Centre","(22.248842, 114.155115)",6.0,20,Southern District,Southern District,5919
+29a,2007530,"Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate","(22.244227, 114.15074)",Ocean Park (Water World),"(22.236101, 114.167077)",5.5,21,Southern District,Southern District,8841
+29x,2007531,"Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate","(22.244227, 114.15074)","Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate","(22.244227, 114.15074)",5.5,16,Southern District,Southern District,7934
+39,2007532,"Kung Um Road, near Pui Hong Kui","(22.413626, 114.016036)","Fung Cheung Road, near Wah Ting House, Fung Ting Court","(22.442936, 114.032478)",7.2,14,Yuen Long,Yuen Long,8435
+39a,2007533,"Kung Um Road, near Chun Fai Garden Block 10","(22.429951, 114.023312)","Kung Um Road, near Chun Fai Garden Block 10","(22.429951, 114.023312)",7.2,13,Yuen Long,Yuen Long,6358
+39,2007563,"Kung Um Road, near Pui Hong Kui","(22.413626, 114.016036)",Yuen Long Station,"(22.446271, 114.035447)",7.2,14,Yuen Long,Yuen Long,8788
+10m,2007596,"Yuk Nga Lane, outside Yan Chai Hospital Lan Chi Pat Memorial Secondary School","(22.32433, 114.254447)","Yuk Nga Lane, outside Yan Chai Hospital Lan Chi Pat Memorial Secondary School","(22.32433, 114.254447)",7.6,15,Sai Kung,Sai Kung,12985
+13,2007629,"Hong Sing Garden Bus Terminus, outside King Ling College","(22.318659, 114.253726)",Yue Man Square Public Transport Interchange,"(22.31439, 114.225092)",6.8,21,Sai Kung,Kwun Tong,11342
+79s,2007630,Tin Shiu Wai North (Grandeur Terrace) Minibus Terminus,"(22.468416, 114.00098)",Tin Shiu Wai North (Grandeur Terrace) Minibus Terminus,"(22.468416, 114.00098)",12.7,49,Yuen Long,Yuen Long,41442
+110a,2007662,Tiu Keng Leng Station Public Transport Interchange,"(22.305087, 114.252389)",Tiu Keng Leng Station Public Transport Interchange,"(22.305087, 114.252389)",8.6,22,Sai Kung,Sai Kung,23123
+811,2007761,Sui Wo Court,"(22.392637, 114.194442)",Sui Wo Court,"(22.392637, 114.194442)",8.3,18,Sha Tin,Sha Tin,12757
+68k,2007762,"Pai Tau Street, outside Shatin Station","(22.38432, 114.187964)","Pai Tau Street, outside Shatin Station","(22.38432, 114.187964)",6.4,13,Sha Tin,Sha Tin,10369
+811a,2007763,"Sui Wo Road, Ville de Jardin","(22.390714, 114.187955)",Pictorial Garden,"(22.39631, 114.209883)",10.2,24,Sha Tin,Sha Tin,17326
+68s,2007764,"Hin Tai Street, near Julimount Garden","(22.362196, 114.175903)","Che Kung Miu Road, near Hin Keng Station","(22.363921, 114.171748)",4.3,4,Sha Tin,Sha Tin,2670
+68k,2007765,Tai Wai Station Bus Terminus,"(22.372789, 114.179302)",Tai Wai Station Bus Terminus,"(22.372789, 114.179302)",4.3,6,Sha Tin,Sha Tin,3029
+69k,2007766,"Pai Tau Street, outside Shatin Station","(22.38432, 114.187964)","Sui Wo Road, Ville de Jardin","(22.390714, 114.187955)",7.6,10,Sha Tin,Sha Tin,7617
+811a,2007767,"Sui Wo Road, Ville de Jardin","(22.390714, 114.187955)",Pictorial Garden,"(22.39631, 114.209883)",10.2,24,Sha Tin,Sha Tin,15445
+46m,2007768,"Lai Kong Street, near Highland Park Block 4","(22.349294, 114.130499)","Lai Kong Street, near Highland Park Block 4","(22.349294, 114.130499)",5.3,11,Kwai Tsing,Kwai Tsing,2246
+47m,2007769,"Wah King Hill Road, near Wonderland Villas Commercial Complex","(22.351824, 114.137284)","Wah King Hill Road, near Wonderland Villas Commercial Complex","(22.351824, 114.137284)",5.9,17,Kwai Tsing,Kwai Tsing,3935
+90m,2007770,"Lai Kong Street, near Highland Park Block 4","(22.349294, 114.130499)","Lai Kong Street, near Highland Park Block 4","(22.349294, 114.130499)",6.6,25,Kwai Tsing,Kwai Tsing,8833
+92m,2007771,"Wah Yuen Drive, near Wah Shun Court, Wah Yuen Chuen","(22.350361, 114.135605)","Wah Yuen Drive, near Wah Shun Court, Wah Yuen Chuen","(22.350361, 114.135605)",6.6,20,Kwai Tsing,Kwai Tsing,5262
+93,2007772,"Wah Yuen Drive, near Wah Shun Court, Wah Yuen Chuen","(22.350361, 114.135605)","Ham Tin Street, near Bo Shek Mansion Block 3","(22.368723, 114.117385)",6.6,13,Kwai Tsing,Tsuen Wan,9450
+93a,2007773,"Wah King Hill Road, near Wonderland Villas Commercial Complex","(22.351824, 114.137284)","Ham Tin Street, near Bo Shek Mansion Block 3","(22.368723, 114.117385)",9.7,16,Kwai Tsing,Tsuen Wan,10139
+811p,2007794,"Ngan Shing Street, City One","(22.386558, 114.203035)","Lok Shun Path, outside Royal Ascot","(22.400339, 114.201212)",5.7,6,Sha Tin,Sha Tin,5812
+811b,2007795,Yiu On Estate Bus Terminus,"(22.419405, 114.229907)",Yiu On Estate Bus Terminus,"(22.419405, 114.229907)",11.7,28,Sha Tin,Sha Tin,15130
+811k,2007827,Sui Wo Court Bus Terminus,"(22.392637, 114.194442)",Sui Wo Court Bus Terminus,"(22.392637, 114.194442)",5.7,12,Sha Tin,Sha Tin,4896
+811k,2007828,Sui Wo Court Bus Terminus,"(22.392637, 114.194442)",Sui Wo Court Bus Terminus,"(22.392637, 114.194442)",5.7,10,Sha Tin,Sha Tin,3012
+811s,2007830,Sui Wo Court Phase I,"(22.392637, 114.194442)",Sui Wo Court Bus Terminus,"(22.392637, 114.194442)",11.3,36,Sha Tin,Sha Tin,17986
+27,2007860,Near 1 Science Park West Avenue,"(22.425008, 114.212007)","Pai Tau Street, outside Sha Tin Station","(22.384393, 114.18841)",8.6,7,Tai Po,Sha Tin,6671
+27a,2007861,Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431259, 114.202179)","Pai Tau Street, outside Sha Tin Station","(22.384393, 114.18841)",9.2,13,Tai Po,Sha Tin,11934
+27a,2007862,Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431259, 114.202179)","Pai Tau Street, outside Sha Tin Station","(22.384393, 114.18841)",8.5,12,Tai Po,Sha Tin,11503
+27a,2007893,Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431259, 114.202179)","Pai Tau Street, outside Sha Tin Station","(22.384158, 114.188168)",8.5,14,Tai Po,Sha Tin,12774
+27a,2007894,Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431259, 114.202179)","Pai Tau Street, outside Sha Tin Station","(22.384158, 114.188168)",8.5,15,Tai Po,Sha Tin,13179
+27b,2007895,Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431259, 114.202179)","Pai Tau Street, outside Sha Tin Station","(22.384393, 114.18841)",9.2,15,Tai Po,Sha Tin,14470
+68,2007926,"Fung Shing Street, Near Koon Yat House, Choi Wan (I) Estate","(22.333573, 114.21644)","Fung Shing Street, near Koon Yat House, Choi Wan (I) Estate","(22.333573, 114.21644)",6.7,30,Wong Tai Sin,Wong Tai Sin,16395
+89,2007959,"Ho Pui Street, Near Mary Of Providence Primary School","(22.368343, 114.116133)","Shek Tau Street, Near Fu Tai House, Tai Wo Hau Estate","(22.365953, 114.123027)",5.8,7,Tsuen Wan,Kwai Tsing,2050
+89a,2007992,"Ho Pui Street, near Mary Of Providence Primary School","(22.368343, 114.116133)",Kwai Hing Government Offices,"(22.363057, 114.131465)",5.8,13,Tsuen Wan,Kwai Tsing,3478
+89b,2007993,Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",Kwai Shing (Kwai Hau Street) Minibus Terminus,"(22.362811, 114.124863)",5.8,30,Tsuen Wan,Kwai Tsing,13302
+89p,2007994,"Shek Tau Street, near Fu Tai House, Tai Wo Hau Estate","(22.365953, 114.123027)","Shek Tau Street, near Fu Tai House, Tai Wo Hau Estate","(22.365953, 114.123027)",5.8,13,Kwai Tsing,Kwai Tsing,5163
+89m,2007995,Kwai Shing (Kwai Hau Street) Minibus Terminus,"(22.362811, 114.124863)",Kwai Shing (Kwai Hau Street) Minibus Terminus,"(22.362811, 114.124863)",5.5,18,Kwai Tsing,Kwai Tsing,4485
+89s,2007996,"Hing Ning Road, Near Metroplaza","(22.356815, 114.127283)","Hing Ning Road, Near Metroplaza","(22.356815, 114.127283)",5.5,20,Kwai Tsing,Kwai Tsing,3375
+98,2007997,"Ho Pui Street, near Mary Of Providence Primary School","(22.368343, 114.116133)",Kwai Shing (Kwai Hau Street) Minibus Terminus,"(22.362811, 114.124863)",5.5,10,Tsuen Wan,Kwai Tsing,6271
+98,2007998,"Ho Pui Street, near Mary of Providence Primary School","(22.368343, 114.116133)","Ho Pui Street, near Mary of Providence Primary School","(22.368343, 114.116133)",5.5,15,Tsuen Wan,Tsuen Wan,3912
+80,2007999,Tsuen Wan (Chuen Lung Street),"(22.372191, 114.117034)",Tsuen Wan (Chuen Lung Street),"(22.372191, 114.117034)",7.2,15,Tsuen Wan,Tsuen Wan,5411
+52,2008000,"Ngan Chuk Lane, Near Sau Yuen House, Chuk Yuen (South) Estate","(22.344288, 114.191882)","Hong Keung Street, Near On Keung Building","(22.334363, 114.19655)",5.7,10,Wong Tai Sin,Wong Tai Sin,3416
+53m,2008001,"Wang Tau Hom South Road, Near Wang Shun House, Lok Fu Estate","(22.338599, 114.186475)","Wang Tau Hom South Road, Near Wang Shun House, Lok Fu Estate","(22.338599, 114.186475)",3.4,8,Wong Tai Sin,Wong Tai Sin,1456
+95,2008002,Tsuen Wan Centre,"(22.379005, 114.107874)",Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",4.3,10,Tsuen Wan,Tsuen Wan,5714
+96,2008003,Tsuen Wan (Hoi Pa Street),"(22.371044, 114.117151)",Tsing Lung Tau (Lung Yue Road),"(22.362838, 114.045813)",7.2,21,Tsuen Wan,Tsuen Wan,23846
+95k,2008004,Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",Tsuen Wan Station,"(22.374168, 114.116402)",4.3,4,Tsuen Wan,Tsuen Wan,4128
+95a,2008005,Tsuen Tak Gardens,"(22.375808, 114.106138)",Tsuen Tak Gardens,"(22.375808, 114.106138)",3.7,7,Tsuen Wan,Tsuen Wan,2965
+65,2008025,"Pamela Youde Nethersole Eastern Hospital, outside Main Block","(22.269098, 114.236603)","Pamela Youde Nethersole Eastern Hospital, outside Main Block","(22.269098, 114.236603)",7.4,17,Eastern,Eastern,16929
+95m,2008058,Tsuen Wan Station,"(22.372598, 114.118947)",Tsuen Wan Centre,"(22.379005, 114.107874)",3.7,5,Tsuen Wan,Tsuen Wan,2496
+96p,2008059,Tsuen Wan West Station Public Transport Interchange,"(22.368801, 114.109627)",Tsuen Wan West Station Public Transport Interchange,"(22.368792, 114.109647)",4.3,5,Tsuen Wan,Tsuen Wan,3900
+65a,2008060,Hong Man Street,"(22.266425, 114.235049)",Hong Man Street,"(22.266425, 114.235049)",7.4,24,Eastern,Eastern,15965
+96a,2008061,Yau Kom Tau Village,"(22.37229, 114.096848)",Yau Kom Tau Village,"(22.37229, 114.096848)",5.0,17,Tsuen Wan,Tsuen Wan,3840
+96b,2008062,Belvedere Garden,"(22.370739, 114.100994)",Belvedere Garden,"(22.370739, 114.100994)",4.3,13,Tsuen Wan,Tsuen Wan,3867
+96m,2008091,Tsuen Wan Station,"(22.372598, 114.118947)",Tsuen Wan Station,"(22.372598, 114.118947)",7.2,16,Tsuen Wan,Tsuen Wan,18444
+65x,2008092,"Pamela Youde Nethersole Eastern Hospital, outside Main Block","(22.269134, 114.236845)",North Point Ferry Pier Public Transport Interchange,"(22.293327, 114.20194)",7.4,13,Eastern,Eastern,9920
+96c,2008093,Tsuen Wan Station,"(22.374168, 114.116402)",Bellagio,"(22.367239, 114.06146)",7.2,16,Tsuen Wan,Tsuen Wan,8376
+76,2008094,"Ka Lung Road, near San Tin Barracks Block 12","(22.489317, 114.080882)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",7.5,20,Yuen Long,Yuen Long,10229
+94a,2008157,Lei Muk Shue Estate Public Transport Interchange,"(22.377669, 114.136345)",Lei Muk Shue Estate Public Transport Interchange,"(22.377669, 114.136345)",7.2,21,Tsuen Wan,Tsuen Wan,7458
+63k,2008223,"Mei Tin Shopping Centre, Mei Tin Estate","(22.376202, 114.170689)","Mei Tin Shopping Centre, Mei Tin Estate","(22.376202, 114.170689)",3.9,6,Sha Tin,Sha Tin,1729
+63a,2008224,Mei Chung Court Minibus Terminus,"(22.380131, 114.17299)","TSUEN NAM ROAD, near Tai Wai Station","(22.373439, 114.178457)",3.9,6,Sha Tin,Sha Tin,2326
+63b,2008225,"PIK TIN STREET, near Granville Garden Tower 3","(22.377629, 114.171699)","TSUEN NAM ROAD, near Tai Wai Station","(22.373439, 114.178457)",3.9,10,Sha Tin,Sha Tin,2526
+63s,2008226,"Mei Tin Shopping Centre, Mei Tin Estate","(22.376202, 114.170689)","Mei Tin Shopping Centre, Mei Tin Estate","(22.376202, 114.170689)",14.2,28,Sha Tin,Sha Tin,20108
+64k,2008227,"LOWER SHING MUN ROAD, near FU SHAN CREMATORIUM	","(22.374504, 114.17)","LOWER SHING MUN ROAD, near FU SHAN CREMATORIUM","(22.374504, 114.17)",4.1,6,Sha Tin,Sha Tin,3568
+806m,2008256,Pak Shek Kok Public Transport Terminus,"(22.431837, 114.201712)",Pak Shek Kok Public Transport Terminus,"(22.431837, 114.201712)",12.8,31,Tai Po,Tai Po,21633
+71a,2008289,Po Tat Estate Public Transport Interchange,"(22.317529, 114.236061)",Po Tat Estate Public Transport Interchange,"(22.317529, 114.236061)",4.9,12,Kwun Tong,Kwun Tong,3292
+71,2008290,"Yuen Long Tai Hang Street, Near Tai Hang Building Block B","(22.446303, 114.030094)","Yuen Long Tai Hang Street, Near Tai Hang Building Block B","(22.446303, 114.030094)",8.7,28,Yuen Long,Yuen Long,23880
+71b,2008291,"Sau Fung Street, near Sau Chi House, Sau Mau Ping Estate","(22.317557, 114.234809)","Sau Fung Street, near Sau Chi House, Sau Mau Ping Estate","(22.317557, 114.234809)",4.9,7,Kwun Tong ,Kwun Tong ,1084
+23,2008322,"Wan Hon Street, Near Nam Ning Mansion","(22.317379, 114.225316)","Wan Hon Street, Near Nam Ning Mansion","(22.317379, 114.225316)",3.7,4,Kwun Tong,Kwun Tong,1380
+23b,2008355,Yue Man Square Public Transport Interchange,"(22.31439, 114.225092)","Cha Kwo Ling Road, Near Tin Hau Temple","(22.299488, 114.229231)",4.9,10,Kwun Tong,Kwun Tong ,5155
+71a,2008388,"Kam Po Road, near Cheung Po Tsuen Village Office","(22.418539, 114.071849)","Kam Po Road, near Cheung Po Tsuen Village Office","(22.418539, 114.071849)",7.0,18,Yuen Long,Yuen Long,12481
+23m,2008389,Yue Man Square Public Transport Interchange,"(22.31439, 114.225092)","Sin Fat Road, Near Lam Tin Station","(22.307236, 114.231165)",3.7,7,Kwun Tong,Kwun Tong ,2020
+72,2008390,"Yuen Long Tai Hang Street, Near Tai Hang Building Block B","(22.446303, 114.030094)","Yuen Long Tai Hang Street, Near Tai Hang Building Block B","(22.446303, 114.030094)",8.7,25,Yuen Long,Yuen Long,24892
+23c,2008391,"Sin Fat Road, Near Lam Tin Station","(22.307236, 114.231165)","Sin Fat Road, Near Lam Tin Station","(22.307236, 114.231165)",3.7,16,Kwun Tong ,Kwun Tong ,5679
+72,2008392,Kam Sheung Road Station Public Transport Interchange	,"(22.434817, 114.06495)","Route Twisk, Near Shek Kong Village Block 53","(22.427084, 114.108375)",7.0,12,Yuen Long,Tuen Mun,11935
+23s,2008393,"Sin Fat Road, Near Laguna City Phase 2","(22.305737, 114.228903)","Sin Fat Road, Near Lam Tin Station","(22.307236, 114.231165)",3.4,1,Kwun Tong ,Kwun Tong ,7100
+24,2008421,Ping Tin Public Transport Interchange,"(22.307252, 114.235639)",Ping Tin Public Transport Interchange,"(22.307252, 114.235639)",4.7,35,Kwun Tong ,Kwun Tong ,12979
+24m,2008454,"Pik Wan Road, Near Pik Wan Road Sitting - Out Area","(22.310918, 114.238416)","Pik Wan Road, Near Pik Wan Road Sitting - Out Area","(22.310918, 114.238416)",4.3,7,Kwun Tong ,Kwun Tong ,8554
+50,2008487,United Christian Hospital Minibus Terminus,"(22.32295, 114.227842)",United Christian Hospital Minibus Terminus,"(22.32295, 114.227842)",3.7,8,Kwun Tong,Kwun Tong,1992
+87,2008520,Lei Yue Mun Estate Public Transport Interchange,"(22.294734, 114.239409)",Lei Yue Mun Estate Public Transport Interchange,"(22.294734, 114.239409)",11.0,46,Kwun Tong ,Kwun Tong ,21740
+73,2008553,Yuen Long (Fook Hong Street) Public Light Bus Terminus,"(22.4451, 114.02857)",Yuen Long (Sung Shan San Tsuen) Minibus Terminus,"(22.423967, 114.04729)",6.6,12,Yuen Long,Yuen Long,13464
+74,2008554,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","Fuk Shun Street, Near 廣陵堂, Shing Uk Tsuen","(22.463874, 114.018377)",6.6,10,Yuen Long,Yuen Long,3759
+74a,2008555,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","蔡福善堂, Wang Chau Tung Tau Wai","(22.453859, 114.028026)",5.8,7,Yuen Long,Yuen Long,3348
+90a,2008586,Yau Tong (Yau Lai Estate) Minibus Terminus,"(22.299242, 114.236092)","Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital","(22.316182, 114.208806)",7.1,11,Kwun Tong ,Kwun Tong,8120
+83a,2008587,Tsuen Wan (Chuen Lung Street),"(22.369887, 114.115627)",On Yam Estate (On Chit Street),"(22.373002, 114.141832)",6.4,18,Tsuen Wan,Kwai Tsing,8257
+85,2008589,Tsuen Wan (Shiu Wo Street),"(22.37229, 114.117248)",Tsuen Wan (Shiu Wo Street),"(22.37229, 114.117248)",6.4,10,Tsuen Wan,Tsuen Wan,3366
+90a,2008590,"Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital	","(22.316182, 114.208806)",Yau Tong (Yau Lai Estate) Minibus Terminus,"(22.299242, 114.236092)",7.1,14,Kwun Tong,Kwun Tong ,6103
+86,2008591,Hoi Kwai Road Public Transport Interchange,"(22.368332, 114.110676)",Shek Lei (Lei Pui Street),"(22.362634, 114.138213)",6.4,20,Tsuen Wan,Kwai Tsing,11794
+90b,2008592,"Sau Fung Street, Near Sau Yue House, Sau Mau Ping Estate","(22.317873, 114.233003)","Shing Cheong Road, Near Training & Research Tower (Tower B), Hong Kong Children's Hospital","(22.315803, 114.209456)",7.1,14,Kwun Tong,Kwun Tong,8969
+86a,2008593,Tsuen Wan (Chuen Lung Street),"(22.369734, 114.115501)",Shek Lei (Lei Pui Street),"(22.362634, 114.138213)",8.5,24,Tsuen Wan,Kwai Tsing,9952
+86m,2008594,Tsuen Wan (Chuen Lung Street),"(22.369734, 114.115501)",Tsuen Wan (Chuen Lung Street),"(22.369734, 114.115501)",6.4,16,Tsuen Wan,Tsuen Wan,7941
+611,2008595,"Shan Pui Road, Near Shan Pui Hung Tin Tsuen","(22.452276, 114.035402)","Shan Pui Road, Near Shan Pui Hung Tin Tsuen","(22.452276, 114.035402)",5.3,9,Yuen Long,Yuen Long,2759
+88a,2008596,"Tam Kon Shan Road, Near The Hong Kong Shipyard Ltd","(22.361152, 114.089941)","Tam Kon Shan Road, Near The Hong Kong Shipyard Ltd","(22.361152, 114.089941)",4.0,40,Kwai Tsing,Kwai Tsing,13050
+611a,2008597,Yuen Long Station (North) Public Transport Interchange,"(22.446451, 114.034281)",Yuen Long Station (North) Public Transport Interchange,"(22.446451, 114.034281)",4.0,8,Yuen Long,Yuen Long,763
+611b,2008598,"Kwan Lok Lane, Near One Regent Place House 1","(22.449257, 114.03217)","Kwan Lok Lane, Near One Regent Place House 1","(22.449257, 114.03217)",4.0,6,Yuen Long,Yuen Long,1460
+611b,2008599,"Tak Yip Street, Near Po Wai Building, Tung Tau Industrial Area","(22.451883, 114.030049)","Tak Yip Street, Near Po Wai Building, Tung Tau Industrial Area","(22.451883, 114.030049)",5.3,10,Yuen Long,Yuen Long,3436
+88a,2008600,"Ching Hong Road, Near Mayfair Gardens Block 7","(22.344861, 114.107726)","Ching Hong Road, Near Mayfair Gardens Block 7","(22.344861, 114.107726)",4.0,31,Kwai Tsing,Kwai Tsing,6095
+88a,2008601,Tsing Yi MTR Station Minibus Terminus,"(22.359887, 114.106622)",Tsing Yi MTR Station Minibus Terminus,"(22.359887, 114.106622)",3.7,11,Kwai Tsing,Kwai Tsing,3914
+88a,2008602,Tsing Yi Ferry Pier Minibus Terminus,"(22.353765, 114.109363)",Tsing Yi MTR Station Minibus Terminus,"(22.359887, 114.106622)",4.0,6,Kwai Tsing,Kwai Tsing,13000
+611p,2008603,"Shan Pui Road, Near Shan Pui Hung Tin Tsuen","(22.452276, 114.035402)","Shan Pui Road, Near Shan Pui Hung Tin Tsuen","(22.452276, 114.035402)",5.3,8,Yuen Long,Yuen Long,3121
+88f,2008604,Tsing Yi MTR Station Minibus Terminus,"(22.359887, 114.106622)",Rambler Crest Tower 3,"(22.342974, 114.109911)",4.0,9,Kwai Tsing,Kwai Tsing,6617
+88f,2008619,Rambler Crest Tower 3,"(22.342974, 114.109911)",Tsing Yi MTR Station Minibus Terminus,"(22.359887, 114.106622)",4.0,6,Kwai Tsing,Kwai Tsing,2318
+611s,2008620,Shan Pui Road Near United Court,"(22.452193, 114.032507)",Shan Pui Road Near United Court,"(22.452193, 114.032507)",4.0,5,Yuen Long,Yuen Long,1718
+88m,2008621,New Kwai Fong Gardens,"(22.355966, 114.127545)",Hong Kong United Dockyard Minibus Terminus,"(22.351432, 114.084637)",8.3,33,Kwai Tsing,Kwai Tsing,21624
+36,2008622,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",9.0,16,Yuen Long,Yuen Long,14794
+88m,2008623,New Kwai Fong Gardens,"(22.355966, 114.127545)",New Kwai Fong Gardens,"(22.355966, 114.127545)",8.3,19,Kwai Tsing,Kwai Tsing,10900
+88m,2008624,New Kwai Fong Gardens,"(22.355966, 114.127545)",New Kwai Fong Gardens,"(22.355966, 114.127545)",4.5,9,Kwai Tsing,Kwai Tsing,5253
+88m,2008625,Hong Kong United Dockyard Minibus Terminus,"(22.351432, 114.084637)",New Kwai Fong Gardens,"(22.355966, 114.127545)",8.3,19,Kwai Tsing,Kwai Tsing,6154
+88m,2008627,New Kwai Fong Gardens,"(22.355966, 114.127545)",New Kwai Fong Gardens,"(22.355966, 114.127545)",8.3,23,Kwai Tsing,Kwai Tsing,7721
+88m,2008628,New Kwai Fong Gardens,"(22.355966, 114.127545)",New Kwai Fong Gardens,"(22.355966, 114.127545)",8.3,12,Kwai Tsing,Kwai Tsing,2933
+88g,2008629,"Kwai Yan Road, Near Kwai Fong Station","(22.357466, 114.12805)",Rambler Crest Tower 3,"(22.342974, 114.109911)",4.5,6,Kwai Tsing,Kwai Tsing,5378
+36,2008630,Tai Sang Wai Village Office Minibus Terminus,"(22.470986, 114.044157)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",9.0,17,Yuen Long,Yuen Long,6864
+88c,2008631,"Kwai Yan Road, Near Kwai Fong Station","(22.35649, 114.127293)",Mayfair Gardens Minibus Terminus,"(22.343939, 114.10694)",4.5,9,Kwai Tsing,Kwai Tsing,5775
+37,2008632,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",9.0,16,Yuen Long,Yuen Long,16189
+37,2008633,"Ngau Tam Mei Road, Near Ngau Tam Mei Village Office","(22.477237, 114.071864)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",9.0,15,Yuen Long,Yuen Long,7019
+38,2008652,"Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",9.0,15,Yuen Long,Yuen Long,15087
+409,2008653,Hang Mei Street Public Light Bus (GMB) Terminus,"(22.357643, 114.096739)",Hang Mei Street Public Light Bus (GMB) Terminus,"(22.357643, 114.096739)",7.6,35,Kwai Tsing,Kwai Tsing,14023
+409k,2008654,"Hang Mei Street, Near S.K.H. Ho Chak Wan Primary School, Cheung Hang Estate","(22.357471, 114.096837)","Hang Mei Street, Near S.K.H. Ho Chak Wan Primary School, Cheung Hang Estate","(22.357471, 114.096837)",7.6,38,Kwai Tsing,Kwai Tsing,15302
+409s,2008655,Hang Mei Street Public Light Bus (GMB) Terminus,"(22.357643, 114.096739)",Hang Mei Street Public Light Bus (GMB) Terminus,"(22.357643, 114.096739)",7.6,32,Kwai Tsing,Kwai Tsing,13797
+601,2008685,"Fung Cheung Road, Near Wah Ting Court, Fung Ting Court","(22.442936, 114.032478)","Fung Cheung Road, Near Wah Ting Court, Fung Ting Court","(22.442936, 114.032478)",7.8,17,Yuen Long,Yuen Long,9672
+38,2008686,"Chuk Yau Road, Near 香港政府環境保護署牛潭尾堆肥廠","(22.472682, 114.066688)","Fook Hong Street, near Kam Bo Building","(22.4451, 114.02857)",9.0,13,Yuen Long,Yuen Long,6644
+601b,2008718,Kam Tin (Pak Wai Tsuen) Minibus Terminus,"(22.448549, 114.061422)",Kam Tin (Pak Wai Tsuen) Minibus Terminus,"(22.448549, 114.061422)",5.6,9,Yuen Long,Yuen Long,5223
+601c,2008719,Fung Cheung Road Minibus Terminus,"(22.442936, 114.032478)","Fau Tsoi Street, Outside Kwong Wah Plaza (Outside House No.34)","(22.4439, 114.029436)",6.0,20,Yuen Long,Yuen Long,3749
+602,2008751,"Fung Cheung Road, Near Wah Ting Court, Fung Ting Court","(22.442936, 114.032478)","Fung Cheung Road, Near Wah Ting Court, Fung Ting Court","(22.442936, 114.032478)",7.8,18,Yuen Long,Yuen Long,14871
+602c,2008752,"Unnamed Access Road, Near Riva","(22.442259, 114.054763)","Unnamed Access Road, Near Riva","(22.442259, 114.054763)",6.0,25,Yuen Long,Yuen Long,2500
+603,2008753,"Fung Cheung Road, Near Wah Ting Court, Fung Ting Court","(22.442936, 114.032478)","Fung Cheung Road, Near Wah Ting Court, Fung Ting Court","(22.442936, 114.032478)",7.8,11,Yuen Long,Yuen Long,9216
+604,2008754,Yuen Long Station (North) Public Transport Interchange,"(22.446451, 114.034281)",Shan Ha Tsuen Minibus Terminus,"(22.432311, 114.016937)",6.0,12,Yuen Long,Yuen Long,6808
+605,2008784,Ki Lun Tsuen Minibus Terminus,"(22.494835, 114.098488)",Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",7.8,20,North District,North District,11325
+620,2008785,Park YOHO Transport Interchange,"(22.451522, 114.051967)",Kam Sheung Road Station Public Transport Interchange,"(22.434311, 114.064659)",6.4,7,Yuen Long,Yuen Long,4228
+606s,2008786,Fung Cheung Road Minibus Terminus,"(22.442936, 114.032478)","Mody Road, Near Mody Road Garden","(22.298702, 114.178602)",25.0,59,Yuen Long,Yau Tsim Mong,71928
+83m,2008817,"On Wah Street, near Ngau Tau Kok Market","(22.32149, 114.216592)","On Wah Street, near Ngau Tau Kok Market","(22.32149, 114.216592)",4.5,12,Kwun Tong ,Kwun Tong ,4923
+83a,2008818,"Choi Wing Road, near Choi Foon House, Choi Fook Estate","(22.327261, 114.217972)",Ping Shek Public Transport Interchange 1/F,"(22.334044, 114.210092)",4.5,7,Kwun Tong ,Kwun Tong ,3130
+70,2008850,Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",9.7,26,Wong Tai Sin,Wong Tai Sin,21176
+48s,2008851,"Leung King Plaza, Leung King Estate","(22.406666, 113.96389)","Leung King Plaza, Leung King Estate","(22.406666, 113.96389)",28.0,56,Tuen Mun,Tuen Mun,38028
+47s,2008852,"Wu Chui Road, Near Wu Boon House, Wu King Estate","(22.373436, 113.96497)","Bute Street, Near Mongkok Exchange","(22.32201, 114.168401)",28.0,56,Tuen Mun,Yau Tsim Mong,40152
+70a,2008883,Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",Diamond Hill Station Public Transport Interchange,"(22.34053, 114.202259)",9.7,19,Wong Tai Sin,Wong Tai Sin,16427
+73,2008916,Festival Walk Public Transport Terminus,"(22.336766, 114.175059)",Festival Walk Public Transport Terminus,"(22.336766, 114.175059)",7.9,32,Kowloon City,Kowloon City,9325
+3a,2009015,"Yi Chun Street, near Sai Kung Market","(22.380527, 114.271656)","Nam Shan San Tsuen Road, Near 南山村公所","(22.388623, 114.264407)",5.7,7,Sai Kung,Sai Kung,3098
+3,2009016,"Yi Chun Street, near Sai Kung Market","(22.380527, 114.271656)","Pak Kong Au Road, near Hung Fa Tsuen","(22.382708, 114.264501)",4.2,4,Sai Kung,Sai Kung,4500
+4a,2009017,"Yi Chun Street, near Sai Kung Market","(22.380527, 114.271656)","Hong Kin Road, near Lake Court","(22.376815, 114.273508)",4.6,5,Sai Kung,Sai Kung,2631
+4,2009018,"Yi Chun Street, near Sai Kung Market","(22.380527, 114.271656)","Hong Kin Road, Near Ming Shun Village 201","(22.375624, 114.271458)",4.1,4,Sai Kung,Sai Kung,9000
+22m,2009048,Lok Wah Minibus Terminus	,"(22.320469, 114.219736)",Yue Man Square Public Transport Interchange,"(22.314273, 114.224587)",4.6,7,Kwun Tong ,Kwun Tong,2101
+65k,2009081,Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",7.5,23,Sha Tin,Sha Tin,9740
+65a,2009082,Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)","Yuen Wo Road, Near Sha Tin Town Hall","(22.381638, 114.190886)",6.1,13,Sha Tin,Sha Tin,8232
+65a,2009114,Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",6.5,11,Sha Tin,Sha Tin,9085
+65m,2009115,Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)","On Ming Street, Near Kin Shek House, Shek Mun Estate","(22.387478, 114.20857)",5.8,4,Sha Tin,Sha Tin,2629
+65s,2009116,Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",Wong Nai Tau Bus Terminus,"(22.382157, 114.217968)",15.5,47,Sha Tin,Sha Tin,27661
+66k,2009117,Sha Tin Station,"(22.383318, 114.187653)",Sha Tin Station,"(22.383318, 114.187653)",7.5,15,Sha Tin,Sha Tin,6097
+67k,2009118,"A Kung Kok Shan Road, Near The Neighbourhood Advice-Action Council Harmony Manor","(22.395143, 114.218545)",Sha Tin Station,"(22.383318, 114.187653)",6.7,13,Sha Tin,Sha Tin,9267
+67a,2009119,"On Ming Street, Near Kin Shek House, Shek Mun Estate","(22.387478, 114.20857)",Sha Tin Station,"(22.383318, 114.187653)",4.6,8,Sha Tin,Sha Tin,4649
+505,2009147,San Fat Street MiniBus Terminus ,"(22.503181, 114.127241)",San Fat Street MiniBus Terminus ,"(22.503181, 114.127241)",19.1,38,North District,North District,50664
+59s,2009180,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",9.9,18,North District,North District,15317
+2,2009246,Whampoa Garden Public Transport Interchange,"(22.305158, 114.190888)",Festival Walk,"(22.336766, 114.175059)",7.9,20,Kowloon City,Kowloon City,12315
+2a,2009247,Whampoa Garden Public Transport Interchange,"(22.305158, 114.190888)",Festival Walk,"(22.336766, 114.175059)",7.9,17,Kowloon City,Kowloon City,12333
+59a,2009312,Sheung Shui Heung Terminus (near Sheung Shui Heung Village Office),"(22.508562, 114.122943)",Sheung Shui Heung Terminus (near Sheung Shui Heung Village Office),"(22.508562, 114.122943)",5.6,13,North District,North District,4329
+73a,2009378,Yuen Long (Fook Hong Street) Public Light Bus Terminus,"(22.4451, 114.02857)",Yuen Long (Fook Hong Street) Public Light Bus Terminus,"(22.4451, 114.02857)",6.6,12,Yuen Long,Yuen Long,6399
+75m,2009411,Hoi Tat Public Transport Interchange,"(22.329269, 114.152035)",Hoi Tat Public Transport Interchange,"(22.329269, 114.152035)",5.2,6,Sham Shui Po,Sham Shui Po,2577
+75c,2009412,Hoi Tat Public Transport Interchange,"(22.329269, 114.152035)",桂林街近门牌81号,"(22.329234, 114.160169)",4.5,5,Sham Shui Po,Sham Shui Po,2339
+23p,2009477,"Ko Ling Road, opposite to House No. 8","(22.303642, 114.229776)","Sin Fat Road, Near Lam Tin Station","(22.307236, 114.231165)",3.7,1,Kwun Tong ,Kwun Tong ,700
+54k,2009543,"Sui Wan Road, Near Ma Wat Tsuen","(22.498491, 114.152413)",Fanling Station Public Light Bus (Scheduled) Service Terminus,"(22.492853, 114.138615)",5.6,18,North District,North District,2503
+503k,2009576,Queen's Hill,"(22.503016, 114.16184)","Lung Sum Avenue, near Spot","(22.503037, 114.127941)",7.9,11,North District,North District,10514
+116,2009609,Pak Shing Kok Road (northbound) ,"(22.305834, 114.274575)",Pak Shing Kok Road (northbound) ,"(22.305834, 114.274575)",8.2,17,Sai Kung,Sai Kung,6205
+cx1,2009642,"Wui Man Road, outside Austin Station Exit D","(22.303488, 114.166684)","Wui Man Road, outside Austin Station Exit D","(22.303488, 114.166684)",5.0,11,Yau Tsim Mong,Yau Tsim Mong,5218
+506,2009675,Chi Fuk Circuit ,"(22.492907, 114.136146)",Chi Fuk Circuit ,"(22.492907, 114.136146)",5.4,23,North District,North District,10886
+507,2009708,Ma Sik Road outside One Innovale,"(22.502319, 114.144628)",Ma Sik Road outside One Innovale,"(22.502319, 114.144628)",4.0,11,North District,North District,4074
+31x,2009741,Tin Wan Estate Minibus Terminus,"(22.250584, 114.149536)","JAFFE ROAD, near Siu On Plaza","(22.280948, 114.182473)",12.4,31,Southern District,Wan Chai,12130
+621,2009774,Hung Shui Kiu (Hung Yuen Road) GMB stop,"(22.437202, 113.996668)",Hung Shui Kiu (Hung Yuen Road) GMB stop,"(22.437202, 113.996668)",6.1,45,Yuen Long,Yuen Long,12274
+621,2009807,Hung Shui Kiu (Hung Yuen Road) GMB stop,"(22.437202, 113.996668)",Hung Shui Kiu (Hung Yuen Road) GMB stop,"(22.437202, 113.996668)",6.1,35,Yuen Long,Yuen Long,11412
+54,2009840,Queen Mary Hospital,"(22.270673, 114.130651)",Central (Central Ferry Piers),"(22.286717, 114.160135)",8.8,25,Southern District,Central and Western,7693
+54,2009842,Central Ferry Piers,"(22.286717, 114.160135)",Queen Mary Hospital,"(22.270673, 114.130651)",8.8,21,Central and Western,Southern District,8557
+24,2009873,Fu Tip Estate,"(22.462958, 114.174892)",Fu Tip Estate,"(22.462958, 114.174892)",7.4,12,Tai Po,Tai Po,4551
+618a,2009906,Tin Yan Shopping Centre,"(22.46255, 113.996421)",Shenzhen Bay Port,"(22.50185, 113.946679)",14.4,29,Yuen Long,Yuen Long,17800
+20g,2009939,Wong Yue Tan (Lok Sin Village),"(22.462152, 114.204846)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",8.3,8,Tai Po,Tai Po,5966
+88d,2009972,"CHUNG MEI ROAD, near Ching Ho House, CHEUNG CHING ESTATE","(22.350017, 114.107432)","HING NING ROAD, near Metroplaza","(22.357213, 114.127526)",5.3,10,Kwai Tsing,Kwai Tsing,5012
+55s,2010005,Sha Tau Kok Public Transport Interchange,"(22.545552, 114.223597)",Ta Kwu Ling (Tsung Yuen Ha),"(22.55327, 114.155359)",12.0,21,North District,North District,8403
+82,2010038,"Choi Shing Lane, near Choi Wui House, Choi Hing Court","(22.33203, 114.213741)",Ping Shek Public Transport Interchange 1/F,"(22.334044, 114.210092)",4.0,2,Kwun Tong ,Kwun Tong ,760
+28k,2010071,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",10.0,58,Tai Po,Tai Po,26294
+28k,2010073,Care Village/Wong Yi Au,"(22.442405, 114.178953)",Royal Park Hotel,"(22.379941, 114.18807)",10.0,23,Tai Po,Sha Tin,9698
+28k,2010074,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)",Deerhill Bay,"(22.429743, 114.196214)",6.7,8,Tai Po,Tai Po,3625
+28k,2010075,"Kwong Fuk Road, near Kwong Fuk Building","(22.448166, 114.168248)",Royal Park Hotel,"(22.379941, 114.18807)",10.0,25,Tai Po,Sha Tin,12076
+28s,2010076,Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431124, 114.202043)",Pak Shek Kok (Fo Shing Road) Public Transport Interchange,"(22.431124, 114.202043)",10.0,54,Tai Po,Tai Po,23153
+814,2010077,"Lai Ping Road, GMB Terminus near service reservoir","(22.416206, 114.19966)","Lai Ping Road, GMB Terminus near service reservoir","(22.41617, 114.199641)",7.9,31,Sha Tin,Sha Tin,14280
+44,2010104,Tonkin Street outside Hang Shun Building,"(22.336756, 114.159052)",Tonkin Street outside Hang Shun Building,"(22.336756, 114.159052)",6.0,21,Sham Shui Po,Sham Shui Po,7578
+44,2010137,Tonkin Street outside Hang Shun Building,"(22.336756, 114.159052)",Tonkin Street outside Hang Shun Building,"(22.336756, 114.159052)",6.0,20,Sham Shui Po,Sham Shui Po,7169
+57k,2010170,Sheung Shui Station Public Light Bus Terminus,"(22.502125, 114.127688)",Fanling (Tong Kung Leng) Minibus Terminus,"(22.484631, 114.101107)",8.0,16,North District,Yuen Long,7787
+57k,2010171,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)","TSIU KENG ROAD, near Pang Ancestral Hall ","(22.476361, 114.103405)",8.0,15,North District,Yuen Long,10063
+58k,2010203,Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)","Ping Kong Road, near Ping Kong","(22.4907, 114.122688)",7.2,9,North District,North District,3695
+608s,2010236,CONCORDIA Tsat Sing Kong Public Light Bus Terminus,"(22.443074, 114.083945)",CONCORDIA Tsat Sing Kong Public Light Bus Terminus,"(22.443074, 114.083945)",6.1,9,Yuen Long,Yuen Long,4762
+803,2010269,"Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)","(22.361762, 114.174321)",Lee On Estate Bus Terminus,"(22.425361, 114.240953)",8.3,26,Sha Tin,Sha Tin,30344
+803,2010270,"Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)","(22.361762, 114.174321)",Lee On Estate Bus Terminus,"(22.425361, 114.240953)",8.3,24,Sha Tin,Sha Tin,23319
+803k,2010274,Tai Wai Station Bus Terminus,"(22.372789, 114.179302)","Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)","(22.361762, 114.174321)",3.9,4,Sha Tin,Sha Tin,3166
+804,2010275,Kwong Yuen Estate Bus Terminus,"(22.381291, 114.216046)",Kwong Yuen Estate Bus Terminus,"(22.381291, 114.216046)",6.1,22,Sha Tin,Sha Tin,15923
+805s,2010277,Kam Ying Court Bus Terminus,"(22.423385, 114.237096)","Mong Kok Road, outside Fa Yuen Street Market Complex","(22.320962, 114.170439)",17.2,34,Sha Tin,Yau Tsim Mong,29297
+805s,2010278,"Mong Kok Road, outside Fa Yuen Street Market Complex","(22.320962, 114.170439)",Kam Ying Court Bus Terminus,"(22.423385, 114.237096)",17.2,26,Yau Tsim Mong,Sha Tin,10286
+810,2010279,"Sha Tin Centre Street, Near Wai Wah Centre Block 2","(22.380771, 114.187196)","Sha Tin Centre Street, Near Wai Wah Centre Block 2","(22.380771, 114.187196)",7.0,38,Sha Tin,Sha Tin,18447
+810,2010280,"Sha Tin Centre Street, Near Wai Wah Centre Block 2","(22.380762, 114.187177)","Sha Tin Centre Street, Near Wai Wah Centre Block 2","(22.380762, 114.187177)",7.0,38,Sha Tin,Sha Tin,18240
+810a,2010281,"Yiu Sha Road, Near St. Barths Maple Court Tower 1","(22.433289, 114.24118)","Yiu Sha Road, Near St. Barths Maple Court Tower 1","(22.433289, 114.24118)",7.0,19,Sha Tin,Sha Tin,19160
+75s,2010302,Caritas Medical Centre Minibus Terminus,"(22.341063, 114.153295)",Caritas Medical Centre Minibus Terminus,"(22.341063, 114.153295)",4.5,6,Sham Shui Po,Sham Shui Po,4833
+76a,2010335,Kwong Tin Estate Bus Terminus,"(22.302572, 114.241169)",Kwong Tin Estate Bus Terminus,"(22.302572, 114.241169)",6.6,58,Kwun Tong ,Kwun Tong ,12896
+47,2010368,"Lee On Road, near Lee Ming House, Shun Lee Estate","(22.332406, 114.225117)",Tsui Ping (Fuk Tong Road),"(22.311942, 114.228177)",6.1,13,Kwun Tong ,Kwun Tong,5867
+28a,2010401,Tai Po Market Station Minibus Terminus,"(22.443814, 114.170424)","Yau King Lane, near Pok Yin Road","(22.427918, 114.200799)",7.7,17,Tai Po,Sha Tin,9268
+618b,2010434,"Wetland Park Road, near Grandeur Terrace Block 6","(22.4697, 114.002795)",Shenzhen Bay Port,"(22.49487, 113.946593)",14.4,26,Yuen Long,Yuen Long,2586
+116,2010467,Pak Shing Kok Road (northbound) ,"(22.305834, 114.274575)",Pak Shing Kok Road (northbound) ,"(22.305834, 114.274575)",8.2,12,Sai Kung,Sai Kung,5426
+55k,2010500,"Sha Tau Kok Road, Loi Tung","(22.521719, 114.182843)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",8.2,16,North District,North District,7596
+55k,2010501,"Sha Tau Kok Road, Tam Shui Hang","(22.544976, 114.21894)",Sheung Shui Station Public Light Bus Terminus,"(22.502043, 114.127785)",11.5,21,North District,North District,11471
