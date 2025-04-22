@@ -1,0 +1,437 @@
+Start_District,End_District,Start_Lat,Start_Lon,End_Lat,End_Lon,Distance_km,Taxi_Type,Tunnels,Tunnel_Fee_HKD,Fare_HKD,Fare_Divided_By_3,Estimated_Time_Minutes,Start_Coordinates,End_Coordinates,Start_Value_for_tableau_district,End_Value_for_tableau_district
+Central and Western,Central and Western,22.285,114.158,22.285,114.158,0.0,urban,None,0,29.0,9.7,0,"(22.285, 114.158)","(22.285, 114.158)",8,8
+Central and Western,Eastern,22.285,114.158,22.283,114.233,7.7,urban,None,0,114.4,38.1,12,"(22.285, 114.158)","(22.283, 114.233)",8,10
+Central and Western,Islands,22.285,114.158,22.267,113.95,21.5,urban,None,0,259.5,86.5,33,"(22.285, 114.158)","(22.267, 113.95)",8,2
+Central and Western,Kowloon City,22.285,114.158,22.323,114.188,5.2,urban,Western Harbour Crossing,50,142.2,47.4,14,"(22.285, 114.158)","(22.323, 114.188)",8,17
+Central and Western,Kowloon City,22.285,114.158,22.323,114.188,5.2,urban,Cross-Harbour Tunnel,50,142.2,47.4,14,"(22.285, 114.158)","(22.323, 114.188)",8,17
+Central and Western,Kwai Tsing,22.285,114.158,22.358,114.125,8.8,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,238.7,79.6,16,"(22.285, 114.158)","(22.358, 114.125)",8,5
+Central and Western,Kwun Tong,22.285,114.158,22.31,114.225,7.4,urban,Western Harbour Crossing,50,167.6,55.9,15,"(22.285, 114.158)","(22.31, 114.225)",8,6
+Central and Western,Kwun Tong,22.285,114.158,22.31,114.225,7.4,urban,Eastern Harbour Crossing,50,167.6,55.9,15,"(22.285, 114.158)","(22.31, 114.225)",8,6
+Central and Western,Kwun Tong,22.285,114.158,22.31,114.225,7.4,urban,Cross-Harbour Tunnel,50,167.6,55.9,15,"(22.285, 114.158)","(22.31, 114.225)",8,6
+Central and Western,North District,22.285,114.158,22.5,114.133,23.9,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,342.2,114.1,31,"(22.285, 114.158)","(22.5, 114.133)",8,0
+Central and Western,North District,22.285,114.158,22.5,114.133,23.9,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,377.2,125.7,31,"(22.285, 114.158)","(22.5, 114.133)",8,0
+Central and Western,Sai Kung,22.285,114.158,22.4,114.267,17.0,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,312.3,104.1,40,"(22.285, 114.158)","(22.4, 114.267)",8,5
+Central and Western,Sai Kung,22.285,114.158,22.4,114.267,17.0,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,347.3,115.8,40,"(22.285, 114.158)","(22.4, 114.267)",8,5
+Central and Western,Sham Shui Po,22.285,114.158,22.333,114.167,5.4,urban,Western Harbour Crossing,50,148.3,49.4,16,"(22.285, 114.158)","(22.333, 114.167)",8,8
+Central and Western,Sham Shui Po,22.285,114.158,22.333,114.167,5.4,urban,Cross-Harbour Tunnel,50,148.3,49.4,16,"(22.285, 114.158)","(22.333, 114.167)",8,8
+Central and Western,Sha Tin,22.285,114.158,22.383,114.2,11.7,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,231.2,77.1,19,"(22.285, 114.158)","(22.383, 114.2)",8,6
+Central and Western,Sha Tin,22.285,114.158,22.383,114.2,11.7,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,266.2,88.7,19,"(22.285, 114.158)","(22.383, 114.2)",8,6
+Central and Western,Sha Tin,22.285,114.158,22.383,114.2,11.7,urban,"Cross-Harbour Tunnel, Eagle's Nest Tunnel",58,219.2,73.1,19,"(22.285, 114.158)","(22.383, 114.2)",8,6
+Central and Western,Southern District,22.285,114.158,22.242,114.15,4.8,urban,None,0,86.0,28.7,13,"(22.285, 114.158)","(22.242, 114.15)",8,4
+Central and Western,Tai Po,22.285,114.158,22.45,114.167,18.3,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,298.5,99.5,29,"(22.285, 114.158)","(22.45, 114.167)",8,2
+Central and Western,Tai Po,22.285,114.158,22.45,114.167,18.3,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,333.5,111.2,29,"(22.285, 114.158)","(22.45, 114.167)",8,2
+Central and Western,Tsuen Wan,22.285,114.158,22.367,114.117,10.0,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,244.0,81.3,14,"(22.285, 114.158)","(22.367, 114.117)",8,4
+Central and Western,Tuen Mun,22.285,114.158,22.4,113.975,22.7,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,362.5,120.8,28,"(22.285, 114.158)","(22.4, 113.975)",8,2
+Central and Western,Wan Chai,22.285,114.158,22.278,114.178,2.2,urban,None,0,47.9,16.0,8,"(22.285, 114.158)","(22.278, 114.178)",8,7
+Central and Western,Wong Tai Sin,22.285,114.158,22.342,114.183,6.8,urban,Western Harbour Crossing,50,165.3,55.1,17,"(22.285, 114.158)","(22.342, 114.183)",8,3
+Central and Western,Wong Tai Sin,22.285,114.158,22.342,114.183,6.8,urban,Cross-Harbour Tunnel,50,165.3,55.1,17,"(22.285, 114.158)","(22.342, 114.183)",8,3
+Central and Western,Yau Tsim Mong,22.285,114.158,22.3,114.175,2.4,urban,Western Harbour Crossing,50,112.7,37.6,14,"(22.285, 114.158)","(22.3, 114.175)",8,9
+Central and Western,Yau Tsim Mong,22.285,114.158,22.3,114.175,2.4,urban,Cross-Harbour Tunnel,50,112.7,37.6,14,"(22.285, 114.158)","(22.3, 114.175)",8,9
+Central and Western,Yuen Long,22.285,114.158,22.433,114.033,20.8,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,351.3,117.1,29,"(22.285, 114.158)","(22.433, 114.033)",8,1
+Eastern,Central and Western,22.283,114.233,22.285,114.158,7.7,urban,None,0,116.5,38.8,13,"(22.283, 114.233)","(22.285, 114.158)",10,8
+Eastern,Eastern,22.283,114.233,22.283,114.233,0.0,urban,None,0,29.0,9.7,0,"(22.283, 114.233)","(22.283, 114.233)",10,10
+Eastern,Islands,22.283,114.233,22.267,113.95,29.2,urban,None,0,338.5,112.8,45,"(22.283, 114.233)","(22.267, 113.95)",10,2
+Eastern,Kowloon City,22.283,114.233,22.323,114.188,6.4,urban,Eastern Harbour Crossing,50,158.9,53.0,16,"(22.283, 114.233)","(22.323, 114.188)",10,17
+Eastern,Kowloon City,22.283,114.233,22.323,114.188,6.4,urban,Cross-Harbour Tunnel,50,158.9,53.0,16,"(22.283, 114.233)","(22.323, 114.188)",10,17
+Eastern,Kwai Tsing,22.283,114.233,22.358,114.125,13.9,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,298.4,99.5,27,"(22.283, 114.233)","(22.358, 114.125)",10,5
+Eastern,Kwun Tong,22.283,114.233,22.31,114.225,3.1,urban,Eastern Harbour Crossing,50,115.8,38.6,12,"(22.283, 114.233)","(22.31, 114.225)",10,6
+Eastern,Kwun Tong,22.283,114.233,22.31,114.225,3.1,urban,Cross-Harbour Tunnel,50,115.8,38.6,12,"(22.283, 114.233)","(22.31, 114.225)",10,6
+Eastern,North District,22.283,114.233,22.5,114.133,26.1,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,359.7,119.9,32,"(22.283, 114.233)","(22.5, 114.133)",10,0
+Eastern,North District,22.283,114.233,22.5,114.133,26.1,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,394.7,131.6,32,"(22.283, 114.233)","(22.5, 114.133)",10,0
+Eastern,Sai Kung,22.283,114.233,22.4,114.267,13.4,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,279.0,93.0,36,"(22.283, 114.233)","(22.4, 114.267)",10,5
+Eastern,Sai Kung,22.283,114.233,22.4,114.267,13.4,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,314.0,104.7,36,"(22.283, 114.233)","(22.4, 114.267)",10,5
+Eastern,Sham Shui Po,22.283,114.233,22.333,114.167,8.8,urban,Eastern Harbour Crossing,50,198.4,66.1,23,"(22.283, 114.233)","(22.333, 114.167)",10,8
+Eastern,Sham Shui Po,22.283,114.233,22.333,114.167,8.8,urban,Cross-Harbour Tunnel,50,198.4,66.1,23,"(22.283, 114.233)","(22.333, 114.167)",10,8
+Eastern,Sha Tin,22.283,114.233,22.383,114.2,11.6,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,232.6,77.5,20,"(22.283, 114.233)","(22.383, 114.2)",10,6
+Eastern,Sha Tin,22.283,114.233,22.383,114.2,11.6,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,267.6,89.2,20,"(22.283, 114.233)","(22.383, 114.2)",10,6
+Eastern,Sha Tin,22.283,114.233,22.383,114.2,11.6,urban,"Cross-Harbour Tunnel, Eagle's Nest Tunnel",58,220.6,73.5,20,"(22.283, 114.233)","(22.383, 114.2)",10,6
+Eastern,Southern District,22.283,114.233,22.242,114.15,9.7,urban,None,0,143.0,47.7,17,"(22.283, 114.233)","(22.242, 114.15)",10,4
+Eastern,Tai Po,22.283,114.233,22.45,114.167,19.7,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,312.5,104.2,31,"(22.283, 114.233)","(22.45, 114.167)",10,2
+Eastern,Tai Po,22.283,114.233,22.45,114.167,19.7,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,347.5,115.8,31,"(22.283, 114.233)","(22.45, 114.167)",10,2
+Eastern,Tsuen Wan,22.283,114.233,22.367,114.117,15.1,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,305.1,101.7,26,"(22.283, 114.233)","(22.367, 114.117)",10,4
+Eastern,Tuen Mun,22.283,114.233,22.4,113.975,29.6,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,433.4,144.5,39,"(22.283, 114.233)","(22.4, 113.975)",10,2
+Eastern,Wan Chai,22.283,114.233,22.278,114.178,5.7,urban,None,0,95.1,31.7,13,"(22.283, 114.233)","(22.278, 114.178)",10,7
+Eastern,Wong Tai Sin,22.283,114.233,22.342,114.183,8.3,urban,Eastern Harbour Crossing,50,191.6,63.9,22,"(22.283, 114.233)","(22.342, 114.183)",10,3
+Eastern,Wong Tai Sin,22.283,114.233,22.342,114.183,8.3,urban,Cross-Harbour Tunnel,50,191.6,63.9,22,"(22.283, 114.233)","(22.342, 114.183)",10,3
+Eastern,Yau Tsim Mong,22.283,114.233,22.3,114.175,6.3,urban,Eastern Harbour Crossing,50,161.6,53.9,18,"(22.283, 114.233)","(22.3, 114.175)",10,9
+Eastern,Yau Tsim Mong,22.283,114.233,22.3,114.175,6.3,urban,Cross-Harbour Tunnel,50,161.6,53.9,18,"(22.283, 114.233)","(22.3, 114.175)",10,9
+Eastern,Yuen Long,22.283,114.233,22.433,114.033,26.5,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,415.8,138.6,41,"(22.283, 114.233)","(22.433, 114.033)",10,1
+Islands,Central and Western,22.267,113.95,22.285,114.158,21.5,lantau,None,0,277.5,92.5,37,"(22.267, 113.95)","(22.285, 114.158)",2,8
+Islands,Eastern,22.267,113.95,22.283,114.233,29.2,lantau,None,0,354.3,118.1,45,"(22.267, 113.95)","(22.283, 114.233)",2,10
+Islands,Islands,22.267,113.95,22.267,113.95,0.0,lantau,None,0,24.0,8.0,0,"(22.267, 113.95)","(22.267, 113.95)",2,2
+Islands,Kowloon City,22.267,113.95,22.323,114.188,25.3,lantau,None,0,313.4,104.5,40,"(22.267, 113.95)","(22.323, 114.188)",2,17
+Islands,Kwai Tsing,22.267,113.95,22.358,114.125,20.7,lantau,None,0,253.4,84.5,28,"(22.267, 113.95)","(22.358, 114.125)",2,5
+Islands,Kwun Tong,22.267,113.95,22.31,114.225,28.7,lantau,None,0,344.7,114.9,42,"(22.267, 113.95)","(22.31, 114.225)",2,6
+Islands,North District,22.267,113.95,22.5,114.133,32.0,lantau,None,0,366.6,122.2,40,"(22.267, 113.95)","(22.5, 114.133)",2,0
+Islands,Sai Kung,22.267,113.95,22.4,114.267,35.8,lantau,None,0,435.6,145.2,60,"(22.267, 113.95)","(22.4, 114.267)",2,5
+Islands,Sham Shui Po,22.267,113.95,22.333,114.167,23.5,lantau,None,0,287.8,95.9,34,"(22.267, 113.95)","(22.333, 114.167)",2,8
+Islands,Sha Tin,22.267,113.95,22.383,114.2,28.8,lantau,None,0,333.7,111.2,36,"(22.267, 113.95)","(22.383, 114.2)",2,6
+Islands,Southern District,22.267,113.95,22.242,114.15,20.8,lantau,None,0,290.7,96.9,47,"(22.267, 113.95)","(22.242, 114.15)",2,4
+Islands,Tai Po,22.267,113.95,22.45,114.167,30.2,lantau,None,0,365.7,121.9,47,"(22.267, 113.95)","(22.45, 114.167)",2,2
+Islands,Tsuen Wan,22.267,113.95,22.367,114.117,20.5,lantau,None,0,250.0,83.3,27,"(22.267, 113.95)","(22.367, 114.117)",2,4
+Islands,Tuen Mun,22.267,113.95,22.4,113.975,15.0,lantau,None,0,202.1,67.4,29,"(22.267, 113.95)","(22.4, 113.975)",2,2
+Islands,Wan Chai,22.267,113.95,22.278,114.178,23.5,lantau,None,0,304.9,101.6,43,"(22.267, 113.95)","(22.278, 114.178)",2,7
+Islands,Wong Tai Sin,22.267,113.95,22.342,114.183,25.4,lantau,None,0,310.4,103.5,38,"(22.267, 113.95)","(22.342, 114.183)",2,3
+Islands,Yau Tsim Mong,22.267,113.95,22.3,114.175,23.5,lantau,None,0,295.0,98.3,38,"(22.267, 113.95)","(22.3, 114.175)",2,9
+Islands,Yuen Long,22.267,113.95,22.433,114.033,20.3,lantau,None,0,269.4,89.8,38,"(22.267, 113.95)","(22.433, 114.033)",2,1
+Kowloon City,Central and Western,22.323,114.188,22.285,114.158,5.2,urban,Western Harbour Crossing,50,142.2,47.4,14,"(22.323, 114.188)","(22.285, 114.158)",17,8
+Kowloon City,Central and Western,22.323,114.188,22.285,114.158,5.2,urban,Cross-Harbour Tunnel,50,142.2,47.4,14,"(22.323, 114.188)","(22.285, 114.158)",17,8
+Kowloon City,Eastern,22.323,114.188,22.283,114.233,6.4,urban,Eastern Harbour Crossing,50,158.9,53.0,16,"(22.323, 114.188)","(22.283, 114.233)",17,10
+Kowloon City,Eastern,22.323,114.188,22.283,114.233,6.4,urban,Cross-Harbour Tunnel,50,158.9,53.0,16,"(22.323, 114.188)","(22.283, 114.233)",17,10
+Kowloon City,Islands,22.323,114.188,22.267,113.95,25.3,urban,None,0,298.5,99.5,39,"(22.323, 114.188)","(22.267, 113.95)",17,2
+Kowloon City,Kowloon City,22.323,114.188,22.323,114.188,0.0,urban,None,0,29.0,9.7,0,"(22.323, 114.188)","(22.323, 114.188)",17,17
+Kowloon City,Kwai Tsing,22.323,114.188,22.358,114.125,7.6,urban,Tai Lam Tunnel,55,182.3,60.8,19,"(22.323, 114.188)","(22.358, 114.125)",17,5
+Kowloon City,Kwun Tong,22.323,114.188,22.31,114.225,4.1,urban,None,0,78.1,26.0,13,"(22.323, 114.188)","(22.31, 114.225)",17,6
+Kowloon City,North District,22.323,114.188,22.5,114.133,20.4,urban,Tate's Cairn Tunnel,20,256.9,85.6,26,"(22.323, 114.188)","(22.5, 114.133)",17,0
+Kowloon City,North District,22.323,114.188,22.5,114.133,20.4,urban,Lion Rock Tunnel,8,244.9,81.6,26,"(22.323, 114.188)","(22.5, 114.133)",17,0
+Kowloon City,Sai Kung,22.323,114.188,22.4,114.267,11.8,urban,Tate's Cairn Tunnel,20,211.3,70.4,33,"(22.323, 114.188)","(22.4, 114.267)",17,5
+Kowloon City,Sai Kung,22.323,114.188,22.4,114.267,11.8,urban,Lion Rock Tunnel,8,199.3,66.4,33,"(22.323, 114.188)","(22.4, 114.267)",17,5
+Kowloon City,Sham Shui Po,22.323,114.188,22.333,114.167,2.4,urban,None,0,65.0,21.7,15,"(22.323, 114.188)","(22.333, 114.167)",17,8
+Kowloon City,Sha Tin,22.323,114.188,22.383,114.2,6.8,urban,Tate's Cairn Tunnel,20,126.3,42.1,13,"(22.323, 114.188)","(22.383, 114.2)",17,6
+Kowloon City,Sha Tin,22.323,114.188,22.383,114.2,6.8,urban,Lion Rock Tunnel,8,114.3,38.1,13,"(22.323, 114.188)","(22.383, 114.2)",17,6
+Kowloon City,Sha Tin,22.323,114.188,22.383,114.2,6.8,urban,Eagle's Nest Tunnel,8,114.3,38.1,13,"(22.323, 114.188)","(22.383, 114.2)",17,6
+Kowloon City,Southern District,22.323,114.188,22.242,114.15,9.8,urban,None,0,143.7,47.9,17,"(22.323, 114.188)","(22.242, 114.15)",17,4
+Kowloon City,Tai Po,22.323,114.188,22.45,114.167,14.2,urban,Tate's Cairn Tunnel,20,209.5,69.8,24,"(22.323, 114.188)","(22.45, 114.167)",17,2
+Kowloon City,Tai Po,22.323,114.188,22.45,114.167,14.2,urban,Lion Rock Tunnel,8,197.5,65.8,24,"(22.323, 114.188)","(22.45, 114.167)",17,2
+Kowloon City,Tsuen Wan,22.323,114.188,22.367,114.117,8.8,urban,Tai Lam Tunnel,55,193.1,64.4,18,"(22.323, 114.188)","(22.367, 114.117)",17,4
+Kowloon City,Tuen Mun,22.323,114.188,22.4,113.975,23.5,urban,Tai Lam Tunnel,55,326.5,108.8,32,"(22.323, 114.188)","(22.4, 113.975)",17,2
+Kowloon City,Wan Chai,22.323,114.188,22.278,114.178,5.1,urban,Cross-Harbour Tunnel,50,138.7,46.2,13,"(22.323, 114.188)","(22.278, 114.178)",17,7
+Kowloon City,Wong Tai Sin,22.323,114.188,22.342,114.183,2.2,urban,None,0,58.0,19.3,13,"(22.323, 114.188)","(22.342, 114.183)",17,3
+Kowloon City,Yau Tsim Mong,22.323,114.188,22.3,114.175,2.9,urban,None,0,61.3,20.4,11,"(22.323, 114.188)","(22.3, 114.175)",17,9
+Kowloon City,Yuen Long,22.323,114.188,22.433,114.033,20.1,urban,Tai Lam Tunnel,55,304.4,101.5,33,"(22.323, 114.188)","(22.433, 114.033)",17,1
+Kwai Tsing,Central and Western,22.358,114.125,22.285,114.158,8.8,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,214.1,71.4,14,"(22.358, 114.125)","(22.285, 114.158)",5,8
+Kwai Tsing,Eastern,22.358,114.125,22.283,114.233,13.9,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,257.4,85.8,23,"(22.358, 114.125)","(22.283, 114.233)",5,10
+Kwai Tsing,Islands,22.358,114.125,22.267,113.95,20.7,new_territories,None,0,207.4,69.1,27,"(22.358, 114.125)","(22.267, 113.95)",5,2
+Kwai Tsing,Kowloon City,22.358,114.125,22.323,114.188,7.6,new_territories,Tai Lam Tunnel,55,165.6,55.2,17,"(22.358, 114.125)","(22.323, 114.188)",5,17
+Kwai Tsing,Kwai Tsing,22.358,114.125,22.358,114.125,0.0,new_territories,None,0,25.5,8.5,0,"(22.358, 114.125)","(22.358, 114.125)",5,5
+Kwai Tsing,Kwun Tong,22.358,114.125,22.31,114.225,11.6,new_territories,Tai Lam Tunnel,55,183.7,61.2,19,"(22.358, 114.125)","(22.31, 114.225)",5,6
+Kwai Tsing,North District,22.358,114.125,22.5,114.133,15.7,new_territories,Tai Lam Tunnel,55,222.3,74.1,24,"(22.358, 114.125)","(22.5, 114.133)",5,0
+Kwai Tsing,Sai Kung,22.358,114.125,22.4,114.267,15.3,new_territories,Tai Lam Tunnel,55,246.1,82.0,38,"(22.358, 114.125)","(22.4, 114.267)",5,5
+Kwai Tsing,Sham Shui Po,22.358,114.125,22.333,114.167,5.1,new_territories,Tai Lam Tunnel,55,131.2,43.7,11,"(22.358, 114.125)","(22.333, 114.167)",5,8
+Kwai Tsing,Sha Tin,22.358,114.125,22.383,114.2,8.2,new_territories,Tai Lam Tunnel,55,164.1,54.7,14,"(22.358, 114.125)","(22.383, 114.2)",5,6
+Kwai Tsing,Sha Tin,22.358,114.125,22.383,114.2,8.2,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,172.1,57.4,14,"(22.358, 114.125)","(22.383, 114.2)",5,6
+Kwai Tsing,Southern District,22.358,114.125,22.242,114.15,13.1,new_territories,None,0,148.8,49.6,24,"(22.358, 114.125)","(22.242, 114.15)",5,4
+Kwai Tsing,Tai Po,22.358,114.125,22.45,114.167,11.1,new_territories,Tai Lam Tunnel,55,189.6,63.2,24,"(22.358, 114.125)","(22.45, 114.167)",5,2
+Kwai Tsing,Tsuen Wan,22.358,114.125,22.367,114.117,1.3,new_territories,None,0,35.0,11.7,5,"(22.358, 114.125)","(22.367, 114.117)",5,4
+Kwai Tsing,Tuen Mun,22.358,114.125,22.4,113.975,16.1,new_territories,None,0,162.4,54.1,20,"(22.358, 114.125)","(22.4, 113.975)",5,2
+Kwai Tsing,Wan Chai,22.358,114.125,22.278,114.178,10.4,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,227.3,75.8,20,"(22.358, 114.125)","(22.278, 114.178)",5,7
+Kwai Tsing,Wong Tai Sin,22.358,114.125,22.342,114.183,6.2,new_territories,Tai Lam Tunnel,55,149.2,49.7,15,"(22.358, 114.125)","(22.342, 114.183)",5,3
+Kwai Tsing,Yau Tsim Mong,22.358,114.125,22.3,114.175,8.2,new_territories,Tai Lam Tunnel,55,166.0,55.3,15,"(22.358, 114.125)","(22.3, 114.175)",5,9
+Kwai Tsing,Yuen Long,22.358,114.125,22.433,114.033,12.6,new_territories,None,0,139.6,46.5,21,"(22.358, 114.125)","(22.433, 114.033)",5,1
+Kwun Tong,Central and Western,22.31,114.225,22.285,114.158,7.4,urban,Western Harbour Crossing,50,171.8,57.3,17,"(22.31, 114.225)","(22.285, 114.158)",6,8
+Kwun Tong,Central and Western,22.31,114.225,22.285,114.158,7.4,urban,Eastern Harbour Crossing,50,171.8,57.3,17,"(22.31, 114.225)","(22.285, 114.158)",6,8
+Kwun Tong,Central and Western,22.31,114.225,22.285,114.158,7.4,urban,Cross-Harbour Tunnel,50,171.8,57.3,17,"(22.31, 114.225)","(22.285, 114.158)",6,8
+Kwun Tong,Eastern,22.31,114.225,22.283,114.233,3.1,urban,Eastern Harbour Crossing,50,115.8,38.6,12,"(22.31, 114.225)","(22.283, 114.233)",6,10
+Kwun Tong,Eastern,22.31,114.225,22.283,114.233,3.1,urban,Cross-Harbour Tunnel,50,115.8,38.6,12,"(22.31, 114.225)","(22.283, 114.233)",6,10
+Kwun Tong,Islands,22.31,114.225,22.267,113.95,28.7,urban,None,0,331.0,110.3,43,"(22.31, 114.225)","(22.267, 113.95)",6,2
+Kwun Tong,Kowloon City,22.31,114.225,22.323,114.188,4.1,urban,None,0,73.9,24.6,11,"(22.31, 114.225)","(22.323, 114.188)",6,17
+Kwun Tong,Kwai Tsing,22.31,114.225,22.358,114.125,11.6,urban,Tai Lam Tunnel,55,228.1,76.0,25,"(22.31, 114.225)","(22.358, 114.125)",6,5
+Kwun Tong,Kwun Tong,22.31,114.225,22.31,114.225,0.0,urban,None,0,29.0,9.7,0,"(22.31, 114.225)","(22.31, 114.225)",6,6
+Kwun Tong,North District,22.31,114.225,22.5,114.133,23.1,urban,Tate's Cairn Tunnel,20,277.7,92.6,27,"(22.31, 114.225)","(22.5, 114.133)",6,0
+Kwun Tong,North District,22.31,114.225,22.5,114.133,23.1,urban,Lion Rock Tunnel,8,265.7,88.6,27,"(22.31, 114.225)","(22.5, 114.133)",6,0
+Kwun Tong,Sai Kung,22.31,114.225,22.4,114.267,10.9,urban,Tate's Cairn Tunnel,20,200.7,66.9,31,"(22.31, 114.225)","(22.4, 114.267)",6,5
+Kwun Tong,Sai Kung,22.31,114.225,22.4,114.267,10.9,urban,Lion Rock Tunnel,8,188.7,62.9,31,"(22.31, 114.225)","(22.4, 114.267)",6,5
+Kwun Tong,Sham Shui Po,22.31,114.225,22.333,114.167,6.5,urban,None,0,114.0,38.0,18,"(22.31, 114.225)","(22.333, 114.167)",6,8
+Kwun Tong,Sha Tin,22.31,114.225,22.383,114.2,8.5,urban,Tate's Cairn Tunnel,20,146.5,48.8,14,"(22.31, 114.225)","(22.383, 114.2)",6,6
+Kwun Tong,Sha Tin,22.31,114.225,22.383,114.2,8.5,urban,Lion Rock Tunnel,8,134.5,44.8,14,"(22.31, 114.225)","(22.383, 114.2)",6,6
+Kwun Tong,Sha Tin,22.31,114.225,22.383,114.2,8.5,urban,Eagle's Nest Tunnel,8,134.5,44.8,14,"(22.31, 114.225)","(22.383, 114.2)",6,6
+Kwun Tong,Southern District,22.31,114.225,22.242,114.15,10.8,urban,None,0,159.1,53.0,21,"(22.31, 114.225)","(22.242, 114.15)",6,4
+Kwun Tong,Tai Po,22.31,114.225,22.45,114.167,16.6,urban,Tate's Cairn Tunnel,20,228.3,76.1,25,"(22.31, 114.225)","(22.45, 114.167)",6,2
+Kwun Tong,Tai Po,22.31,114.225,22.45,114.167,16.6,urban,Lion Rock Tunnel,8,216.3,72.1,25,"(22.31, 114.225)","(22.45, 114.167)",6,2
+Kwun Tong,Tsuen Wan,22.31,114.225,22.367,114.117,12.8,urban,Tai Lam Tunnel,55,232.3,77.4,23,"(22.31, 114.225)","(22.367, 114.117)",6,4
+Kwun Tong,Tuen Mun,22.31,114.225,22.4,113.975,27.6,urban,Tai Lam Tunnel,55,365.5,121.8,37,"(22.31, 114.225)","(22.4, 113.975)",6,2
+Kwun Tong,Wan Chai,22.31,114.225,22.278,114.178,6.0,urban,Eastern Harbour Crossing,50,154.6,51.5,16,"(22.31, 114.225)","(22.278, 114.178)",6,7
+Kwun Tong,Wan Chai,22.31,114.225,22.278,114.178,6.0,urban,Cross-Harbour Tunnel,50,154.6,51.5,16,"(22.31, 114.225)","(22.278, 114.178)",6,7
+Kwun Tong,Wong Tai Sin,22.31,114.225,22.342,114.183,5.6,urban,None,0,98.2,32.7,15,"(22.31, 114.225)","(22.342, 114.183)",6,3
+Kwun Tong,Yau Tsim Mong,22.31,114.225,22.3,114.175,5.3,urban,None,0,99.0,33.0,17,"(22.31, 114.225)","(22.3, 114.175)",6,9
+Kwun Tong,Yuen Long,22.31,114.225,22.433,114.033,24.0,urban,Tai Lam Tunnel,55,344.5,114.8,39,"(22.31, 114.225)","(22.433, 114.033)",6,1
+North District,Central and Western,22.5,114.133,22.285,114.158,23.9,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,317.5,105.8,36,"(22.5, 114.133)","(22.285, 114.158)",0,8
+North District,Central and Western,22.5,114.133,22.285,114.158,23.9,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,352.5,117.5,36,"(22.5, 114.133)","(22.285, 114.158)",0,8
+North District,Eastern,22.5,114.133,22.283,114.233,26.1,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,329.1,109.7,34,"(22.5, 114.133)","(22.283, 114.233)",0,10
+North District,Eastern,22.5,114.133,22.283,114.233,26.1,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,364.1,121.4,34,"(22.5, 114.133)","(22.283, 114.233)",0,10
+North District,Islands,22.5,114.133,22.267,113.95,32.0,new_territories,None,0,318.8,106.3,44,"(22.5, 114.133)","(22.267, 113.95)",0,2
+North District,Kowloon City,22.5,114.133,22.323,114.188,20.4,new_territories,Tate's Cairn Tunnel,20,225.6,75.2,27,"(22.5, 114.133)","(22.323, 114.188)",0,17
+North District,Kowloon City,22.5,114.133,22.323,114.188,20.4,new_territories,Lion Rock Tunnel,8,213.6,71.2,27,"(22.5, 114.133)","(22.323, 114.188)",0,17
+North District,Kwai Tsing,22.5,114.133,22.358,114.125,15.7,new_territories,Tai Lam Tunnel,55,235.6,78.5,31,"(22.5, 114.133)","(22.358, 114.125)",0,5
+North District,Kwun Tong,22.5,114.133,22.31,114.225,23.1,new_territories,Tate's Cairn Tunnel,20,250.0,83.3,30,"(22.5, 114.133)","(22.31, 114.225)",0,6
+North District,Kwun Tong,22.5,114.133,22.31,114.225,23.1,new_territories,Lion Rock Tunnel,8,238.0,79.3,30,"(22.5, 114.133)","(22.31, 114.225)",0,6
+North District,North District,22.5,114.133,22.5,114.133,0.0,new_territories,None,0,25.5,8.5,0,"(22.5, 114.133)","(22.5, 114.133)",0,0
+North District,Sai Kung,22.5,114.133,22.4,114.267,17.7,new_territories,None,0,203.7,67.9,36,"(22.5, 114.133)","(22.4, 114.267)",0,5
+North District,Sham Shui Po,22.5,114.133,22.333,114.167,18.8,new_territories,Tate's Cairn Tunnel,20,220.2,73.4,30,"(22.5, 114.133)","(22.333, 114.167)",0,8
+North District,Sham Shui Po,22.5,114.133,22.333,114.167,18.8,new_territories,Lion Rock Tunnel,8,208.2,69.4,30,"(22.5, 114.133)","(22.333, 114.167)",0,8
+North District,Sha Tin,22.5,114.133,22.383,114.2,14.7,new_territories,None,0,152.2,50.7,20,"(22.5, 114.133)","(22.383, 114.2)",0,6
+North District,Southern District,22.5,114.133,22.242,114.15,28.6,new_territories,None,0,289.8,96.6,41,"(22.5, 114.133)","(22.242, 114.15)",0,4
+North District,Tai Po,22.5,114.133,22.45,114.167,6.5,new_territories,None,0,101.0,33.7,17,"(22.5, 114.133)","(22.45, 114.167)",0,2
+North District,Tsuen Wan,22.5,114.133,22.367,114.117,14.8,new_territories,Tai Lam Tunnel,55,227.2,75.7,30,"(22.5, 114.133)","(22.367, 114.117)",0,4
+North District,Tuen Mun,22.5,114.133,22.4,113.975,19.7,new_territories,Tai Lam Tunnel,55,255.5,85.2,27,"(22.5, 114.133)","(22.4, 113.975)",0,2
+North District,Wan Chai,22.5,114.133,22.278,114.178,25.0,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,326.9,109.0,37,"(22.5, 114.133)","(22.278, 114.178)",0,7
+North District,Wan Chai,22.5,114.133,22.278,114.178,25.0,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,361.9,120.6,37,"(22.5, 114.133)","(22.278, 114.178)",0,7
+North District,Wong Tai Sin,22.5,114.133,22.342,114.183,18.2,new_territories,Tate's Cairn Tunnel,20,212.4,70.8,28,"(22.5, 114.133)","(22.342, 114.183)",0,3
+North District,Wong Tai Sin,22.5,114.133,22.342,114.183,18.2,new_territories,Lion Rock Tunnel,8,200.4,66.8,28,"(22.5, 114.133)","(22.342, 114.183)",0,3
+North District,Yau Tsim Mong,22.5,114.133,22.3,114.175,22.6,new_territories,Tate's Cairn Tunnel,20,256.0,85.3,35,"(22.5, 114.133)","(22.3, 114.175)",0,9
+North District,Yau Tsim Mong,22.5,114.133,22.3,114.175,22.6,new_territories,Lion Rock Tunnel,8,244.0,81.3,35,"(22.5, 114.133)","(22.3, 114.175)",0,9
+North District,Yuen Long,22.5,114.133,22.433,114.033,12.7,new_territories,Tai Lam Tunnel,55,193.3,64.4,20,"(22.5, 114.133)","(22.433, 114.033)",0,1
+Sai Kung,Central and Western,22.4,114.267,22.285,114.158,17.0,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,280.1,93.4,42,"(22.4, 114.267)","(22.285, 114.158)",5,8
+Sai Kung,Central and Western,22.4,114.267,22.285,114.158,17.0,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,315.1,105.0,42,"(22.4, 114.267)","(22.285, 114.158)",5,8
+Sai Kung,Eastern,22.4,114.267,22.283,114.233,13.4,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,245.7,81.9,37,"(22.4, 114.267)","(22.283, 114.233)",5,10
+Sai Kung,Eastern,22.4,114.267,22.283,114.233,13.4,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,280.7,93.6,37,"(22.4, 114.267)","(22.283, 114.233)",5,10
+Sai Kung,Islands,22.4,114.267,22.267,113.95,35.8,new_territories,None,0,374.4,124.8,59,"(22.4, 114.267)","(22.267, 113.95)",5,2
+Sai Kung,Kowloon City,22.4,114.267,22.323,114.188,11.8,new_territories,Tate's Cairn Tunnel,20,172.9,57.6,31,"(22.4, 114.267)","(22.323, 114.188)",5,17
+Sai Kung,Kowloon City,22.4,114.267,22.323,114.188,11.8,new_territories,Lion Rock Tunnel,8,160.9,53.6,31,"(22.4, 114.267)","(22.323, 114.188)",5,17
+Sai Kung,Kwai Tsing,22.4,114.267,22.358,114.125,15.3,new_territories,Tai Lam Tunnel,55,251.8,83.9,41,"(22.4, 114.267)","(22.358, 114.125)",5,5
+Sai Kung,Kwun Tong,22.4,114.267,22.31,114.225,10.9,new_territories,Tate's Cairn Tunnel,20,168.4,56.1,32,"(22.4, 114.267)","(22.31, 114.225)",5,6
+Sai Kung,Kwun Tong,22.4,114.267,22.31,114.225,10.9,new_territories,Lion Rock Tunnel,8,156.4,52.1,32,"(22.4, 114.267)","(22.31, 114.225)",5,6
+Sai Kung,North District,22.4,114.267,22.5,114.133,17.7,new_territories,None,0,199.9,66.6,34,"(22.4, 114.267)","(22.5, 114.133)",5,0
+Sai Kung,Sai Kung,22.4,114.267,22.4,114.267,0.0,new_territories,None,0,25.5,8.5,0,"(22.4, 114.267)","(22.4, 114.267)",5,5
+Sai Kung,Sham Shui Po,22.4,114.267,22.333,114.167,12.7,new_territories,Tate's Cairn Tunnel,20,186.9,62.3,35,"(22.4, 114.267)","(22.333, 114.167)",5,8
+Sai Kung,Sham Shui Po,22.4,114.267,22.333,114.167,12.7,new_territories,Lion Rock Tunnel,8,174.9,58.3,35,"(22.4, 114.267)","(22.333, 114.167)",5,8
+Sai Kung,Sha Tin,22.4,114.267,22.383,114.2,7.2,new_territories,None,0,121.9,40.6,25,"(22.4, 114.267)","(22.383, 114.2)",5,6
+Sai Kung,Southern District,22.4,114.267,22.242,114.15,21.2,new_territories,None,0,249.5,83.2,47,"(22.4, 114.267)","(22.242, 114.15)",5,4
+Sai Kung,Tai Po,22.4,114.267,22.45,114.167,11.7,new_territories,None,0,154.1,51.4,32,"(22.4, 114.267)","(22.45, 114.167)",5,2
+Sai Kung,Tsuen Wan,22.4,114.267,22.367,114.117,15.9,new_territories,Tai Lam Tunnel,55,253.6,84.5,40,"(22.4, 114.267)","(22.367, 114.117)",5,4
+Sai Kung,Tuen Mun,22.4,114.267,22.4,113.975,30.1,new_territories,Tai Lam Tunnel,55,375.8,125.3,52,"(22.4, 114.267)","(22.4, 113.975)",5,2
+Sai Kung,Wan Chai,22.4,114.267,22.278,114.178,16.3,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,277.5,92.5,43,"(22.4, 114.267)","(22.278, 114.178)",5,7
+Sai Kung,Wan Chai,22.4,114.267,22.278,114.178,16.3,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,312.5,104.2,43,"(22.4, 114.267)","(22.278, 114.178)",5,7
+Sai Kung,Wong Tai Sin,22.4,114.267,22.342,114.183,10.8,new_territories,Tate's Cairn Tunnel,20,171.5,57.2,34,"(22.4, 114.267)","(22.342, 114.183)",5,3
+Sai Kung,Wong Tai Sin,22.4,114.267,22.342,114.183,10.8,new_territories,Lion Rock Tunnel,8,159.5,53.2,34,"(22.4, 114.267)","(22.342, 114.183)",5,3
+Sai Kung,Yau Tsim Mong,22.4,114.267,22.3,114.175,14.6,new_territories,Tate's Cairn Tunnel,20,209.5,69.8,40,"(22.4, 114.267)","(22.3, 114.175)",5,9
+Sai Kung,Yau Tsim Mong,22.4,114.267,22.3,114.175,14.6,new_territories,Lion Rock Tunnel,8,197.5,65.8,40,"(22.4, 114.267)","(22.3, 114.175)",5,9
+Sai Kung,Yuen Long,22.4,114.267,22.433,114.033,24.4,new_territories,Tai Lam Tunnel,55,326.4,108.8,47,"(22.4, 114.267)","(22.433, 114.033)",5,1
+Sham Shui Po,Central and Western,22.333,114.167,22.285,114.158,5.4,urban,Western Harbour Crossing,50,152.5,50.8,18,"(22.333, 114.167)","(22.285, 114.158)",8,8
+Sham Shui Po,Central and Western,22.333,114.167,22.285,114.158,5.4,urban,Cross-Harbour Tunnel,50,152.5,50.8,18,"(22.333, 114.167)","(22.285, 114.158)",8,8
+Sham Shui Po,Eastern,22.333,114.167,22.283,114.233,8.8,urban,Eastern Harbour Crossing,50,192.1,64.0,20,"(22.333, 114.167)","(22.283, 114.233)",8,10
+Sham Shui Po,Eastern,22.333,114.167,22.283,114.233,8.8,urban,Cross-Harbour Tunnel,50,192.1,64.0,20,"(22.333, 114.167)","(22.283, 114.233)",8,10
+Sham Shui Po,Islands,22.333,114.167,22.267,113.95,23.5,urban,None,0,275.6,91.9,34,"(22.333, 114.167)","(22.267, 113.95)",8,2
+Sham Shui Po,Kowloon City,22.333,114.167,22.323,114.188,2.4,urban,None,0,54.5,18.2,10,"(22.333, 114.167)","(22.323, 114.188)",8,17
+Sham Shui Po,Kwai Tsing,22.333,114.167,22.358,114.125,5.1,urban,Tai Lam Tunnel,55,150.5,50.2,16,"(22.333, 114.167)","(22.358, 114.125)",8,5
+Sham Shui Po,Kwun Tong,22.333,114.167,22.31,114.225,6.5,urban,None,0,111.9,37.3,17,"(22.333, 114.167)","(22.31, 114.225)",8,6
+Sham Shui Po,North District,22.333,114.167,22.5,114.133,18.8,urban,Tate's Cairn Tunnel,20,250.0,83.3,28,"(22.333, 114.167)","(22.5, 114.133)",8,0
+Sham Shui Po,North District,22.333,114.167,22.5,114.133,18.8,urban,Lion Rock Tunnel,8,238.0,79.3,28,"(22.333, 114.167)","(22.5, 114.133)",8,0
+Sham Shui Po,Sai Kung,22.333,114.167,22.4,114.267,12.7,urban,Tate's Cairn Tunnel,20,226.1,75.4,37,"(22.333, 114.167)","(22.4, 114.267)",8,5
+Sham Shui Po,Sai Kung,22.333,114.167,22.4,114.267,12.7,urban,Lion Rock Tunnel,8,214.1,71.4,37,"(22.333, 114.167)","(22.4, 114.267)",8,5
+Sham Shui Po,Sham Shui Po,22.333,114.167,22.333,114.167,0.0,urban,None,0,29.0,9.7,0,"(22.333, 114.167)","(22.333, 114.167)",8,8
+Sham Shui Po,Sha Tin,22.333,114.167,22.383,114.2,6.5,urban,Tate's Cairn Tunnel,20,123.5,41.2,13,"(22.333, 114.167)","(22.383, 114.2)",8,6
+Sham Shui Po,Sha Tin,22.333,114.167,22.383,114.2,6.5,urban,Lion Rock Tunnel,8,111.5,37.2,13,"(22.333, 114.167)","(22.383, 114.2)",8,6
+Sham Shui Po,Sha Tin,22.333,114.167,22.383,114.2,6.5,urban,Eagle's Nest Tunnel,8,111.5,37.2,13,"(22.333, 114.167)","(22.383, 114.2)",8,6
+Sham Shui Po,Southern District,22.333,114.167,22.242,114.15,10.2,urban,None,0,155.2,51.7,21,"(22.333, 114.167)","(22.242, 114.15)",8,4
+Sham Shui Po,Tai Po,22.333,114.167,22.45,114.167,13.0,urban,Tate's Cairn Tunnel,20,204.8,68.3,26,"(22.333, 114.167)","(22.45, 114.167)",8,2
+Sham Shui Po,Tai Po,22.333,114.167,22.45,114.167,13.0,urban,Lion Rock Tunnel,8,192.8,64.3,26,"(22.333, 114.167)","(22.45, 114.167)",8,2
+Sham Shui Po,Tsuen Wan,22.333,114.167,22.367,114.117,6.4,urban,Tai Lam Tunnel,55,159.4,53.1,14,"(22.333, 114.167)","(22.367, 114.117)",8,4
+Sham Shui Po,Tuen Mun,22.333,114.167,22.4,113.975,21.1,urban,Tai Lam Tunnel,55,301.1,100.4,28,"(22.333, 114.167)","(22.4, 113.975)",8,2
+Sham Shui Po,Wan Chai,22.333,114.167,22.278,114.178,6.2,urban,Cross-Harbour Tunnel,50,158.7,52.9,17,"(22.333, 114.167)","(22.278, 114.178)",8,7
+Sham Shui Po,Wong Tai Sin,22.333,114.167,22.342,114.183,1.9,urban,None,0,54.2,18.1,12,"(22.333, 114.167)","(22.342, 114.183)",8,3
+Sham Shui Po,Yau Tsim Mong,22.333,114.167,22.3,114.175,3.7,urban,None,0,76.7,25.6,14,"(22.333, 114.167)","(22.3, 114.175)",8,9
+Sham Shui Po,Yuen Long,22.333,114.167,22.433,114.033,17.7,urban,Tai Lam Tunnel,55,281.4,93.8,30,"(22.333, 114.167)","(22.433, 114.033)",8,1
+Sha Tin,Central and Western,22.383,114.2,22.285,114.158,11.7,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,203.2,67.7,21,"(22.383, 114.2)","(22.285, 114.158)",6,8
+Sha Tin,Central and Western,22.383,114.2,22.285,114.158,11.7,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,238.2,79.4,21,"(22.383, 114.2)","(22.285, 114.158)",6,8
+Sha Tin,Central and Western,22.383,114.2,22.285,114.158,11.7,new_territories,"Cross-Harbour Tunnel, Eagle's Nest Tunnel",58,191.2,63.7,21,"(22.383, 114.2)","(22.285, 114.158)",6,8
+Sha Tin,Eastern,22.383,114.2,22.283,114.233,11.6,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,206.3,68.8,23,"(22.383, 114.2)","(22.283, 114.233)",6,10
+Sha Tin,Eastern,22.383,114.2,22.283,114.233,11.6,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,241.3,80.4,23,"(22.383, 114.2)","(22.283, 114.233)",6,10
+Sha Tin,Eastern,22.383,114.2,22.283,114.233,11.6,new_territories,"Cross-Harbour Tunnel, Eagle's Nest Tunnel",58,194.3,64.8,23,"(22.383, 114.2)","(22.283, 114.233)",6,10
+Sha Tin,Islands,22.383,114.2,22.267,113.95,28.8,new_territories,None,0,283.3,94.4,37,"(22.383, 114.2)","(22.267, 113.95)",6,2
+Sha Tin,Kowloon City,22.383,114.2,22.323,114.188,6.8,new_territories,Tate's Cairn Tunnel,20,119.2,39.7,15,"(22.383, 114.2)","(22.323, 114.188)",6,17
+Sha Tin,Kowloon City,22.383,114.2,22.323,114.188,6.8,new_territories,Lion Rock Tunnel,8,107.2,35.7,15,"(22.383, 114.2)","(22.323, 114.188)",6,17
+Sha Tin,Kowloon City,22.383,114.2,22.323,114.188,6.8,new_territories,Eagle's Nest Tunnel,8,107.2,35.7,15,"(22.383, 114.2)","(22.323, 114.188)",6,17
+Sha Tin,Kwai Tsing,22.383,114.2,22.358,114.125,8.2,new_territories,Tai Lam Tunnel,55,171.7,57.2,18,"(22.383, 114.2)","(22.358, 114.125)",6,5
+Sha Tin,Kwai Tsing,22.383,114.2,22.358,114.125,8.2,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,179.7,59.9,18,"(22.383, 114.2)","(22.358, 114.125)",6,5
+Sha Tin,Kwun Tong,22.383,114.2,22.31,114.225,8.5,new_territories,Tate's Cairn Tunnel,20,136.7,45.6,18,"(22.383, 114.2)","(22.31, 114.225)",6,6
+Sha Tin,Kwun Tong,22.383,114.2,22.31,114.225,8.5,new_territories,Lion Rock Tunnel,8,124.7,41.6,18,"(22.383, 114.2)","(22.31, 114.225)",6,6
+Sha Tin,Kwun Tong,22.383,114.2,22.31,114.225,8.5,new_territories,Eagle's Nest Tunnel,8,124.7,41.6,18,"(22.383, 114.2)","(22.31, 114.225)",6,6
+Sha Tin,North District,22.383,114.2,22.5,114.133,14.7,new_territories,Eagle's Nest Tunnel,8,150.7,50.2,15,"(22.383, 114.2)","(22.5, 114.133)",6,0
+Sha Tin,Sai Kung,22.383,114.2,22.4,114.267,7.2,new_territories,Eagle's Nest Tunnel,8,131.8,43.9,26,"(22.383, 114.2)","(22.4, 114.267)",6,5
+Sha Tin,Sham Shui Po,22.383,114.2,22.333,114.167,6.5,new_territories,Tate's Cairn Tunnel,20,120.5,40.2,17,"(22.383, 114.2)","(22.333, 114.167)",6,8
+Sha Tin,Sham Shui Po,22.383,114.2,22.333,114.167,6.5,new_territories,Lion Rock Tunnel,8,108.5,36.2,17,"(22.383, 114.2)","(22.333, 114.167)",6,8
+Sha Tin,Sham Shui Po,22.383,114.2,22.333,114.167,6.5,new_territories,Eagle's Nest Tunnel,8,108.5,36.2,17,"(22.383, 114.2)","(22.333, 114.167)",6,8
+Sha Tin,Sha Tin,22.383,114.2,22.383,114.2,0.0,new_territories,Eagle's Nest Tunnel,8,33.5,11.2,0,"(22.383, 114.2)","(22.383, 114.2)",6,6
+Sha Tin,Southern District,22.383,114.2,22.242,114.15,16.4,new_territories,None,0,179.8,59.9,28,"(22.383, 114.2)","(22.242, 114.15)",6,4
+Sha Tin,Tai Po,22.383,114.2,22.45,114.167,8.2,new_territories,Eagle's Nest Tunnel,8,115.2,38.4,13,"(22.383, 114.2)","(22.45, 114.167)",6,2
+Sha Tin,Tsuen Wan,22.383,114.2,22.367,114.117,8.7,new_territories,Tai Lam Tunnel,55,167.9,56.0,16,"(22.383, 114.2)","(22.367, 114.117)",6,4
+Sha Tin,Tsuen Wan,22.383,114.2,22.367,114.117,8.7,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,175.9,58.6,16,"(22.383, 114.2)","(22.367, 114.117)",6,4
+Sha Tin,Tuen Mun,22.383,114.2,22.4,113.975,23.2,new_territories,Tai Lam Tunnel,55,284.3,94.8,29,"(22.383, 114.2)","(22.4, 113.975)",6,2
+Sha Tin,Tuen Mun,22.383,114.2,22.4,113.975,23.2,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,292.3,97.4,29,"(22.383, 114.2)","(22.4, 113.975)",6,2
+Sha Tin,Wan Chai,22.383,114.2,22.278,114.178,11.8,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,210.0,70.0,24,"(22.383, 114.2)","(22.278, 114.178)",6,7
+Sha Tin,Wan Chai,22.383,114.2,22.278,114.178,11.8,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,245.0,81.7,24,"(22.383, 114.2)","(22.278, 114.178)",6,7
+Sha Tin,Wan Chai,22.383,114.2,22.278,114.178,11.8,new_territories,"Cross-Harbour Tunnel, Eagle's Nest Tunnel",58,198.0,66.0,24,"(22.383, 114.2)","(22.278, 114.178)",6,7
+Sha Tin,Wong Tai Sin,22.383,114.2,22.342,114.183,4.9,new_territories,Tate's Cairn Tunnel,20,101.2,33.7,15,"(22.383, 114.2)","(22.342, 114.183)",6,3
+Sha Tin,Wong Tai Sin,22.383,114.2,22.342,114.183,4.9,new_territories,Lion Rock Tunnel,8,89.2,29.7,15,"(22.383, 114.2)","(22.342, 114.183)",6,3
+Sha Tin,Wong Tai Sin,22.383,114.2,22.342,114.183,4.9,new_territories,Eagle's Nest Tunnel,8,89.2,29.7,15,"(22.383, 114.2)","(22.342, 114.183)",6,3
+Sha Tin,Yau Tsim Mong,22.383,114.2,22.3,114.175,9.5,new_territories,Tate's Cairn Tunnel,20,142.4,47.5,21,"(22.383, 114.2)","(22.3, 114.175)",6,9
+Sha Tin,Yau Tsim Mong,22.383,114.2,22.3,114.175,9.5,new_territories,Lion Rock Tunnel,8,130.4,43.5,21,"(22.383, 114.2)","(22.3, 114.175)",6,9
+Sha Tin,Yau Tsim Mong,22.383,114.2,22.3,114.175,9.5,new_territories,Eagle's Nest Tunnel,8,130.4,43.5,21,"(22.383, 114.2)","(22.3, 114.175)",6,9
+Sha Tin,Yuen Long,22.383,114.2,22.433,114.033,18.1,new_territories,Tai Lam Tunnel,55,246.2,82.1,28,"(22.383, 114.2)","(22.433, 114.033)",6,1
+Sha Tin,Yuen Long,22.383,114.2,22.433,114.033,18.1,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,254.2,84.7,28,"(22.383, 114.2)","(22.433, 114.033)",6,1
+Southern District,Central and Western,22.242,114.15,22.285,114.158,4.8,urban,None,0,94.4,31.5,17,"(22.242, 114.15)","(22.285, 114.158)",4,8
+Southern District,Eastern,22.242,114.15,22.283,114.233,9.7,urban,None,0,151.4,50.5,21,"(22.242, 114.15)","(22.283, 114.233)",4,10
+Southern District,Islands,22.242,114.15,22.267,113.95,20.8,urban,None,0,283.8,94.6,47,"(22.242, 114.15)","(22.267, 113.95)",4,2
+Southern District,Kowloon City,22.242,114.15,22.323,114.188,9.8,urban,None,0,154.2,51.4,22,"(22.242, 114.15)","(22.323, 114.188)",4,17
+Southern District,Kwai Tsing,22.242,114.15,22.358,114.125,13.1,urban,None,0,194.2,64.7,30,"(22.242, 114.15)","(22.358, 114.125)",4,5
+Southern District,Kwun Tong,22.242,114.15,22.31,114.225,10.8,urban,None,0,169.6,56.5,26,"(22.242, 114.15)","(22.31, 114.225)",4,6
+Southern District,North District,22.242,114.15,22.5,114.133,28.6,urban,None,0,328.1,109.4,42,"(22.242, 114.15)","(22.5, 114.133)",4,0
+Southern District,Sai Kung,22.242,114.15,22.4,114.267,21.2,urban,None,0,291.1,97.0,49,"(22.242, 114.15)","(22.4, 114.267)",4,5
+Southern District,Sham Shui Po,22.242,114.15,22.333,114.167,10.2,urban,None,0,167.8,55.9,27,"(22.242, 114.15)","(22.333, 114.167)",4,8
+Southern District,Sha Tin,22.242,114.15,22.383,114.2,16.4,urban,None,0,211.3,70.4,27,"(22.242, 114.15)","(22.383, 114.2)",4,6
+Southern District,Southern District,22.242,114.15,22.242,114.15,0.0,urban,None,0,29.0,9.7,0,"(22.242, 114.15)","(22.242, 114.15)",4,4
+Southern District,Tai Po,22.242,114.15,22.45,114.167,23.1,urban,None,0,285.2,95.1,40,"(22.242, 114.15)","(22.45, 114.167)",4,2
+Southern District,Tsuen Wan,22.242,114.15,22.367,114.117,14.3,urban,None,0,200.2,66.7,29,"(22.242, 114.15)","(22.367, 114.117)",4,4
+Southern District,Tuen Mun,22.242,114.15,22.4,113.975,25.1,urban,None,0,305.7,101.9,43,"(22.242, 114.15)","(22.4, 113.975)",4,2
+Southern District,Wan Chai,22.242,114.15,22.278,114.178,4.9,urban,None,0,89.1,29.7,14,"(22.242, 114.15)","(22.278, 114.178)",4,7
+Southern District,Wong Tai Sin,22.242,114.15,22.342,114.183,11.6,urban,None,0,173.1,57.7,25,"(22.242, 114.15)","(22.342, 114.183)",4,3
+Southern District,Yau Tsim Mong,22.242,114.15,22.3,114.175,6.9,urban,None,0,126.9,42.3,22,"(22.242, 114.15)","(22.3, 114.175)",4,9
+Southern District,Yuen Long,22.242,114.15,22.433,114.033,24.3,urban,None,0,300.2,100.1,43,"(22.242, 114.15)","(22.433, 114.033)",4,1
+Tai Po,Central and Western,22.45,114.167,22.285,114.158,18.3,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,264.7,88.2,29,"(22.45, 114.167)","(22.285, 114.158)",2,8
+Tai Po,Central and Western,22.45,114.167,22.285,114.158,18.3,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,299.7,99.9,29,"(22.45, 114.167)","(22.285, 114.158)",2,8
+Tai Po,Eastern,22.45,114.167,22.283,114.233,19.7,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,272.6,90.9,28,"(22.45, 114.167)","(22.283, 114.233)",2,10
+Tai Po,Eastern,22.45,114.167,22.283,114.233,19.7,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,307.6,102.5,28,"(22.45, 114.167)","(22.283, 114.233)",2,10
+Tai Po,Islands,22.45,114.167,22.267,113.95,30.2,new_territories,None,0,306.3,102.1,44,"(22.45, 114.167)","(22.267, 113.95)",2,2
+Tai Po,Kowloon City,22.45,114.167,22.323,114.188,14.2,new_territories,Tate's Cairn Tunnel,20,169.1,56.4,20,"(22.45, 114.167)","(22.323, 114.188)",2,17
+Tai Po,Kowloon City,22.45,114.167,22.323,114.188,14.2,new_territories,Lion Rock Tunnel,8,157.1,52.4,20,"(22.45, 114.167)","(22.323, 114.188)",2,17
+Tai Po,Kwai Tsing,22.45,114.167,22.358,114.125,11.1,new_territories,Tai Lam Tunnel,55,193.4,64.5,26,"(22.45, 114.167)","(22.358, 114.125)",2,5
+Tai Po,Kwun Tong,22.45,114.167,22.31,114.225,16.6,new_territories,Tate's Cairn Tunnel,20,191.5,63.8,23,"(22.45, 114.167)","(22.31, 114.225)",2,6
+Tai Po,Kwun Tong,22.45,114.167,22.31,114.225,16.6,new_territories,Lion Rock Tunnel,8,179.5,59.8,23,"(22.45, 114.167)","(22.31, 114.225)",2,6
+Tai Po,North District,22.45,114.167,22.5,114.133,6.5,new_territories,None,0,91.5,30.5,12,"(22.45, 114.167)","(22.5, 114.133)",2,0
+Tai Po,Sai Kung,22.45,114.167,22.4,114.267,11.7,new_territories,None,0,150.3,50.1,30,"(22.45, 114.167)","(22.4, 114.267)",2,5
+Tai Po,Sham Shui Po,22.45,114.167,22.333,114.167,13.0,new_territories,Tate's Cairn Tunnel,20,165.9,55.3,23,"(22.45, 114.167)","(22.333, 114.167)",2,8
+Tai Po,Sham Shui Po,22.45,114.167,22.333,114.167,13.0,new_territories,Lion Rock Tunnel,8,153.9,51.3,23,"(22.45, 114.167)","(22.333, 114.167)",2,8
+Tai Po,Sha Tin,22.45,114.167,22.383,114.2,8.2,new_territories,None,0,107.2,35.7,13,"(22.45, 114.167)","(22.383, 114.2)",2,6
+Tai Po,Southern District,22.45,114.167,22.242,114.15,23.1,new_territories,None,0,239.7,79.9,35,"(22.45, 114.167)","(22.242, 114.15)",2,4
+Tai Po,Tai Po,22.45,114.167,22.45,114.167,0.0,new_territories,None,0,25.5,8.5,0,"(22.45, 114.167)","(22.45, 114.167)",2,2
+Tai Po,Tsuen Wan,22.45,114.167,22.367,114.117,10.5,new_territories,Tai Lam Tunnel,55,185.8,61.9,24,"(22.45, 114.167)","(22.367, 114.117)",2,4
+Tai Po,Tuen Mun,22.45,114.167,22.4,113.975,20.5,new_territories,Tai Lam Tunnel,55,271.0,90.3,32,"(22.45, 114.167)","(22.4, 113.975)",2,2
+Tai Po,Wan Chai,22.45,114.167,22.278,114.178,19.1,new_territories,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,272.1,90.7,30,"(22.45, 114.167)","(22.278, 114.178)",2,7
+Tai Po,Wan Chai,22.45,114.167,22.278,114.178,19.1,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,307.1,102.4,30,"(22.45, 114.167)","(22.278, 114.178)",2,7
+Tai Po,Wong Tai Sin,22.45,114.167,22.342,114.183,12.1,new_territories,Tate's Cairn Tunnel,20,157.8,52.6,22,"(22.45, 114.167)","(22.342, 114.183)",2,3
+Tai Po,Wong Tai Sin,22.45,114.167,22.342,114.183,12.1,new_territories,Lion Rock Tunnel,8,145.8,48.6,22,"(22.45, 114.167)","(22.342, 114.183)",2,3
+Tai Po,Yau Tsim Mong,22.45,114.167,22.3,114.175,16.6,new_territories,Tate's Cairn Tunnel,20,201.1,67.0,28,"(22.45, 114.167)","(22.3, 114.175)",2,9
+Tai Po,Yau Tsim Mong,22.45,114.167,22.3,114.175,16.6,new_territories,Lion Rock Tunnel,8,189.1,63.0,28,"(22.45, 114.167)","(22.3, 114.175)",2,9
+Tai Po,Yuen Long,22.45,114.167,22.433,114.033,13.9,new_territories,Tai Lam Tunnel,55,211.5,70.5,25,"(22.45, 114.167)","(22.433, 114.033)",2,1
+Tsuen Wan,Central and Western,22.367,114.117,22.285,114.158,10.0,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,219.8,73.3,17,"(22.367, 114.117)","(22.285, 114.158)",4,8
+Tsuen Wan,Eastern,22.367,114.117,22.283,114.233,15.1,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,270.0,90.0,25,"(22.367, 114.117)","(22.283, 114.233)",4,10
+Tsuen Wan,Islands,22.367,114.117,22.267,113.95,20.5,new_territories,None,0,206.0,68.7,27,"(22.367, 114.117)","(22.267, 113.95)",4,2
+Tsuen Wan,Kowloon City,22.367,114.117,22.323,114.188,8.8,new_territories,Tai Lam Tunnel,55,175.5,58.5,20,"(22.367, 114.117)","(22.323, 114.188)",4,17
+Tsuen Wan,Kwai Tsing,22.367,114.117,22.358,114.125,1.3,new_territories,None,0,38.8,12.9,7,"(22.367, 114.117)","(22.358, 114.125)",4,5
+Tsuen Wan,Kwun Tong,22.367,114.117,22.31,114.225,12.8,new_territories,Tai Lam Tunnel,55,195.9,65.3,21,"(22.367, 114.117)","(22.31, 114.225)",4,6
+Tsuen Wan,North District,22.367,114.117,22.5,114.133,14.8,new_territories,Tai Lam Tunnel,55,217.7,72.6,25,"(22.367, 114.117)","(22.5, 114.133)",4,0
+Tsuen Wan,Sai Kung,22.367,114.117,22.4,114.267,15.9,new_territories,Tai Lam Tunnel,55,249.8,83.3,38,"(22.367, 114.117)","(22.4, 114.267)",4,5
+Tsuen Wan,Sham Shui Po,22.367,114.117,22.333,114.167,6.4,new_territories,Tai Lam Tunnel,55,148.7,49.6,14,"(22.367, 114.117)","(22.333, 114.167)",4,8
+Tsuen Wan,Sha Tin,22.367,114.117,22.383,114.2,8.7,new_territories,Tai Lam Tunnel,55,169.8,56.6,17,"(22.367, 114.117)","(22.383, 114.2)",4,6
+Tsuen Wan,Sha Tin,22.367,114.117,22.383,114.2,8.7,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,177.8,59.3,17,"(22.367, 114.117)","(22.383, 114.2)",4,6
+Tsuen Wan,Southern District,22.367,114.117,22.242,114.15,14.3,new_territories,None,0,162.6,54.2,27,"(22.367, 114.117)","(22.242, 114.15)",4,4
+Tsuen Wan,Tai Po,22.367,114.117,22.45,114.167,10.5,new_territories,Tai Lam Tunnel,55,187.7,62.6,25,"(22.367, 114.117)","(22.45, 114.167)",4,2
+Tsuen Wan,Tsuen Wan,22.367,114.117,22.367,114.117,0.0,new_territories,None,0,25.5,8.5,0,"(22.367, 114.117)","(22.367, 114.117)",4,4
+Tsuen Wan,Tuen Mun,22.367,114.117,22.4,113.975,15.1,new_territories,None,0,156.9,52.3,21,"(22.367, 114.117)","(22.4, 113.975)",4,2
+Tsuen Wan,Wan Chai,22.367,114.117,22.278,114.178,11.7,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,242.0,80.7,23,"(22.367, 114.117)","(22.278, 114.178)",4,7
+Tsuen Wan,Wong Tai Sin,22.367,114.117,22.342,114.183,7.3,new_territories,Tai Lam Tunnel,55,165.4,55.1,18,"(22.367, 114.117)","(22.342, 114.183)",4,3
+Tsuen Wan,Yau Tsim Mong,22.367,114.117,22.3,114.175,9.5,new_territories,Tai Lam Tunnel,55,171.7,57.2,18,"(22.367, 114.117)","(22.3, 114.175)",4,9
+Tsuen Wan,Yuen Long,22.367,114.117,22.433,114.033,11.3,new_territories,None,0,132.6,44.2,22,"(22.367, 114.117)","(22.433, 114.033)",4,1
+Tuen Mun,Central and Western,22.4,113.975,22.285,114.158,22.7,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,340.3,113.4,34,"(22.4, 113.975)","(22.285, 114.158)",2,8
+Tuen Mun,Eastern,22.4,113.975,22.283,114.233,29.6,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,403.3,134.4,42,"(22.4, 113.975)","(22.283, 114.233)",2,10
+Tuen Mun,Islands,22.4,113.975,22.267,113.95,15.0,new_territories,None,0,180.8,60.3,34,"(22.4, 113.975)","(22.267, 113.95)",2,2
+Tuen Mun,Kowloon City,22.4,113.975,22.323,114.188,23.5,new_territories,Tai Lam Tunnel,55,301.6,100.5,37,"(22.4, 113.975)","(22.323, 114.188)",2,17
+Tuen Mun,Kwai Tsing,22.4,113.975,22.358,114.125,16.1,new_territories,None,0,171.9,57.3,25,"(22.4, 113.975)","(22.358, 114.125)",2,5
+Tuen Mun,Kwun Tong,22.4,113.975,22.31,114.225,27.6,new_territories,Tai Lam Tunnel,55,333.9,111.3,39,"(22.4, 113.975)","(22.31, 114.225)",2,6
+Tuen Mun,North District,22.4,113.975,22.5,114.133,19.7,new_territories,Tai Lam Tunnel,55,246.0,82.0,22,"(22.4, 113.975)","(22.5, 114.133)",2,0
+Tuen Mun,Sai Kung,22.4,113.975,22.4,114.267,30.1,new_territories,Tai Lam Tunnel,55,379.6,126.5,54,"(22.4, 113.975)","(22.4, 114.267)",2,5
+Tuen Mun,Sham Shui Po,22.4,113.975,22.333,114.167,21.1,new_territories,Tai Lam Tunnel,55,273.2,91.1,31,"(22.4, 113.975)","(22.333, 114.167)",2,8
+Tuen Mun,Sha Tin,22.4,113.975,22.383,114.2,23.2,new_territories,Tai Lam Tunnel,55,290.0,96.7,32,"(22.4, 113.975)","(22.383, 114.2)",2,6
+Tuen Mun,Sha Tin,22.4,113.975,22.383,114.2,23.2,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,298.0,99.3,32,"(22.4, 113.975)","(22.383, 114.2)",2,6
+Tuen Mun,Southern District,22.4,113.975,22.242,114.15,25.1,new_territories,None,0,271.0,90.3,44,"(22.4, 113.975)","(22.242, 114.15)",2,4
+Tuen Mun,Tai Po,22.4,113.975,22.45,114.167,20.5,new_territories,Tai Lam Tunnel,55,274.8,91.6,34,"(22.4, 113.975)","(22.45, 114.167)",2,2
+Tuen Mun,Tsuen Wan,22.4,113.975,22.367,114.117,15.1,new_territories,None,0,160.7,53.6,23,"(22.4, 113.975)","(22.367, 114.117)",2,4
+Tuen Mun,Tuen Mun,22.4,113.975,22.4,113.975,0.0,new_territories,None,0,25.5,8.5,0,"(22.4, 113.975)","(22.4, 113.975)",2,2
+Tuen Mun,Wan Chai,22.4,113.975,22.278,114.178,24.9,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,366.8,122.3,40,"(22.4, 113.975)","(22.278, 114.178)",2,7
+Tuen Mun,Wong Tai Sin,22.4,113.975,22.342,114.183,22.4,new_territories,Tai Lam Tunnel,55,289.6,96.5,35,"(22.4, 113.975)","(22.342, 114.183)",2,3
+Tuen Mun,Yau Tsim Mong,22.4,113.975,22.3,114.175,23.4,new_territories,Tai Lam Tunnel,55,296.7,98.9,35,"(22.4, 113.975)","(22.3, 114.175)",2,9
+Tuen Mun,Yuen Long,22.4,113.975,22.433,114.033,7.0,new_territories,None,0,99.6,33.2,14,"(22.4, 113.975)","(22.433, 114.033)",2,1
+Wan Chai,Central and Western,22.278,114.178,22.285,114.158,2.2,urban,None,0,45.8,15.3,7,"(22.278, 114.178)","(22.285, 114.158)",7,8
+Wan Chai,Eastern,22.278,114.178,22.283,114.233,5.7,urban,None,0,93.0,31.0,12,"(22.278, 114.178)","(22.283, 114.233)",7,10
+Wan Chai,Islands,22.278,114.178,22.267,113.95,23.5,urban,None,0,284.0,94.7,38,"(22.278, 114.178)","(22.267, 113.95)",7,2
+Wan Chai,Kowloon City,22.278,114.178,22.323,114.188,5.1,urban,Cross-Harbour Tunnel,50,145.0,48.3,16,"(22.278, 114.178)","(22.323, 114.188)",7,17
+Wan Chai,Kwai Tsing,22.278,114.178,22.358,114.125,10.4,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,261.4,87.1,21,"(22.278, 114.178)","(22.358, 114.125)",7,5
+Wan Chai,Kwun Tong,22.278,114.178,22.31,114.225,6.0,urban,Eastern Harbour Crossing,50,154.6,51.5,16,"(22.278, 114.178)","(22.31, 114.225)",7,6
+Wan Chai,Kwun Tong,22.278,114.178,22.31,114.225,6.0,urban,Cross-Harbour Tunnel,50,154.6,51.5,16,"(22.278, 114.178)","(22.31, 114.225)",7,6
+Wan Chai,North District,22.278,114.178,22.5,114.133,25.0,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,358.1,119.4,35,"(22.278, 114.178)","(22.5, 114.133)",7,0
+Wan Chai,North District,22.278,114.178,22.5,114.133,25.0,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,393.1,131.0,35,"(22.278, 114.178)","(22.5, 114.133)",7,0
+Wan Chai,Sai Kung,22.278,114.178,22.4,114.267,16.3,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,307.8,102.6,40,"(22.278, 114.178)","(22.4, 114.267)",7,5
+Wan Chai,Sai Kung,22.278,114.178,22.4,114.267,16.3,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,342.8,114.3,40,"(22.278, 114.178)","(22.4, 114.267)",7,5
+Wan Chai,Sham Shui Po,22.278,114.178,22.333,114.167,6.2,urban,Cross-Harbour Tunnel,50,165.0,55.0,20,"(22.278, 114.178)","(22.333, 114.167)",7,8
+Wan Chai,Sha Tin,22.278,114.178,22.383,114.2,11.8,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,234.4,78.1,20,"(22.278, 114.178)","(22.383, 114.2)",7,6
+Wan Chai,Sha Tin,22.278,114.178,22.383,114.2,11.8,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,269.4,89.8,20,"(22.278, 114.178)","(22.383, 114.2)",7,6
+Wan Chai,Sha Tin,22.278,114.178,22.383,114.2,11.8,urban,"Cross-Harbour Tunnel, Eagle's Nest Tunnel",58,222.4,74.1,20,"(22.278, 114.178)","(22.383, 114.2)",7,6
+Wan Chai,Southern District,22.278,114.178,22.242,114.15,4.9,urban,None,0,84.9,28.3,12,"(22.278, 114.178)","(22.242, 114.15)",7,4
+Wan Chai,Tai Po,22.278,114.178,22.45,114.167,19.1,urban,"Cross-Harbour Tunnel, Tate's Cairn Tunnel",70,312.4,104.1,33,"(22.278, 114.178)","(22.45, 114.167)",7,2
+Wan Chai,Tai Po,22.278,114.178,22.45,114.167,19.1,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,347.4,115.8,33,"(22.278, 114.178)","(22.45, 114.167)",7,2
+Wan Chai,Tsuen Wan,22.278,114.178,22.367,114.117,11.7,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,266.2,88.7,19,"(22.278, 114.178)","(22.367, 114.117)",7,4
+Wan Chai,Tuen Mun,22.278,114.178,22.4,113.975,24.9,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,388.1,129.4,33,"(22.278, 114.178)","(22.4, 113.975)",7,2
+Wan Chai,Wan Chai,22.278,114.178,22.278,114.178,0.0,urban,None,0,29.0,9.7,0,"(22.278, 114.178)","(22.278, 114.178)",7,7
+Wan Chai,Wong Tai Sin,22.278,114.178,22.342,114.183,7.1,urban,Cross-Harbour Tunnel,50,172.5,57.5,19,"(22.278, 114.178)","(22.342, 114.183)",7,3
+Wan Chai,Yau Tsim Mong,22.278,114.178,22.3,114.175,2.5,urban,Cross-Harbour Tunnel,50,115.3,38.4,15,"(22.278, 114.178)","(22.3, 114.175)",7,9
+Wan Chai,Yuen Long,22.278,114.178,22.433,114.033,22.8,urban,"Western Harbour Crossing, Tai Lam Tunnel",105,375.2,125.1,34,"(22.278, 114.178)","(22.433, 114.033)",7,1
+Wong Tai Sin,Central and Western,22.342,114.183,22.285,114.158,6.8,urban,Western Harbour Crossing,50,165.3,55.1,17,"(22.342, 114.183)","(22.285, 114.158)",3,8
+Wong Tai Sin,Central and Western,22.342,114.183,22.285,114.158,6.8,urban,Cross-Harbour Tunnel,50,165.3,55.1,17,"(22.342, 114.183)","(22.285, 114.158)",3,8
+Wong Tai Sin,Eastern,22.342,114.183,22.283,114.233,8.3,urban,Eastern Harbour Crossing,50,185.3,61.8,19,"(22.342, 114.183)","(22.283, 114.233)",3,10
+Wong Tai Sin,Eastern,22.342,114.183,22.283,114.233,8.3,urban,Cross-Harbour Tunnel,50,185.3,61.8,19,"(22.342, 114.183)","(22.283, 114.233)",3,10
+Wong Tai Sin,Islands,22.342,114.183,22.267,113.95,25.4,urban,None,0,288.7,96.2,34,"(22.342, 114.183)","(22.267, 113.95)",3,2
+Wong Tai Sin,Kowloon City,22.342,114.183,22.323,114.188,2.2,urban,None,0,49.6,16.5,9,"(22.342, 114.183)","(22.323, 114.188)",3,17
+Wong Tai Sin,Kwai Tsing,22.342,114.183,22.358,114.125,6.2,urban,Tai Lam Tunnel,55,162.0,54.0,16,"(22.342, 114.183)","(22.358, 114.125)",3,5
+Wong Tai Sin,Kwun Tong,22.342,114.183,22.31,114.225,5.6,urban,None,0,91.9,30.6,12,"(22.342, 114.183)","(22.31, 114.225)",3,6
+Wong Tai Sin,North District,22.342,114.183,22.5,114.133,18.2,urban,Tate's Cairn Tunnel,20,237.6,79.2,24,"(22.342, 114.183)","(22.5, 114.133)",3,0
+Wong Tai Sin,North District,22.342,114.183,22.5,114.133,18.2,urban,Lion Rock Tunnel,8,225.6,75.2,24,"(22.342, 114.183)","(22.5, 114.133)",3,0
+Wong Tai Sin,Sai Kung,22.342,114.183,22.4,114.267,10.8,urban,Tate's Cairn Tunnel,20,202.1,67.4,32,"(22.342, 114.183)","(22.4, 114.267)",3,5
+Wong Tai Sin,Sai Kung,22.342,114.183,22.4,114.267,10.8,urban,Lion Rock Tunnel,8,190.1,63.4,32,"(22.342, 114.183)","(22.4, 114.267)",3,5
+Wong Tai Sin,Sham Shui Po,22.342,114.183,22.333,114.167,1.9,urban,None,0,47.9,16.0,9,"(22.342, 114.183)","(22.333, 114.167)",3,8
+Wong Tai Sin,Sha Tin,22.342,114.183,22.383,114.2,4.9,urban,Tate's Cairn Tunnel,20,98.0,32.7,9,"(22.342, 114.183)","(22.383, 114.2)",3,6
+Wong Tai Sin,Sha Tin,22.342,114.183,22.383,114.2,4.9,urban,Lion Rock Tunnel,8,86.0,28.7,9,"(22.342, 114.183)","(22.383, 114.2)",3,6
+Wong Tai Sin,Sha Tin,22.342,114.183,22.383,114.2,4.9,urban,Eagle's Nest Tunnel,8,86.0,28.7,9,"(22.342, 114.183)","(22.383, 114.2)",3,6
+Wong Tai Sin,Southern District,22.342,114.183,22.242,114.15,11.6,urban,None,0,162.6,54.2,20,"(22.342, 114.183)","(22.242, 114.15)",3,4
+Wong Tai Sin,Tai Po,22.342,114.183,22.45,114.167,12.1,urban,Tate's Cairn Tunnel,20,190.2,63.4,22,"(22.342, 114.183)","(22.45, 114.167)",3,2
+Wong Tai Sin,Tai Po,22.342,114.183,22.45,114.167,12.1,urban,Lion Rock Tunnel,8,178.2,59.4,22,"(22.342, 114.183)","(22.45, 114.167)",3,2
+Wong Tai Sin,Tsuen Wan,22.342,114.183,22.367,114.117,7.3,urban,Tai Lam Tunnel,55,169.5,56.5,14,"(22.342, 114.183)","(22.367, 114.117)",3,4
+Wong Tai Sin,Tuen Mun,22.342,114.183,22.4,113.975,22.4,urban,Tai Lam Tunnel,55,309.9,103.3,28,"(22.342, 114.183)","(22.4, 113.975)",3,2
+Wong Tai Sin,Wan Chai,22.342,114.183,22.278,114.178,7.1,urban,Cross-Harbour Tunnel,50,166.2,55.4,16,"(22.342, 114.183)","(22.278, 114.178)",3,7
+Wong Tai Sin,Wong Tai Sin,22.342,114.183,22.342,114.183,0.0,urban,None,0,29.0,9.7,0,"(22.342, 114.183)","(22.342, 114.183)",3,3
+Wong Tai Sin,Yau Tsim Mong,22.342,114.183,22.3,114.175,4.7,urban,None,0,84.9,28.3,13,"(22.342, 114.183)","(22.3, 114.175)",3,9
+Wong Tai Sin,Yuen Long,22.342,114.183,22.433,114.033,18.4,urban,Tai Lam Tunnel,55,286.6,95.5,30,"(22.342, 114.183)","(22.433, 114.033)",3,1
+Yau Tsim Mong,Central and Western,22.3,114.175,22.285,114.158,2.4,urban,Western Harbour Crossing,50,112.7,37.6,14,"(22.3, 114.175)","(22.285, 114.158)",9,8
+Yau Tsim Mong,Central and Western,22.3,114.175,22.285,114.158,2.4,urban,Cross-Harbour Tunnel,50,112.7,37.6,14,"(22.3, 114.175)","(22.285, 114.158)",9,8
+Yau Tsim Mong,Eastern,22.3,114.175,22.283,114.233,6.3,urban,Eastern Harbour Crossing,50,157.4,52.5,16,"(22.3, 114.175)","(22.283, 114.233)",9,10
+Yau Tsim Mong,Eastern,22.3,114.175,22.283,114.233,6.3,urban,Cross-Harbour Tunnel,50,157.4,52.5,16,"(22.3, 114.175)","(22.283, 114.233)",9,10
+Yau Tsim Mong,Islands,22.3,114.175,22.267,113.95,23.5,urban,None,0,281.5,93.8,37,"(22.3, 114.175)","(22.267, 113.95)",9,2
+Yau Tsim Mong,Kowloon City,22.3,114.175,22.323,114.188,2.9,urban,None,0,59.2,19.7,10,"(22.3, 114.175)","(22.323, 114.188)",9,17
+Yau Tsim Mong,Kwai Tsing,22.3,114.175,22.358,114.125,8.2,urban,Tai Lam Tunnel,55,189.3,63.1,19,"(22.3, 114.175)","(22.358, 114.125)",9,5
+Yau Tsim Mong,Kwun Tong,22.3,114.175,22.31,114.225,5.3,urban,None,0,92.7,30.9,14,"(22.3, 114.175)","(22.31, 114.225)",9,6
+Yau Tsim Mong,North District,22.3,114.175,22.5,114.133,22.6,urban,Tate's Cairn Tunnel,20,278.4,92.8,29,"(22.3, 114.175)","(22.5, 114.133)",9,0
+Yau Tsim Mong,North District,22.3,114.175,22.5,114.133,22.6,urban,Lion Rock Tunnel,8,266.4,88.8,29,"(22.3, 114.175)","(22.5, 114.133)",9,0
+Yau Tsim Mong,Sai Kung,22.3,114.175,22.4,114.267,14.6,urban,Tate's Cairn Tunnel,20,239.2,79.7,37,"(22.3, 114.175)","(22.4, 114.267)",9,5
+Yau Tsim Mong,Sai Kung,22.3,114.175,22.4,114.267,14.6,urban,Lion Rock Tunnel,8,227.2,75.7,37,"(22.3, 114.175)","(22.4, 114.267)",9,5
+Yau Tsim Mong,Sham Shui Po,22.3,114.175,22.333,114.167,3.7,urban,None,0,78.8,26.3,15,"(22.3, 114.175)","(22.333, 114.167)",9,8
+Yau Tsim Mong,Sha Tin,22.3,114.175,22.383,114.2,9.5,urban,Tate's Cairn Tunnel,20,157.8,52.6,15,"(22.3, 114.175)","(22.383, 114.2)",9,6
+Yau Tsim Mong,Sha Tin,22.3,114.175,22.383,114.2,9.5,urban,Lion Rock Tunnel,8,145.8,48.6,15,"(22.3, 114.175)","(22.383, 114.2)",9,6
+Yau Tsim Mong,Sha Tin,22.3,114.175,22.383,114.2,9.5,urban,Eagle's Nest Tunnel,8,145.8,48.6,15,"(22.3, 114.175)","(22.383, 114.2)",9,6
+Yau Tsim Mong,Southern District,22.3,114.175,22.242,114.15,6.9,urban,None,0,116.4,38.8,17,"(22.3, 114.175)","(22.242, 114.15)",9,4
+Yau Tsim Mong,Tai Po,22.3,114.175,22.45,114.167,16.6,urban,Tate's Cairn Tunnel,20,234.7,78.2,28,"(22.3, 114.175)","(22.45, 114.167)",9,2
+Yau Tsim Mong,Tai Po,22.3,114.175,22.45,114.167,16.6,urban,Lion Rock Tunnel,8,222.7,74.2,28,"(22.3, 114.175)","(22.45, 114.167)",9,2
+Yau Tsim Mong,Tsuen Wan,22.3,114.175,22.367,114.117,9.5,urban,Tai Lam Tunnel,55,196.9,65.6,17,"(22.3, 114.175)","(22.367, 114.117)",9,4
+Yau Tsim Mong,Tuen Mun,22.3,114.175,22.4,113.975,23.4,urban,Tai Lam Tunnel,55,325.4,108.5,32,"(22.3, 114.175)","(22.4, 113.975)",9,2
+Yau Tsim Mong,Wan Chai,22.3,114.175,22.278,114.178,2.5,urban,Cross-Harbour Tunnel,50,111.1,37.0,13,"(22.3, 114.175)","(22.278, 114.178)",9,7
+Yau Tsim Mong,Wong Tai Sin,22.3,114.175,22.342,114.183,4.7,urban,None,0,84.9,28.3,13,"(22.3, 114.175)","(22.342, 114.183)",9,3
+Yau Tsim Mong,Yau Tsim Mong,22.3,114.175,22.3,114.175,0.0,urban,None,0,29.0,9.7,0,"(22.3, 114.175)","(22.3, 114.175)",9,9
+Yau Tsim Mong,Yuen Long,22.3,114.175,22.433,114.033,20.8,urban,Tai Lam Tunnel,55,309.1,103.0,33,"(22.3, 114.175)","(22.433, 114.033)",9,1
+Yuen Long,Central and Western,22.433,114.033,22.285,114.158,20.8,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,327.0,109.0,34,"(22.433, 114.033)","(22.285, 114.158)",1,8
+Yuen Long,Eastern,22.433,114.033,22.283,114.233,26.5,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,381.5,127.2,42,"(22.433, 114.033)","(22.283, 114.233)",1,10
+Yuen Long,Islands,22.433,114.033,22.267,113.95,20.3,new_territories,None,0,225.6,75.2,38,"(22.433, 114.033)","(22.267, 113.95)",1,2
+Yuen Long,Kowloon City,22.433,114.033,22.323,114.188,20.1,new_territories,Tai Lam Tunnel,55,277.4,92.5,37,"(22.433, 114.033)","(22.323, 114.188)",1,17
+Yuen Long,Kwai Tsing,22.433,114.033,22.358,114.125,12.6,new_territories,None,0,147.2,49.1,25,"(22.433, 114.033)","(22.358, 114.125)",1,5
+Yuen Long,Kwun Tong,22.433,114.033,22.31,114.225,24.0,new_territories,Tai Lam Tunnel,55,308.7,102.9,39,"(22.433, 114.033)","(22.31, 114.225)",1,6
+Yuen Long,North District,22.433,114.033,22.5,114.133,12.7,new_territories,Tai Lam Tunnel,55,187.6,62.5,17,"(22.433, 114.033)","(22.5, 114.133)",1,0
+Yuen Long,Sai Kung,22.433,114.033,22.4,114.267,24.4,new_territories,Tai Lam Tunnel,55,330.2,110.1,49,"(22.433, 114.033)","(22.4, 114.267)",1,5
+Yuen Long,Sham Shui Po,22.433,114.033,22.333,114.167,17.7,new_territories,Tai Lam Tunnel,55,249.3,83.1,31,"(22.433, 114.033)","(22.333, 114.167)",1,8
+Yuen Long,Sha Tin,22.433,114.033,22.383,114.2,18.1,new_territories,Tai Lam Tunnel,55,255.7,85.2,33,"(22.433, 114.033)","(22.383, 114.2)",1,6
+Yuen Long,Sha Tin,22.433,114.033,22.383,114.2,18.1,new_territories,"Eagle's Nest Tunnel, Tai Lam Tunnel",63,263.7,87.9,33,"(22.433, 114.033)","(22.383, 114.2)",1,6
+Yuen Long,Southern District,22.433,114.033,22.242,114.15,24.3,new_territories,None,0,265.5,88.5,44,"(22.433, 114.033)","(22.242, 114.15)",1,4
+Yuen Long,Tai Po,22.433,114.033,22.45,114.167,13.9,new_territories,Tai Lam Tunnel,55,221.0,73.7,30,"(22.433, 114.033)","(22.45, 114.167)",1,2
+Yuen Long,Tsuen Wan,22.433,114.033,22.367,114.117,11.3,new_territories,None,0,134.5,44.8,23,"(22.433, 114.033)","(22.367, 114.117)",1,4
+Yuen Long,Tuen Mun,22.433,114.033,22.4,113.975,7.0,new_territories,None,0,105.3,35.1,17,"(22.433, 114.033)","(22.4, 113.975)",1,2
+Yuen Long,Wan Chai,22.433,114.033,22.278,114.178,22.8,new_territories,"Western Harbour Crossing, Tai Lam Tunnel",105,351.8,117.3,40,"(22.433, 114.033)","(22.278, 114.178)",1,7
+Yuen Long,Wong Tai Sin,22.433,114.033,22.342,114.183,18.4,new_territories,Tai Lam Tunnel,55,262.1,87.4,35,"(22.433, 114.033)","(22.342, 114.183)",1,3
+Yuen Long,Yau Tsim Mong,22.433,114.033,22.3,114.175,20.8,new_territories,Tai Lam Tunnel,55,278.3,92.8,35,"(22.433, 114.033)","(22.3, 114.175)",1,9
+Yuen Long,Yuen Long,22.433,114.033,22.433,114.033,0.0,new_territories,None,0,25.5,8.5,0,"(22.433, 114.033)","(22.433, 114.033)",1,1
